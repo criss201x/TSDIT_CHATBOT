@@ -151,3 +151,78 @@ nlu:
     - hasta cuando puedo cancelar materias
     - en que fechas puedo cancelar materias
 
+- intent: nor/solicitud_cancelar_semestre
+  examples: |
+    - como puedo cancelar semestre?
+    - necesito cancelar semestre
+    - solicito una cancelacion de semestre
+    - no puedo continuar este semestre
+    - puedo retirarme temporalmente? 
+    - necesito cancelar el semestre actual  
+    - no puedo renovar matricula este semestre    
+
+- intent: nor/fecha_extratemporanea
+  examples: |
+    - cuales son las fechas para hacer la cancelacion de semestre
+    - en que fechas puedo hacer la cancelacion de semestre
+    - en que fechas puedo realizar el proceso de cancelacion de semestre 
+    - cuando puedo hacer la cancelacion de semestre
+    - en que fechas puedo cancelar semestre 
+    - hasta cuando puedo hacer la cancelacion de semestre
+    - cuando es la fecha limite para cancelar semestre 
+    - cuando es el ultimo dia para cancelar semestre
+
+- intent: ret/solicitar_retiro_definitivo
+  examples: |
+    - quiero retirarme de la Universidad
+    - no quiero volver a la universidad 
+    - quiero hacer retiro definitivo de la universidad
+    - quiero retirarme de la carrera
+    - como puedo retirarme de la universidad
+    - quiero salirme de la universidad
+    - como puedo cambiarme de carrera 
+    - quiero cambiarme de carrera
+    - necesito cambiarme de carrera
+    - quiero cambiarme a ingenieria de sistemas
+
+- intent: ret/solicitar_cancelacion_extemporanea
+  examples: |
+    - como puedo cancelar semestre si ya pasaron las fechas 
+    - puedo cancelar semestre a dia de hoy? 
+    - necesito aplazar semestre pero el semestre ya comenzo
+    - no puedo continuar este semestre pero el semestre ya inicio
+    - ya hice el pago de la matricula pero no puedo continuar estudiando
+    - como puedo aplazar semestre si ya pasaron las fechas de pago de matricula 
+    - necesito cancelar semestre pero el semestre ya comenzo
+
+- intent: not/solicitar_certificado_notas
+  examples: |
+    - necesito un certificado de notas
+    - necesito una sabana de notas
+    - solicito un certificado de notas
+    - solicito una certificado de sabana de notas 
+    - donde puedo descargar un certificado de notas
+    - necesito un certificado fisico de notas 
+    - necesito una certificacion de mis calificaciones
+
+- intent: not/valor_certificado
+  examples: |
+    - que costo tiene este certificado? 
+    - cual es el costo de los derechos pecunarios? 
+    - cuanto vale el certificado de notas? 
+    - cuanto vale el certificado de sabana de notas?
+    - que costo tiene el certificado de notas?
+    - cuanto debo pagar por el certificado de notas?
+    - cuanto cuestan los derechos pecunarios para este certificado
+
+
+- intent: not/medio_pago
+  examples: |
+    - donde debo pagar el certificado de notas? 
+    - cuales son los medios de pago para el certificado de notas? 
+    - puedo pagar este certificado por pse? 
+    - en que banco puedo hacer el pago? 
+    - cual es el numero de cuenta para pagar?
+    - solo se puede por banco de occidente? 
+    - donde puedo hacer el pago por pse? 
+

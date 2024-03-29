@@ -25,3 +25,18 @@ rules:
     steps:
     - intent: can
     - action: utter_can
+
+  - rule: cancelacion semestre
+    steps:
+    - intent: nor
+    - action: utter_nor    
+
+  - rule: retiro estudiantes
+    steps:
+    - intent: ret
+    - action: utter_ret
+
+  - rule: certificado de notas
+    steps:
+    - intent: not
+    - action: utter_not    

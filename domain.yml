@@ -9,6 +9,8 @@ intents:
       is_retrieval_intent: true
   - can:
       is_retrieval_intent: true      
+  - nor:
+      is_retrieval_intent: true            
   - nlu_fallback
   - saludar
   - despedir
@@ -21,7 +23,7 @@ intents:
 responses:
   
   utter_saludar:
-  - text: "¡Hola! Soy el asistente administrativo virtual del proyecto curricular de Tecnología en Sistematización de Datos e Ingeniería en Telemática de la Universidad Distrital Francisco José de Caldas, estoy aquí para ayudarte a resolver tus inquietudes acerca de los diferentes tramites administrativos que necesites realizar en la coordinación, a continuación puedo brindarte información acerca de los siguientes procesos: \n\t• Solicitud de validación\n\t• Adiciones y cancelaciones de materias\n\t• Solicitud de cancelación de semestre / no renovación de matricula\n\t• Solicitud de retiro (Voluntario Extemporáneo o Definitivo)\n\t• Certificado o sabana de notas\n\t• Certificados de estudio, contenidos programáticos (Syllabus), buena conducta\n\t• Formatos para modalidades de grado\n\t• Cronograma de proyectos / anteproyectos de grado\n\t• Formato adición y cancelación de asignaturas\n\t• Modalidad de profundización y posgrado\n\t• Terminación de materias\n\t• Exámen Saber T y T y Saber Pro\n\t• Ceremonia de grado\n\n ¡Hazme una pregunta!"
+  - text: "¡Hola! Soy el asistente administrativo virtual del proyecto curricular de Tecnología en Sistematización de Datos e Ingeniería en Telemática de la Universidad Distrital Francisco José de Caldas, estoy aquí para ayudarte a resolver tus inquietudes acerca de los diferentes tramites administrativos que necesites realizar en la coordinación, a continuación puedo brindarte información acerca de los siguientes procesos: \n\t• Solicitud de validación\n\t• cancelaciones de materias\n\t• Solicitud de cancelación de semestre / no renovación de matricula\n\t• Solicitud de retiro (Voluntario Extemporáneo o Definitivo)\n\t• Certificado o sabana de notas\n\t• Certificados de estudio, contenidos programáticos (Syllabus), buena conducta\n\t• Formatos para modalidades de grado\n\t• Cronograma de proyectos / anteproyectos de grado\n\t• Formato adición y cancelación de asignaturas\n\t• Modalidad de profundización y posgrado\n\t• Terminación de materias\n\t• Exámen Saber T y T y Saber Pro\n\t• Ceremonia de grado\n\n ¡Hazme una pregunta!"
 
   utter_animar:
   - text: "aqui hay algo para alegrarte :) "
@@ -53,6 +55,27 @@ responses:
 
   utter_can/fechas_cancelacion:
   - text: "Las fechas establecidas para cancelar materias este semestre están entre el 22 de enero a las 8:00 am hasta el 31 de enero a las 11:59 pm, recuerda que no puedes cancelar el espacio académico si lo estas repitiendo este semestre, ademas, si cancelas un espacio académico no podrás adicionarlo nuevamente este semestre."
+
+  utter_nor/solicitud_cancelar_semestre:
+  - text: "Para realizar el proceso de no renovación de matricula / cancelación de semestre recuerda que solo puedes hacerlo antes del vencimiento de la fecha extraordinaria de pago del recibo de matrícula, los pasos que debes hacer para la solicitud son los siguientes:\n\t1) Iniciar sesión con su correo institucional donde posteriormente debes acceder a un enlace donde esta el formulario de solicitud.\n\t2) Abrir el siguiente enlace https://forms.office.com/r/SfeS3Qwdvp el cual tiene el formulario de registro donde debes ingresar nombres, código y tipo de solicitud\n\t3) Remitir al correo de la coordinación (tecsistematizaciondatos@udistrital.edu.co) carta de solicitud de no renovación de matrícula, debidamente firmada y copia del recibo de matrícula sin efectuar el pago correspondiente."
+
+  utter_nor/fecha_extratemporanea:
+  - text: "Las fechas definidas para cancelar semestre están sujetas a las fechas de pago ordinario y pago extraordinario de matricula, las cuales, establecen que la fecha limite para pago ordinario es el día 16/01/2024 y para pago extraordinario es el día 26/01/2024."
+
+  utter_ret/solicitar_retiro_definitivo:
+  - text: "Para realizar el proceso de retiro definitivo del proyecto curricular al que te encuentras vinculado actualmente, debes remitir una carta de solicitud de retiro voluntario debidamente firmada, copia del recibo de matricula y los siguientes documentos de paz y salvo:\n\t1) Paz y Salvo de Bienestar Institucional, este puedes solicitarlo en: https://bienestar.udistrital.edu.co/node/634 opción de paz y salvos, para mas información puedes buscar la respectiva oficina en el primer piso del edificio Lectus.\n\t2) Paz y Salvo de Laboratorios de Informática, el cual lo puedes solicitar a través del correo labsistemastecno@udistrital.edu.co indicando los siguientes datos: nombre completo, código, tipo de documento de identidad, numero del documento de identidad, proyecto curricular, motivante por el cual se requiere el certificado de paz y salvo.\n\t3) Paz y Salvo de Biblioteca, el cual puedes solicitar a través del siguiente enlace http://sistemadebibliotecas.udistrital.edu.co:8000/servicios/paz_y_salvos. Para mas información la Biblioteca se encuentra ubicada en el Edificio Lectus, piso 2.\n\t4) Desde el correo electrónico institucional completa el siguiente formulario https://forms.office.com/r/SfeS3Qwdvp. Donde deberás adjuntar los documentos previamente mencionados."
+
+  utter_ret/solicitar_cancelacion_extemporanea:
+  - text: "Para realizar el proceso de cancelación o aplazamiento del semestre después del inicio del periodo académico actual del proyecto curricular al que te encuentras vinculado actualmente, debes remitir una carta de solicitud de retiro voluntario extemporáneo debidamente firmada, copia del recibo de matricula y los siguientes documentos de paz y salvo:\n\t1) Paz y Salvo de Bienestar Institucional, este puedes solicitarlo en: https://bienestar.udistrital.edu.co/node/634  opción de paz y salvos, para mas información puedes buscar la respectiva oficina en el primer piso del edificio Lectus.\n\t2) Paz y Salvo de Laboratorios de Informática, el cual lo puedes solicitar a través del correo labsistemastecno@udistrital.edu.co indicando los siguientes datos: nombre completo, código, tipo de documento de identidad, numero del documento de identidad, proyecto curricular, motivante por el cual se requiere el certificado de paz y salvo.\n\t3) Paz y Salvo de Biblioteca, el cual puedes solicitar a través del siguiente enlace http://sistemadebibliotecas.udistrital.edu.co:8000/servicios/paz_y_salvos. Para mas información la Biblioteca se encuentra ubicada en el Edificio Lectus, piso 2.\n\t4) Desde el correo electrónico institucional completa el siguiente formulario https://forms.office.com/r/SfeS3Qwdvp. Donde deberás adjuntar los documentos previamente mencionados."
+
+  utter_not/solicitar_certificado_notas:
+  - text: "Para obtener tu certificado de notas físico o digital debes realizar el pago por concepto de derecho pecuniario correspondiente de Certificado de Notas, código: 40, cuenta de ahorros: 230-81461-8, El respectivo pago se podrá realizar a través de las sucursales del banco de Occidente o por medio de Pagos Seguros en Línea (PSE).\n\nUna vez realizado el pago, deberás enviar la solicitud vía correo electrónico a sec-tecnologica@udistrital.edu.co, enviando en archivo adjunto el comprobante del pago realizado, con los siguientes datos: Nombre Completo, Número de Cedula, Código Estudiantil, Proyecto Curricular del cual requieres el certificado y tipo de solicitud (Certificado de Notas), puedes indicar si deseas el certificado de manera impresa o digital.\n\nSi necesitas el certificado de Notas de manera digital, será respondido de vuelta al correo electrónico del cual se realizó la solicitud, en un tiempo de tres (3) días desde el momento de recibida la solicitud en la Secretaría Académica. Recuerda que este tramite solo lo puedes hacer tu y no se responderán solicitudes a nombre de terceros.\n\nSi necesitas el certificado de Notas de manera impresa, en el cuerpo del correo hacer mención de esta intención. El certificado deberá ser recogido pasado tres (3) días hábiles desde el momento de recibida la solicitud en la Secretaría Académica de lunes a viernes de 9:30 a.m. a 12:30 p.m. y 2:00 p.m. a 4:30 p.m. Recuerda que debes mostrar el comprobante de consignación de la transacción realizada."
+
+  utter_not/valor_certificado:
+  - text: "El concepto por valor de pago pecuniario para el certificado de notas para el 2024 es de $21.600 este valor lo puede consultar en la CIRCULAR N° 001 (enero 11 del 2024) expedida por la Secretaría General: https://sgral.udistrital.edu.co/xdata/sgral/cir_2024-001.pdf"
+
+  utter_not/medio_pago:
+  - text: "Puedes realizar el pago del certificado de notas por medio de Pagos Seguros en Línea (PSE) a través del Sistema de gestión Académica o presencialmente a través de las sucursales del banco de Occidente, para realizar el pago por PSE debes seguir los pasos del siguiente instructivo: http://tecsistematizaciondatos.udistrital.edu.co:8080/documents/71022/14017354/Instructivo+DERECHOS+PECUNIARIOS+%28ESTUDIANTES_EGRESADOS%29+-+SGA+%282%29.pdf" 
 
 actions:
   - action_fallback

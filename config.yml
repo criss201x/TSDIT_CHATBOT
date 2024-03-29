@@ -36,7 +36,21 @@ pipeline: #null
     epochs: 100
     constrain_similarities: true
     retrieval_intent: can # retrieval_intent
-
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: nor # retrieval_intent
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: ret # retrieval_intent
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: not # retrieval_intent    
   - name: FallbackClassifier
     threshold: 0.93 #confguracion optima
     fallback_action: "action_fallback" # automatically gets triggered when fallback occurs
