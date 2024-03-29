@@ -1,0 +1,27 @@
+version: "3.1"
+
+rules:
+  - rule: Di adiós en cualquier momento si la usuaria dice adiós
+    steps:
+      - intent: despedir
+      - action: utter_despedir
+
+  - rule: Di "Soy un bot" cada vez que el usuario te desafíe.
+    steps:
+      - intent: reto_chatbot
+      - action: utter_iamabot
+
+  - rule: Fallback
+    steps:
+      - intent: nlu_fallback
+      - action: action_fallback
+
+  - rule: solicitud de validacion
+    steps:
+    - intent: val
+    - action: utter_val
+
+  - rule: cancelaciones de materias
+    steps:
+    - intent: can
+    - action: utter_can

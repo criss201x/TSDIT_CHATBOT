@@ -1,0 +1,153 @@
+version: "3.1"
+
+nlu:
+- intent: saludar 
+  examples: |  
+    - hola
+    - holi
+    - buen día
+    - buenos dias
+    - Buenas tardes
+    - buenas noches
+    - buenas buenas 
+
+
+- intent: despedir
+  examples: |
+    - hasta luego
+    - nos vemos luego
+    - chau
+    - adiós
+    - adios
+    - ok gracias
+    - bye
+
+- intent: afirmar
+  examples: |
+    - Sí
+    - ok
+    - en efecto
+    - por supuesto
+    - Eso suena bien
+    - correcto    
+    - afirmativo 
+    - si señor
+    - sizas
+    - vale
+    - claro
+
+- intent: negar
+  examples: |
+    - No
+    - no
+    - nunca
+    - No me parece
+    - no me gusta eso
+    - de ninguna manera
+    - no precisamente
+    - jamas
+    - nuu
+    - nah 
+    - nooooooooo
+    - no estoy de acuerdo     
+
+- intent: buen_humor
+  examples: |
+    - perfecto
+    - excelente
+    - asombroso
+    - que chimba
+    - maravilloso
+    - Me siento muy bien
+    - me siento genial
+    - estoy asombrado
+    - Voy a conquistar el mundo.
+    - súper entusiasmado
+    - extremadamente bueno
+    - tan tan perfecto
+    - tan bueno
+    - tan perfecto
+    - como nunca     
+
+- intent: mal_humor
+  examples: |
+    - mi día fue horrible
+    - Estoy triste
+    - no me siento muy bien
+    - Estoy decepcionado
+    - súper triste
+    - Estoy muy triste
+    - triste
+    - muy triste
+    - infeliz
+    - no es bueno
+    - no muy bueno
+    - extremadamente triste
+    - muy triste
+    - decepcionado
+    - no muy bien
+    - paila
+    - re paila  
+
+
+- intent: reto_chatbot
+  examples: |
+    - Eres un bot?
+    - Eres un humano?
+    - Estoy hablando con un robot?
+    - Estoy hablando con un humano?
+    - Eres una maquina? 
+    - Eres una persona? 
+
+- intent: val/que_es
+  examples: |
+    - que es la solicitud de validación?
+    - En que consiste la solicitud de validación?
+    - para que sirve la solicitud de validación?
+    - que es la validación 
+
+- intent: val/solicitar
+  examples: |
+    - necesito homolagar una materia
+    - necesito homolagar una asignatura
+    - necesito un examen de homogacion
+    - mecesitp hacer el examen de validacion de una materia
+    - necesito hacer la prueba de validacion 
+    - solicito validar una asignatura 
+    - solicito validar una materia
+    - como puedo hacer el proceso de validacion 
+
+- intent: val/segunda_lengua
+  examples: |
+    - puedo homologar ingles 1?
+    - puedo homologar ingles 2?
+    - puedo homologar ingles 3?
+    - necesito homologar segunda lengua 
+    - como puedo presentar el examen de nivelacion del ilud?
+    - necesito presentar el examen del ilud
+    - necesito hacer el examen de nivelacion de ingles 
+
+- intent: can/cancelaciones
+  examples: |
+    - necesito cancelar una materia
+    - necesito cancelar una asignatura
+    - quiero cancelar una materia
+    - quiero cancelar una asignatura
+    - quiero cancelar un espacio academico
+    - necesito cancelar un espacio academico 
+    - necesito cancelar calculo
+    - que hago si necesito cancelar una materia
+    - solicito una cancelacion de materias
+    - como puedo cancelar una materia
+    - como puedo cancelar una asignatura
+    - como puedo cancelar un espacio academico
+
+- intent: can/fechas_cancelacion
+  examples: |
+    - hasta cuando van las cancelaciones
+    - cual es la fecha limite para cancelar materias
+    - cuales son las fechas para cancelar materias
+    - hasta que dia puedo cancelar materias
+    - hasta cuando puedo cancelar materias
+    - en que fechas puedo cancelar materias
+

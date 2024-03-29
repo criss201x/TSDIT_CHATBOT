@@ -1,0 +1,58 @@
+version: "3.1"
+
+session_config:
+  session_expiration_time: 60  # Example: 60 minutes
+  carry_over_slots_to_new_session: true
+
+intents:
+  - val:
+      is_retrieval_intent: true
+  - can:
+      is_retrieval_intent: true      
+  - nlu_fallback
+  - saludar
+  - despedir
+  - afirmar
+  - negar
+  - buen_humor
+  - mal_humor
+  - reto_chatbot
+
+responses:
+  
+  utter_saludar:
+  - text: "¡Hola! Soy el asistente administrativo virtual del proyecto curricular de Tecnología en Sistematización de Datos e Ingeniería en Telemática de la Universidad Distrital Francisco José de Caldas, estoy aquí para ayudarte a resolver tus inquietudes acerca de los diferentes tramites administrativos que necesites realizar en la coordinación, a continuación puedo brindarte información acerca de los siguientes procesos: \n\t• Solicitud de validación\n\t• Adiciones y cancelaciones de materias\n\t• Solicitud de cancelación de semestre / no renovación de matricula\n\t• Solicitud de retiro (Voluntario Extemporáneo o Definitivo)\n\t• Certificado o sabana de notas\n\t• Certificados de estudio, contenidos programáticos (Syllabus), buena conducta\n\t• Formatos para modalidades de grado\n\t• Cronograma de proyectos / anteproyectos de grado\n\t• Formato adición y cancelación de asignaturas\n\t• Modalidad de profundización y posgrado\n\t• Terminación de materias\n\t• Exámen Saber T y T y Saber Pro\n\t• Ceremonia de grado\n\n ¡Hazme una pregunta!"
+
+  utter_animar:
+  - text: "aqui hay algo para alegrarte :) "
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_preguntar_satisfecho:
+  - text: "Eso te ayudo?"
+
+  utter_feliz:
+  - text: "Eso me agrada :) "
+
+  utter_despedir:
+  - text: "chau que estes bien"
+
+  utter_iamabot:
+  - text: "si, soy un bot"
+
+  utter_val/segunda_lengua:
+  - text: "Para los exámenes de Idoneidad Segunda Lengua se deben contemplar las siguientes recomendaciones:\n\t- Son cupos limitados para cada nivel de examen.\n\t- Se deben respetar las fechas establecidas; por tanto, se solicita no enviar estudiantes con oficios solicitando exámenes en fechas extemporáneas a menos que sea un caso extraordinario y aprobado por el Consejo Académico.\n\t- Las inscripciones para estas pruebas se realizarán por medio de la página web del ILUD: ilud.udistrital.edu.co.\n\t- El examen no tiene costo pero si lo reprueba el estudiante, se reporta y se envía respectivamente al proyecto curricular para que realicen el registro de la calificación que haya obtenido y deberá cursar el nivel reprobado en el siguiente semestre.\n\t- Recuerda revisar el calendario establecido para estos exámenes. "
+  
+  utter_val/solicitar:
+  - text: "Para proceder con la solicitud debes seguir los siguientes pasos \n\t1) Debes cumplir con los requisitos que aparecen en la resolución No. 27 (11de diciembre de 1995) del Consejo Académico y ver las condiciones para realizar la validación, ademas de cumplir las normas actuales establecidas por el concejo curricular del proyecto curricular de tecnología en sistematización de datos.\n\t2) Debes estar matriculado en el periodo académico en curso para presentar la prueba.\n\t3) Debes realizar una carta de solicitud ante consejo curricular indicando asignatura, nombre completo del estudiante, correo, número de contacto y código estudiantil.\n\t4) Enviar correo a la Coordinación del proyecto curricular (tecsistematizaciondatos@udistrital.edu.co).\n\t5) El examen sera ser presentado dentro de acuerdo a la aprobación por parte del Consejo Curricular."
+
+  utter_val/que_es:
+  - text: "El CSU define la prueba de validación como la que se presenta para acreditar la idoneidad del estudiante en relación con los contenidos o practicas propias de un espacio académico de acuerdo a lo estipulado en la Resolución No. 27 de 1995, recuerde que en esta resolución en su articulo 8 dice que para presentar las pruebas de validación el estudiante debe estar matriculado en el periodo académico correspondiente a la presentación de la prueba de validación, por lo que en consecuencia en caso de no aprobar la prueba de validación la asignatura correspondiente sera considerada como perdida dentro del periodo académico en el cual se presente la prueba."
+
+  utter_can/cancelaciones:
+  - text: "Recuerda que la cancelación de espacios académicos y cambios de grupo que se realiza en el sistema de gestión académica es por lo general hasta el ultimo día hábil anterior al inicio de clases y en algunos casos máximo hasta en primeras dos semanas del semestre activo, esto depende de lo establecido en el calendario académico, recuerda que los casos de cancelación en fecha extratemporanea es un proceso que se debe solicitar con su respectiva justificacion ante el concejo curricular."
+
+  utter_can/fechas_cancelacion:
+  - text: "Las fechas establecidas para cancelar materias este semestre están entre el 22 de enero a las 8:00 am hasta el 31 de enero a las 11:59 pm, recuerda que no puedes cancelar el espacio académico si lo estas repitiendo este semestre, ademas, si cancelas un espacio académico no podrás adicionarlo nuevamente este semestre."
+
+actions:
+  - action_fallback
