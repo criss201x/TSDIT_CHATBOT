@@ -218,11 +218,220 @@ nlu:
 
 - intent: not/medio_pago
   examples: |
-    - donde debo pagar el certificado de notas? 
-    - cuales son los medios de pago para el certificado de notas? 
+    - donde debo pagar el certificado? 
+    - cuales son los medios de pago para el certificado? 
     - puedo pagar este certificado por pse? 
     - en que banco puedo hacer el pago? 
     - cual es el numero de cuenta para pagar?
     - solo se puede por banco de occidente? 
     - donde puedo hacer el pago por pse? 
 
+- intent: cest/socilitar_certificado_estudio
+  examples: |
+    - como puedo sacar una certificacion de estudio
+    - solicito una certificacion de estudio
+    - necesito una constancia de estudio 
+    - solicito una constancia de estudio
+    - como puedo certificar que estoy estudiando en esta universidad
+    - como puedo sacar una constancia de estudio?
+    - necesito un certificado de estudio
+    - donde puedo obtener una certificacion de estudio
+
+- intent: cest/valor_certificado_estudio
+  examples: |
+    - que costo tiene el certificado de estudio?
+    - cual es el costo del certificado de estudio?
+    - cuanto vale el certificado de estudio? 
+    - cuanto debo pagar por el certificado de estudio?
+    - cuanto cuesta el certificado de estudio?          
+
+- intent: cest/solicitar_syllabus
+  examples: |
+    - donde puedo ver los contenidos de las materias
+    - necesito el syllabus de las materias
+    - que es el syllabus? 
+    - cual es el syllabus de la carrera 
+    - donde esta el syllabus del proyecto curricular
+    - donde estan los contenidos de las diferentes materias? 
+    - donde puedo ver los contenidos programaticos de la carrera? 
+    - donde estan los syllabus de las materias de la carrera? 
+
+- intent: for/preguntar_formatos
+  examples: |
+    - que son los formatos?
+    - para que sirven los formatos?
+    - cuales son los formatos? 
+    - que formatos hay?
+    - cuales son los formatos para modalidad de grado? 
+    - que formatos necesito para presentar propuesta de grado?
+    - en que formato va mi ante proyecto de grado? 
+    - necesito llenar un formato para presentar proyecto de grado?     
+
+- intent: for/preguntar_formato_monografia_pasantia
+  examples: |
+    - cual es el formato para monografia?
+    - cual es el formato para pasantia?
+    - cual es el formato para modalidad de investigacion e innovacion?
+    - que formato debo llenar para monografia?
+    - que formato debo llenar para pasantia?
+    - que formato debo llenar para modalidad de investigacion e innovacion?
+    - tienes el formato para monografia?
+    - tienes el formato para pasantia?
+    - tienes el formato para modalidad de investigacion e innovacion?
+    - tienes la carta de ante proyecto para monografia?
+    - tienes la carta de ante proyecto para pasantia?
+    - tienes la carta de ante proyecto para modalidad de investigacion e innovacion?
+    - donde puedo descargar el formato para monografia?
+    - donde puedo descargar el formato para para pasantia?
+    - donde puedo descargar el formato para para modalidad de investigacion e innovacion?
+    - necesito el formato para monografia
+    - necesito el formato para pasantia
+    - necesito el formato para modalidad de investigacion e innovacion
+
+- intent: for/preguntar_formato_emprendimiento
+  examples: |
+    - cual es la carta para la modalidad de emprendimiento
+    - cual es el formato para modalidad de emprendimiento
+    - que formato debo llenar para modalidad de emprendimiento
+    - tienes la carta para emprendimiento
+    - tienes el formato para modalidad de emprendimiento?
+    - donde puedo descargar el formato para modalidad de emprendimiento?
+
+- intent: for/preguntar_formato_produccion_academica
+  examples: |
+    - cual es el formato para produccion academica 
+    - que formato debo llenar para produccion academica 
+    - tienes el formato para produccion academica
+    - necesito el formato para produccion academica 
+    - cual es el formato para presentar articulo 
+    - que formato debo llenar para presentar un articulo
+    - tienes el formato para articulo 
+    - necesito un formato para presentar articulo
+
+- intent: for/preguntar_ayuda_tips
+  examples: |
+    - tengo dudas con mi ante proyecto 
+    - cuales son los anexos que van en mi ante proyecto 
+    - cuales son los anexos del ante proyecto proyecto
+    - como hacer correctamente el ante proyecto?
+    - puedes darme mas informacion acerca de los formatos de ante proyecto 
+    - dame mas informacion de los formatos de ante proyecto
+    - dame mas informacion de los anexos de los formatos de ante proyecto 
+
+
+- intent: for/preguntar_formato_carta_aval_anteproyecto
+  examples: |
+    - necesito la carta aval ante proyecto 
+    - cual es la carta aval ante proyecto
+    - donde puedo descargar la plantilla de la carta aval ante proyecto
+    - cual es el formato para la carta aval ante proyecto
+    - tienes la plantilla para carta aval ante proyecto
+    - tienes el formato para carta aval ante proyecto
+
+- intent: for/preguntar_formato_carta_aval_sustentacion
+  examples: |
+    - necesito la carta aval de sustentacion
+    - cual es la carta aval de sustentacion de proyecto de grado
+    - donde puesdo decargar la plantilla de carta aval proyecto de grado culminado
+    - cual es el formato de proyecto de grado terminado
+    - cual es la plantilla de carta aval de sustentacion de proyecto de grado
+    - tienes el formato para carta aval de sustentacion de proyecto de grado
+    - tienes la plantilla de carta aval de sustentacion de proyecto de grado 
+
+- intent: for/preguntar_formato_solicitud_prorroga
+  examples: |
+    - necesito una carta de solicitud de prorroga de trabajo de grado
+    - cual es la carta para solicitud de prorroga de trabajo de grado
+    - donde puedo descargar la plantilla de solicitud de prorroga proyecto de grado
+    - cual es el formato para solicitar prorroga del proyecto de grado
+    - cual es la plantilla para la solicitud de prorroga de proyecto de grado
+    - tienes el formato para hacer la solicitud de prorroga de proyecto de grado proyecrto
+    - tienes la plantilla de carta de solicitud de prorroga de proyecto de grado
+
+- intent: for/preguntar_formato_cumplimiento de objetivos
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+- intent: for/preguntar_formato_
+  examples: |
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 

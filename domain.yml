@@ -75,7 +75,46 @@ responses:
   - text: "El concepto por valor de pago pecuniario para el certificado de notas para el 2024 es de $21.600 este valor lo puede consultar en la CIRCULAR N° 001 (enero 11 del 2024) expedida por la Secretaría General: https://sgral.udistrital.edu.co/xdata/sgral/cir_2024-001.pdf"
 
   utter_not/medio_pago:
-  - text: "Puedes realizar el pago del certificado de notas por medio de Pagos Seguros en Línea (PSE) a través del Sistema de gestión Académica o presencialmente a través de las sucursales del banco de Occidente, para realizar el pago por PSE debes seguir los pasos del siguiente instructivo: http://tecsistematizaciondatos.udistrital.edu.co:8080/documents/71022/14017354/Instructivo+DERECHOS+PECUNIARIOS+%28ESTUDIANTES_EGRESADOS%29+-+SGA+%282%29.pdf" 
+  - text: "Puedes realizar el pago del certificado por medio de Pagos Seguros en Línea (PSE) a través del Sistema de gestión Académica o presencialmente a través de las sucursales del banco de Occidente, para realizar el pago por PSE debes seguir los pasos del siguiente instructivo: http://tecsistematizaciondatos.udistrital.edu.co:8080/documents/71022/14017354/Instructivo+DERECHOS+PECUNIARIOS+%28ESTUDIANTES_EGRESADOS%29+-+SGA+%282%29.pdf" 
+
+  utter_cest/socilitar_certificado_estudio:
+  - text: "Para obtener tu certificado de estudio debes realizar el pago por concepto de derecho pecuniario correspondiente de Certificado de Estudio, código: 41, cuenta de ahorros: 230-81461-8, El respectivo pago se podrá realizar a través de las sucursales del banco de Occidente o por medio de Pagos Seguros en Línea (PSE).\n\nUna vez hayas realizado el pago debes escanear y enviar el recibo de consignación o transacción realizada por PSE al correo tecsistematizaciondatos@udistrital.edu.co, donde debes especificar qué clase de certificado necesitas junto con datos como nombres completos, código estudiantil y número de Identificación.\n\nRecuerda desde el momento que se recibe copia de la consignación son tres (3) días  hábiles para recibir el certificado por correo."
+
+  utter_cest/valor_certificado_estudio:
+  - text: "El concepto por valor de pago pecuniario para el certificado de estudio para el 2024 es de $10.800 este valor lo puede consultar en la CIRCULAR N° 001 (enero 11 del 2024) expedida por la Secretaría General: https://sgral.udistrital.edu.co/xdata/sgral/cir_2024-001.pdf"
+
+  utter_cest/solicitar_syllabus:
+  - text: "Todos los contenidos programáticos (Syllabus) de cada asignatura del proyecto curricular los puedes encontrar en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/index.php/programa/syllabus"
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
+
+  utter_for/:
+  - text: ""
 
 actions:
   - action_fallback

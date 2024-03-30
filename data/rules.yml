@@ -40,3 +40,13 @@ rules:
     steps:
     - intent: not
     - action: utter_not    
+
+  - rule: certificado de estudios y syllabus
+    steps:
+    - intent: cest
+    - action: utter_cest        
+
+  - rule: formatos para modalidades de grado
+    steps:
+    - intent: for
+    - action: utter_for            
