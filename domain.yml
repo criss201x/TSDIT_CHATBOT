@@ -86,35 +86,42 @@ responses:
   utter_cest/solicitar_syllabus:
   - text: "Todos los contenidos programáticos (Syllabus) de cada asignatura del proyecto curricular los puedes encontrar en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/index.php/programa/syllabus"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formatos:
+  - text: "Los formatos de modalidad de proyecto de grado son una serie de documentos plantilla que te van a dar toda la orientación necesaria para para construir el documento entregable de ante proyecto según tu modalidad de grado, a continuación una lista de documentos disponibles que te pueden ayudar, pregunta por cualquiera.\n\t• Formato de ante proyecto para modalidad de monografía, pasantía y modalidad de investigación e innovación.\n\t• Formato de ante proyecto para modalidad de emprendimiento.\n\t• Formato de ante proyecto para modalidad de producción académica.\n\t• Formato carta aval anteproyecto.\n\t• Formato carta aval sustentación de proyecto.\n\t• Formato carta de solicitud de prorroga trabajo de grado.\n\t• Formato carta trabajo de grado culminado y cumplimiento de objetivos.\n\t• Formato carta solicitud cancelación proyecto de grado.\n\t• Formato de modificaciones de trabajo de grado aprobado.\n\t• Guía para presentación de artículos técnicos.\n\t• Metodologías para proyectos de grado.\n\t• Anexos, normativa, y mas información de ayuda."
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_monografia_pasantia:
+  - text: "Puedes descargar el formato de ante proyecto para monografía, pasantía o investigación e innovación en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-12/FORMATO%20DE%20MONOGRAFIA%20-%20PASANTIA%20-%20INVESTIGACION%20E%20INNOVACION.docx"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_emprendimiento:
+  - text: "Puedes descargar el formato de ante proyecto para modalidad de emprendimiento en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-10/FORMATO%20DE%20EMPRENDIMIENTO.doc"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_produccion_academica:
+  - text: "Puedes descargar el formato de ante proyecto para modalidad de producción academica en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-10/FORMATO%20DE%20PRODUCCION%20ACADEMICA.docx"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_ayuda_tips:
+  - text: "Puedes encontrar mas información acerca de los anexos de un proyecto, formatos, normativa, reglas y otra información de interés en los siguientes enlaces:\n\t• Anexos para los formatos de ante proyecto: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-10/ANEXOS%20A%20LOS%20FORMATOS%20DE%20ANTEPROYECTO.pdf\n\t• Acuerdo 001 de 2006 para la presentación de proyectos de grado: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/ACUERDO%20001%20DE%202006%20DE%20TRABAJOS%20DE%20GRADO.pdf\n\t• Reglamentación para proyectos de grado: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/Reglamento%20Proyecto%20de%20Grado%20acuerdo%2001%20de%202009.pdf"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_carta_aval_anteproyecto:
+  - text: "Puedes descargar el formato de carta aval ante proyecto de grado el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/CARTA%20AVAL%20ANTEPROYECTO.doc"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_carta_aval_sustentacion:
+  - text: "Puedes descargar el formato de carta aval sustentación de proyecto grado el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/CARTA%20AVAL%20SUSTENTACION.doc"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_solicitud_prorroga:
+  - text: "Puedes descargar el formato de solicitud prorroga proyecto grado el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/SOLICITUD%20DE%20PRORROGA%20TRABAJO%20DE%20GRADO.doc"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_cumplimiento_de_objetivos:
+  - text: "Puedes descargar el formato de carta de proyecto de grado culminado y cumplimiento de objetivos en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/FORMATO%20TRABAJO%20DE%20GRADO%20CULMINADO%20CUMPLIMIENTO%20DE%20OBJETIVOS%20.doc"
 
-  utter_for/:
-  - text: ""
+  utter_for/preguntar_formato_cancelacion_proyecto_de_grado:
+  - text: "Puedes descargar el formato de solicitud de cancelación de proyecto de grado en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/FORMATO%20CANCELACION%20DEL%20TRABAJO%20DE%20GRADO.doc"
 
-actions:
-  - action_fallback
+  utter_for/preguntar_formato_modificaciones_proyecto_de_grado_aprobado:
+  - text: "Puedes descargar el formato de modificaciones proyecto de grado aprobado en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/FORMATO%20PARA%20HACER%20MODIFICACIONES%20DEL%20TRABAJO%20GRADO%20APROBADO.doc"
+
+  utter_for/preguntar_formato_presentacion_articulos_tecnicos:
+  - text: "Puedes encontrar una guiá para la presentación de artículos técnicos en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/guia%20para%20presentacion%20de%20articulos%20tecnicos.pdf"
+
+  utter_for/preguntar_metodologia_proyectos_de_grado:
+  - text: "Puedes encontrar una guiá para las metodologías de proyecto de grado según tu modalidad en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/METODOLOGIA%20DE%20PROY%20DE%20GRADO.pdf"
+

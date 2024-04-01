@@ -265,7 +265,7 @@ nlu:
     - cuales son los formatos para modalidad de grado? 
     - que formatos necesito para presentar propuesta de grado?
     - en que formato va mi ante proyecto de grado? 
-    - necesito llenar un formato para presentar proyecto de grado?     
+    - necesito llenar un formato para presentar proyecto de grado?
 
 - intent: for/preguntar_formato_monografia_pasantia
   examples: |
@@ -317,6 +317,11 @@ nlu:
     - puedes darme mas informacion acerca de los formatos de ante proyecto 
     - dame mas informacion de los formatos de ante proyecto
     - dame mas informacion de los anexos de los formatos de ante proyecto 
+    - como puedo presentar mi proyecto de grado 
+    - como puedo radicar mi ante proyecto de grado?
+    - dame mas informacion acerca de las normas para proyectos de grado
+    - cuales normas hay para presentar proyecto de grado? 
+    - cuales son las reglas para presentar proyecto de grado? 
 
 
 - intent: for/preguntar_formato_carta_aval_anteproyecto
@@ -348,90 +353,52 @@ nlu:
     - tienes el formato para hacer la solicitud de prorroga de proyecto de grado proyecrto
     - tienes la plantilla de carta de solicitud de prorroga de proyecto de grado
 
-- intent: for/preguntar_formato_cumplimiento de objetivos
+- intent: for/preguntar_formato_cumplimiento_de_objetivos
   examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - necesito el formato de cumplimiento de objetivos proyecto de grado culminado
+    - cual es el formato para proyecto de grado culminado o cumplimiento de objetivos?
+    - donde puedo descargar la plantilla para el cumplimiento de objetivos proyecto de grado culminado?
+    - cual es el formato para proyecto de grado culminado o cumplimiento de objetivos?
+    - cual es la plantilla para cumplimiento de objetivos o proyecto de grado culminado?
+    - tienes el formato para cumplimiento de objetivos proyecto culminado
+    - tienes la plantilla para el formato de cumplimiento de objetivos 
 
-- intent: for/preguntar_formato_
+- intent: for/preguntar_formato_cancelacion_proyecto_de_grado
   examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - quiero cancelar mi proyecto de grado
+    - necesito cancelar proyecto de grado
+    - necesito el formato de cancelacion de proyecto de grado
+    - cual es el formato para cancelar proyecto de grado
+    - donde puedo descargar la plantilla para el formato de cancelacion de proyecto de grado
+    - cual es la plantilla para el formado de cancelacion de proyecto de grado
+    - tienes la plantilla para cancelacion de proyecto de grado 
 
-- intent: for/preguntar_formato_
+- intent: for/preguntar_formato_modificaciones_proyecto_de_grado_aprobado
   examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - quiero hacer modificaciones sobre mi proyecto de grado
+    - cual es el formato para hacer modificaciones en el proyecto
+    - cual es la plantilla para hacer modificaciones en el proyecto 
+    - necesito el formato para hacer modificaciones en el proyecto de grado
+    - quiero modificar mi proyecto de grado
+    - tienes la plantilla para modificaciones de proyecto de grado
+    - donde puedo descargar la plantilla para hacer modificaciones en el proyecto de grado
 
-- intent: for/preguntar_formato_
-  examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
 
-- intent: for/preguntar_formato_
+- intent: for/preguntar_formato_presentacion_articulos_tecnicos
   examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - necesito el formato para presentacion de articulos tecnicos
+    - cual es el formato para presentacion de articulos tecnicos
+    - donde puedo descargar la plantilla presentacion de articulos tecnicos
+    - cual es la plantilla para la presentacion de articulos tecnicos?
+    - quiero modificar un articulo cientifico
+    - quiero hacer modificaciones sobre mi articulo
+    - como puedo hacer modificaciones sobre mi articulo? 
 
-- intent: for/preguntar_formato_
+- intent: for/preguntar_metodologia_proyectos_de_grado
   examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-
-- intent: for/preguntar_formato_
-  examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-
-- intent: for/preguntar_formato_
-  examples: |
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - cuales son las metodologias para proyecto de grado
+    - que metodologias hay para proyectos de grado
+    - hay alguna guia para la metodologia de proyecto de grado?
+    - cuales metodologias hay para hacer proyecto de grado?
+    - cual es la guia para metodologias para proyecto de grado?
+    - donde puedo descarga la guia de metodologias para proyecto de grado? 
