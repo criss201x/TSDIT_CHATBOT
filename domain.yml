@@ -11,6 +11,15 @@ intents:
       is_retrieval_intent: true      
   - nor:
       is_retrieval_intent: true            
+  - ret:
+      is_retrieval_intent: true            
+  - not:
+      is_retrieval_intent: true            
+  - cest:
+      is_retrieval_intent: true            
+  - for:
+      is_retrieval_intent: true            
+
   - nlu_fallback
   - saludar
   - despedir
@@ -125,3 +134,77 @@ responses:
   utter_for/preguntar_metodologia_proyectos_de_grado:
   - text: "Puedes encontrar una guiá para las metodologías de proyecto de grado según tu modalidad en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-08/METODOLOGIA%20DE%20PROY%20DE%20GRADO.pdf"
 
+  utter_cron/preguntar_cronograma_anteproyectos:
+  - text: "Puedes encontrar el cronograma de anteproyectos de grado para el semestre actual en el siguiente documento online: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2024-02/CONVOCATORIAS%20PARA%20ENTREGA%20DE%20PROPUESTAS%20DE%20TRABAJO%20DE%20GRADO.pdf\n\nSi necesitas mas información acerca del cronograma de ante proyectos no dudes en preguntar!"
+
+  utter_cron/preguntar_cronograma_de_proyectos_terminados:
+  - text: "Puedes encontrar el cronograma de proyectos de grado culminados para el semestre actual en el siguiente documento online: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2024-02/CONVOCATORIAS%20PARA%20ENTREGA%20DE%20TRABAJO%20DE%20GRADO%20CULMINADO.pdf\n\nSi necesitas mas información acerca de este cronograma no dudes en preguntar!"
+
+  utter_cron/procedimiento_entrega_anteproyecto:
+  - text: "Para realizar el procedimiento de entrega de anteproyecto de grado tienes que tener en cuenta que solo puedes hacerlo en las 3 fechas establecidas, las cuales tienen una serie de pasos estrictamente definidos, los cuales son los siguientes:\n\t1. Un integrante del grupo debe realizar la preinscripción en el siguiente formulario: https://forms.office.com/r/EnKs2gWxTs \n\t2. La coordinación del proyecto curricular establece una plataforma de recepción de documentos de anteproyecto y posteriormente te notificara las instrucciones para subirlo y el jurado asignado.\n\t3. La coordinación te va notificar por correo electrónico el estado de la revisión de tu anteproyecto o las evaluaciones pertinentes por parte del jurado.\n\t4. Entregas el documento con las respectivas correcciones y la carta aval del anteproyecto con firmas en un solo documento al correo de la coordinación."
+
+  utter_cron/modalidades_de_grado:
+  - text: "Las modalidades de grado disponibles actualmente para el proyecto curricular son: pasantía, monografía, investigación e innovación, emprendimiento y producción académica, recuerda que cada modalidad tiene su propio formato, pregunta por cualquiera!"
+
+  utter_cron/documentos_necesarios_anteproyecto:
+  - text: "Para entregar tu propuesta de trabajo de grado tienes que tener en cuenta que solo puedes subir un pdf solo PDF o documento Word que no esté protegido con una contraseña y que contenga un texto seleccionable, No imágenes escaneadas.\n\nRecuerda que días previos a la fecha de entrega se te va indicar la plataforma donde debes subir subir la documentación según tu modalidad de grado, si no sabes el documento que debes subir puedes preguntar por los diferentes formatos de ante proyecto según tu modalidad."
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+  utter_cron/:
+  - text: ""
+
+actions:
+  - action_fallback

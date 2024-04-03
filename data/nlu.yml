@@ -402,3 +402,89 @@ nlu:
     - cuales metodologias hay para hacer proyecto de grado?
     - cual es la guia para metodologias para proyecto de grado?
     - donde puedo descarga la guia de metodologias para proyecto de grado? 
+
+- intent: cron/preguntar_cronograma_anteproyectos 
+  examples: |
+    - cual es el cronograma de ante proyectos para este semestre?
+    - cual es el cronograma de ante proyecto de grado?
+    - cual es el cronograma para propuesta de grado 
+    - donde puedo encontrar el cronograma de ante proyectos?
+    - cual es el cronograma de ante proyectos? 
+    - donde encuentro el cronograma de ante proyectos de grado
+    - tienes el cronograma de ante proyectos de grado? 
+
+- intent: cron/preguntar_cronograma_de_proyectos_terminados
+  examples: |
+    - cual es el cronograma de proyectos culminados para este semestre?
+    - cual es el cronograma de proyecto de grado culminado?
+    - cual es el cronograma para trabajo de grado culminado? 
+    - donde puedo encontrar el cronograma de de proyecto de grado culminado?
+    - cual es el cronograma de trabajo de grado culminado? 
+    - donde encuentro el cronograma para proyecto de grado culminado? 
+    - tienes el cronograma para proyectos de grado culminado? 
+
+- intent: cron/fechas_anteproyectos
+  examples: |
+    - cuales son las fechas para ante proyectos? 
+    - cuantas fechas hay este semestre para pasar propuesta? 
+    - cuales son las fechas para pasar ante proyecto de grado? 
+    - cuales son las fechas para ante proyectos este semestre? 
+    - cuales son las fechas de anteproyecto este semestre? 
+
+- intent: cron/procedimiento_entrega_anteproyecto
+  examples: |
+    - que debo hacer para entregar el ante proyecto? 
+    - como hago la entrega de mi ante proyecto de grado? 
+    - cuales son los pasos para la entrega del ante proyecto?
+    - cual es el proceso para entregar ante proyecto?
+    - como hago la entrega del ante proyecto de grado?
+    - como se hace la entrega del ante proyecto de grado?
+
+- intent: cron/modalidades_de_grado
+  examples: |
+    - que modalidades de grado hay? 
+    - cual es la modalidad de grado? 
+    - que es la modalidad de grado? 
+    - que tipos de modalidades de grado hay? 
+    - que opciones de grado hay? 
+    - cuales son las modalidades de grado que hay? 
+
+- intent: cron/documentos_necesarios_anteproyecto
+  examples: |
+    - que documentos necesito para subir mi ante proyecto 
+    - que debo subir del ante proyecto? 
+    - que necesito para subir el ante proyecto? 
+    - a donde subo mi ante proyecto? 
+    - en que formato subo mi ante proyecto? 
+    - donde subo el ante proeycto de grado? 
+
+
+
+- intent: cron/
+  examples: |
+    -
+
+- intent: cron/
+  examples: |
+    -
+
+- intent: cron/
+  examples: |
+    -
+
+- intent: cron/
+  examples: |
+    -
+
+- intent: cron/
+  examples: |
+    -
+
+- intent: cron/
+  examples: |
+    -
+
+- intent: cron/
+  examples: |
+    -
+

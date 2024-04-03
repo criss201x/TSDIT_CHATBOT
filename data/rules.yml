@@ -50,3 +50,8 @@ rules:
     steps:
     - intent: for
     - action: utter_for            
+
+  - rule: cronograma de proyectos y ante proyectos de grado
+    steps:
+    - intent: cron
+    - action: utter_cron                
