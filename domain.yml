@@ -149,14 +149,14 @@ responses:
   utter_cron/documentos_necesarios_anteproyecto:
   - text: "Para entregar tu propuesta de trabajo de grado tienes que tener en cuenta que solo puedes subir un pdf solo PDF o documento Word que no esté protegido con una contraseña y que contenga un texto seleccionable, No imágenes escaneadas.\n\nRecuerda que días previos a la fecha de entrega se te va indicar la plataforma donde debes subir subir la documentación según tu modalidad de grado, si no sabes el documento que debes subir puedes preguntar por los diferentes formatos de ante proyecto según tu modalidad."
 
-  utter_cron/:
-  - text: ""
+  utter_cron/procedimiento_entrega_proyecto_culminado:
+  - text: "Para realizar el procedimiento de entrega del proyecto de grado culminado tienes que tener en cuenta que solo puedes hacerlo en las 3 fechas establecidas, las cuales tienen una serie de pasos estrictamente definidos, los cuales son los siguientes: \n\t1. Un integrante del grupo debe realizar la preinscripción en el siguiente formulario: https://forms.office.com/r/m4Dnda73Dr\n\t2. Enviás el documento de proyecto de grado culminado según tu modalidad para que este sea evaluado por el jurado, ten en cuenta que te notificaran días antes la plataforma donde debes subir el documento.\n\t3. Te van a entregar las correcciones que debes realizar en caso de que el jurado asignado lo considere pertinente.\n\t4. Debes entregar las correcciones hechas junto a la carta aval de sustentación.\n\t5. Se realiza el proceso de sustentación ante el director de proyecto y jurado asignado.\n\t6. Se te va a entregar un acta de sustentación con tus respectivos resultados.\n\t7. Finalmente debes entregar los documentos para el proceso de grado ante la secretaria académica, de acuerdo a lo establecido en la circular de grados para este año. Si tienes dudas puedes preguntar mas acerca de los procesos de ceremonia grado.\n\nRecuerda que cada paso tiene unas fechas establecidas que deben cumplirse."
 
-  utter_cron/:
-  - text: ""
+  utter_cron/documentos_necesarios_proyecto_culminado:
+  - text: "Para entregar tu proyecto de grado culminado tienes que tener en cuenta que solo puedes subir un pdf solo PDF o documento Word que no esté protegido con una contraseña y que contenga un texto seleccionable, No imágenes escaneadas.\n\nRecuerda que días previos a la fecha de entrega se te va indicar la plataforma donde debes subir la documentación según tu modalidad de grado, si no sabes que documentación debes subir recuerda que debes subir la carta aval de cumplimiento de objetivos y el documento del proyecto de grado de acuerdo a la modalidad seleccionada.\n\nPuedes preguntar por los diferentes formatos de proyecto de grado culminado según tu modalidad."
 
-  utter_cron/:
-  - text: ""
+  utter_cron/fechas_proyecto_de_grado_culminado:
+  - text: "Las fechas definidas para el proceso de entrega están relacionadas son sus pasos de la siguiente forma:\n\t• Para paso 1,	Fecha 1 del 19/02/2024 al 23/02/2024,	para fecha 2 	Del 22/04/2024 al 26/04/2024 para fecha 3 del 12/08/2024 al 16/08/2024.\n\t• Para paso 2, para fecha 1 Del 29/02/2024 al 01/03/2024, para fecha 2 Del 02/05/2024 al 26/04/2024, para fecha 3 Del 22/08/2024 al 23/08/2024.\n\t• Para paso 3	La evaluación llegada por correo electrónico.\n\t• Para paso 4, para fecha 1 Hasta el 05/04/2024, para fecha 2 Hasta el 31/05/2024, para fecha 3	Hasta el 27/09/2024\n\t• Para paso 5, para fecha 1	del 08/04/2024 al 12/04/2024, para fecha 2 del 04/06/2024 al 12/06/2024, para fecha 3 del 01/10/2024 al 11/08/2024\n\t• Para paso 6, para fecha 1 Hasta el 15/04/2024, para fecha 2 Hasta el 12/07/2024, para fecha 3	Hasta el 18/10/2024\n\t• Para paso 7, Para fecha 1	del 15/04/2024 al 19/04/2024, Para fecha 2 del 22/04/2024 al 26/07/2024, Para fecha 3 del 21/10/2024 al 25/10/2024"
 
   utter_cron/:
   - text: ""

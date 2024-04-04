@@ -264,7 +264,7 @@ nlu:
     - que formatos hay?
     - cuales son los formatos para modalidad de grado? 
     - que formatos necesito para presentar propuesta de grado?
-    - en que formato va mi ante proyecto de grado? 
+    - en que formato va mi anteproyecto de grado? 
     - necesito llenar un formato para presentar proyecto de grado?
 
 - intent: for/preguntar_formato_monografia_pasantia
@@ -278,9 +278,9 @@ nlu:
     - tienes el formato para monografia?
     - tienes el formato para pasantia?
     - tienes el formato para modalidad de investigacion e innovacion?
-    - tienes la carta de ante proyecto para monografia?
-    - tienes la carta de ante proyecto para pasantia?
-    - tienes la carta de ante proyecto para modalidad de investigacion e innovacion?
+    - tienes la carta de anteproyecto para monografia?
+    - tienes la carta de anteproyecto para pasantia?
+    - tienes la carta de anteproyecto para modalidad de investigacion e innovacion?
     - donde puedo descargar el formato para monografia?
     - donde puedo descargar el formato para para pasantia?
     - donde puedo descargar el formato para para modalidad de investigacion e innovacion?
@@ -310,15 +310,15 @@ nlu:
 
 - intent: for/preguntar_ayuda_tips
   examples: |
-    - tengo dudas con mi ante proyecto 
-    - cuales son los anexos que van en mi ante proyecto 
-    - cuales son los anexos del ante proyecto proyecto
-    - como hacer correctamente el ante proyecto?
-    - puedes darme mas informacion acerca de los formatos de ante proyecto 
-    - dame mas informacion de los formatos de ante proyecto
-    - dame mas informacion de los anexos de los formatos de ante proyecto 
+    - tengo dudas con mi anteproyecto 
+    - cuales son los anexos que van en mi anteproyecto 
+    - cuales son los anexos del anteproyecto proyecto
+    - como hacer correctamente el anteproyecto?
+    - puedes darme mas informacion acerca de los formatos de anteproyecto 
+    - dame mas informacion de los formatos de anteproyecto
+    - dame mas informacion de los anexos de los formatos de anteproyecto 
     - como puedo presentar mi proyecto de grado 
-    - como puedo radicar mi ante proyecto de grado?
+    - como puedo radicar mi anteproyecto de grado?
     - dame mas informacion acerca de las normas para proyectos de grado
     - cuales normas hay para presentar proyecto de grado? 
     - cuales son las reglas para presentar proyecto de grado? 
@@ -326,12 +326,12 @@ nlu:
 
 - intent: for/preguntar_formato_carta_aval_anteproyecto
   examples: |
-    - necesito la carta aval ante proyecto 
-    - cual es la carta aval ante proyecto
-    - donde puedo descargar la plantilla de la carta aval ante proyecto
-    - cual es el formato para la carta aval ante proyecto
-    - tienes la plantilla para carta aval ante proyecto
-    - tienes el formato para carta aval ante proyecto
+    - necesito la carta aval anteproyecto 
+    - cual es la carta aval anteproyecto
+    - donde puedo descargar la plantilla de la carta aval anteproyecto
+    - cual es el formato para la carta aval anteproyecto
+    - tienes la plantilla para carta aval anteproyecto
+    - tienes el formato para carta aval anteproyecto
 
 - intent: for/preguntar_formato_carta_aval_sustentacion
   examples: |
@@ -405,13 +405,13 @@ nlu:
 
 - intent: cron/preguntar_cronograma_anteproyectos 
   examples: |
-    - cual es el cronograma de ante proyectos para este semestre?
-    - cual es el cronograma de ante proyecto de grado?
+    - cual es el cronograma de anteproyectos para este semestre?
+    - cual es el cronograma de anteproyecto de grado?
     - cual es el cronograma para propuesta de grado 
-    - donde puedo encontrar el cronograma de ante proyectos?
-    - cual es el cronograma de ante proyectos? 
-    - donde encuentro el cronograma de ante proyectos de grado
-    - tienes el cronograma de ante proyectos de grado? 
+    - donde puedo encontrar el cronograma de anteproyectos?
+    - cual es el cronograma de anteproyectos? 
+    - donde encuentro el cronograma de anteproyectos de grado
+    - tienes el cronograma de anteproyectos de grado? 
 
 - intent: cron/preguntar_cronograma_de_proyectos_terminados
   examples: |
@@ -425,20 +425,20 @@ nlu:
 
 - intent: cron/fechas_anteproyectos
   examples: |
-    - cuales son las fechas para ante proyectos? 
+    - cuales son las fechas para anteproyectos? 
     - cuantas fechas hay este semestre para pasar propuesta? 
-    - cuales son las fechas para pasar ante proyecto de grado? 
-    - cuales son las fechas para ante proyectos este semestre? 
+    - cuales son las fechas para pasar anteproyecto de grado? 
+    - cuales son las fechas para anteproyectos este semestre? 
     - cuales son las fechas de anteproyecto este semestre? 
 
 - intent: cron/procedimiento_entrega_anteproyecto
   examples: |
-    - que debo hacer para entregar el ante proyecto? 
-    - como hago la entrega de mi ante proyecto de grado? 
-    - cuales son los pasos para la entrega del ante proyecto?
-    - cual es el proceso para entregar ante proyecto?
-    - como hago la entrega del ante proyecto de grado?
-    - como se hace la entrega del ante proyecto de grado?
+    - que debo hacer para entregar el anteproyecto? 
+    - como hago la entrega de mi anteproyecto de grado? 
+    - cuales son los pasos para la entrega del anteproyecto?
+    - cual es el proceso para entregar anteproyecto?
+    - como hago la entrega del anteproyecto de grado?
+    - como se hace la entrega del anteproyecto de grado?
 
 - intent: cron/modalidades_de_grado
   examples: |
@@ -451,26 +451,45 @@ nlu:
 
 - intent: cron/documentos_necesarios_anteproyecto
   examples: |
-    - que documentos necesito para subir mi ante proyecto 
-    - que debo subir del ante proyecto? 
-    - que necesito para subir el ante proyecto? 
-    - a donde subo mi ante proyecto? 
-    - en que formato subo mi ante proyecto? 
+    - que documentos necesito para subir mi anteproyecto 
+    - que debo subir del anteproyecto? 
+    - que necesito para subir el anteproyecto? 
+    - a donde subo mi anteproyecto? 
+    - en que formato subo mi anteproyecto? 
     - donde subo el ante proeycto de grado? 
 
 
 
-- intent: cron/
+- intent: cron/procedimiento_entrega_proyecto_culminado
   examples: |
-    -
+    - que debo hacer para entregar el proyecto de grado culminado?
+    - como hago la entrega de mi proyecto de grado?
+    - cuales son los pasos para la entrega del proyecto de grado?
+    - cual es el proceso para entregar el proyecto de grado?
+    - como hago la entrega del proyecto de grado?
+    - como se hace la entrega del proyecto de grado?
+    - como se entrega el proyecto de grado? 
 
-- intent: cron/
+- intent: cron/documentos_necesarios_proyecto_culminado
   examples: |
-    -
+    - que documentos necesito para subir mi proyecto de grado ?
+    - que debo subir a la plataforma ?
+    - que necesito para subir el proyecto de grado ?  
+    - a donde subo mi proyecto de grado culminado ? 
+    - en que formato subo mi proyecto de grado ? 
+    - donde subo el ante proyecto de grado ? 
 
-- intent: cron/
+- intent: cron/fechas_proyecto_de_grado_culminado
   examples: |
-    -
+    - cuales son las fechas para entregar proyectos ?
+    - cuantas fechas hay este semestre para entregar proyecto de grado ?
+    - cuales son las fechas para pasar proyecto de grado ?  
+    - cuales son las fechas de entrega de proyectos de grado ? 
+    - cual es la fecha limite para subir proyecto ? 
+    - hasta cuando hay plazo para subir proyecto de grado ? 
+    - cuando puedo enviar el proyecto de grado ? 
+    - cuando me entregan los resultados de mi proyecto ? 
+
 
 - intent: cron/
   examples: |
