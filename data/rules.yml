@@ -55,3 +55,8 @@ rules:
     steps:
     - intent: cron
     - action: utter_cron                
+
+  - rule: cancelacion de materias por formato
+    steps:
+    - intent: fca
+    - action: utter_fca

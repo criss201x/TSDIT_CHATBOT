@@ -158,19 +158,19 @@ responses:
   utter_cron/fechas_proyecto_de_grado_culminado:
   - text: "Las fechas definidas para el proceso de entrega están relacionadas son sus pasos de la siguiente forma:\n\t• Para paso 1,	Fecha 1 del 19/02/2024 al 23/02/2024,	para fecha 2 	Del 22/04/2024 al 26/04/2024 para fecha 3 del 12/08/2024 al 16/08/2024.\n\t• Para paso 2, para fecha 1 Del 29/02/2024 al 01/03/2024, para fecha 2 Del 02/05/2024 al 26/04/2024, para fecha 3 Del 22/08/2024 al 23/08/2024.\n\t• Para paso 3	La evaluación llegada por correo electrónico.\n\t• Para paso 4, para fecha 1 Hasta el 05/04/2024, para fecha 2 Hasta el 31/05/2024, para fecha 3	Hasta el 27/09/2024\n\t• Para paso 5, para fecha 1	del 08/04/2024 al 12/04/2024, para fecha 2 del 04/06/2024 al 12/06/2024, para fecha 3 del 01/10/2024 al 11/08/2024\n\t• Para paso 6, para fecha 1 Hasta el 15/04/2024, para fecha 2 Hasta el 12/07/2024, para fecha 3	Hasta el 18/10/2024\n\t• Para paso 7, Para fecha 1	del 15/04/2024 al 19/04/2024, Para fecha 2 del 22/04/2024 al 26/07/2024, Para fecha 3 del 21/10/2024 al 25/10/2024"
 
-  utter_cron/:
+  utter_fca/preguntar_formato_cancelacion_materias:
+  - text: "Puedes descargar el formato para adiciones y cancelaciones de espacios académicos en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecsistematizaciondatos/sites/tec-sistematizacion/files/formatos-tramites/2023-06/Formato%20Adicion%20Cancelacion%202018.pdf"
+
+  utter_fca/preguntar_por_cancelacion_por_formato:
+  - text: "Tenemos información crucial para ti sobre el esperado inicio del periodo 2024-1. Presta mucha atención a las fechas establecidas según la RESOLUCIÓN No. 053 (octubre 24 de 2023), proporcionada por la Oficina Asesora de Tecnologías e información. ¡No querrás perderte nada!\n\nLa coordinación abrió el formulario de adiciones y cancelaciones solo el lunes 29 de enero del presente año. Recuerda que solo estará habilitado ese día, debido a que la coordinación dará respuesta de lo solicitado dentro de la franja disponible hasta el 31 de enero del presente. Para acceder al formulario, debes usar tu correo institucional. Te recordamos que puedes completar el formulario una sola vez. Dentro de este, tienes la posibilidad de solicitar hasta 7 adiciones de espacios académicos, realizar hasta 3 cambios de grupo y solicitar hasta 4 cancelaciones de espacios académicos.\n\nEl enlace o código QR para acceder al formulario es: [https://forms.office.com/r/v7UFSatwdP]\n\nCabe Recordar que toda solicitud respecto a adiciones y cancelaciones solo se recibirá mediante el Formulario."
+
+  utter_fca/preguntar_por_horarios_atencion_formato:
+  - text: "El formulario de adiciones y cancelaciones solo el lunes 29 de enero del presente año. Recuerda que solo estará habilitado ese día, debido a que la coordinación dará respuesta de lo solicitado dentro de la franja disponible hasta el 31 de enero del presente."
+
+  utter_fca/:
   - text: ""
 
-  utter_cron/:
-  - text: ""
-
-  utter_cron/:
-  - text: ""
-
-  utter_cron/:
-  - text: ""
-
-  utter_cron/:
+  utter_fca/:
   - text: ""
 
   utter_cron/:

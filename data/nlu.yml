@@ -491,19 +491,32 @@ nlu:
     - cuando me entregan los resultados de mi proyecto ? 
 
 
-- intent: cron/
+- intent: fca/preguntar_formato_cancelacion_materias
   examples: |
-    -
+    - cual es el formato para cancelar o adicionar materias ? 
+    - tienes la plantilla del formato de cancelacion o adicion de materias ? 
+    - que debo diligencar para cancelar o adicionar materias por formato 
+    - donde puedo descargar el formato para cancelar o adicionar materias ? 
+    - tienes el formato de cancelacion o adicion de materias ? 
 
-- intent: cron/
+- intent: fca/preguntar_por_cancelacion_por_formato
   examples: |
-    -
+    - quiero cancelar materias por formato 
+    - quiero adicionar materias por formato 
+    - a donde llevo el formato
+    - donde puedo llevar el formato de cancelacion o adicion de materias
+    - necesito cancelar una materia por formato
+    - necesito adicionar una materia por formato
 
-- intent: cron/
+- intent: fca/preguntar_por_horarios_atencion_formato
   examples: |
-    -
+    - a que horas puedo llevar el formato ? 
+    - cuando puedo llevar el formato de adiciones y cancelaciones ?
+    - puedo entregar el formato de cancelacion o adicion por correo ? 
+    - cuando puedo pasar a entregar el formato de cancelacion o adicion de materias ? 
+    - a que horas reciben el formato de cancelacon o adicion de materias ? 
 
-- intent: cron/
+- intent: fca/
   examples: |
     -
 
