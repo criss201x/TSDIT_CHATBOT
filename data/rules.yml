@@ -54,9 +54,30 @@ rules:
   - rule: cronograma de proyectos y ante proyectos de grado
     steps:
     - intent: cron
-    - action: utter_cron                
+    - action: utter_cron
 
   - rule: cancelacion de materias por formato
     steps:
     - intent: fca
     - action: utter_fca
+
+  - rule: preguntar tyt y saber pro 
+    steps: 
+    - intent: spro
+    - action: utter_spro
+
+  - rule: preguntar ceremonia de grados
+    steps: 
+    - intent: gra
+    - action: utter_gra
+
+  - rule: preguntar terminacion materias 
+    steps: 
+    - intent: tmat
+    - action: utter_tmat
+
+  - rule: preguntar por materias de profundizacion o posgrado 
+    steps: 
+    - intent: prof 
+    - action: utter_prof
+

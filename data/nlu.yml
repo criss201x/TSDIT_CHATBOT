@@ -425,11 +425,11 @@ nlu:
 
 - intent: cron/fechas_anteproyectos
   examples: |
-    - cuales son las fechas para anteproyectos? 
-    - cuantas fechas hay este semestre para pasar propuesta? 
-    - cuales son las fechas para pasar anteproyecto de grado? 
-    - cuales son las fechas para anteproyectos este semestre? 
-    - cuales son las fechas de anteproyecto este semestre? 
+    - cuales son las fechas para anteproyectos ?
+    - que fechas hay este semestre para pasar propuesta ? 
+    - en que fechas esta disponible la entrega de anteproyectos ? 
+    - que fechas hay disponbles para radicar anteproyecto de grado ? 
+    - cuales son las fechas de anteproyecto este semestre ? 
 
 - intent: cron/procedimiento_entrega_anteproyecto
   examples: |
@@ -516,7 +516,49 @@ nlu:
     - cuando puedo pasar a entregar el formato de cancelacion o adicion de materias ? 
     - a que horas reciben el formato de cancelacon o adicion de materias ? 
 
-- intent: fca/
+- intent: spro/preguntar_saber_pro_tyt
   examples: |
-    -
+    - Qué son los exámenes Saber TyT y Saber Pro 
+    - Cuándo y dónde se realizan los exámenes Saber TyT y Saber Pro 
+    - Cómo puedo inscribirme para los exámenes Saber TyT y Saber Pro 
+    - Que debo hacer para presentar los exámenes Saber TyT y Saber Pro 
+    - Para que sirve el examen TyT y saber pro  
+    - Necesito hacer el examen saber pro 
+    - Donde puedo encontrar información del examen saber pro 
 
+- intent: gra/preguntar_ceremonia_grados
+  examples: |
+    - Cuando se realizará la próxima ceremonia de grado 
+    - Cuáles son las fechas para la ceremonia de graduación 
+    - Que debo hacer para inscribirme a la ceremonia de grado
+    - Cuáles son los requisitos para participar en la ceremonia de grado 
+    - Cómo puedo obtener el diploma de grado 
+    - Que documentos debo presentar para la graduación 
+    - cuando son los grados este año 
+
+- intent: tmat/preguntar_terminacion_materias
+  examples: |
+    - Qué debo hacer si ya finalicé materias 
+    - Qué debo hacer si ya terminé materias 
+    - Ya terminé plan de estudios, que debo hacer 
+    - Qué pasos debo seguir después de terminar todas las materias 
+    - Debo generar recibo de pago al terminar materias 
+    - Estoy a la espera de graduarme, ya terminé materias 
+
+- intent: prof/preguntar_materias_de_produnfizacion_o_posgrado
+  examples: |
+    - Qué son las modalidades de profundización 
+    - Qué modalidades de profundización hay 
+    - Cuáles son los requisitos para acceder a una modalidad de profundización 
+    - Cómo puedo elegir la modalidad de profundización 
+    - Hay algún costo asociado a las modalidades de profundización 
+    - Cómo puedo obtener más información sobre las modalidades de profundización 
+    - En qué consiste la modalidad de profundización 
+    - Qué requisitos debo cumplir para acceder a la modalidad de profundización 
+    - como puedo hacer materias de posgrado
+    - como puedo inscribirme a materias de posgrado
+    - quiero hacer materias de profundización
+    - como hago modalidad de profundizacion para tecnologia
+    - como me inscribo a materias de profundizacion en ingenieria 
+    - como puedo ver materias de posgrado 
+    - quiero ver materias de profundizacion
