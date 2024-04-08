@@ -1,15 +1,26 @@
 version: "3.1"
 
 rules:
-  - rule: Di adiós en cualquier momento si la usuaria dice adiós
-    steps:
-      - intent: despedir
-      - action: utter_despedir
 
   - rule: Di "Soy un bot" cada vez que el usuario te desafíe.
     steps:
       - intent: reto_chatbot
       - action: utter_iamabot
+
+  - rule: saludar
+    steps:
+    - intent: saludar 
+    - action: utter_saludar 
+
+  - rule: usuario insatisfecho 
+    steps:
+    - intent: usuario_insatisfecho 
+    - action: utter_usuario_insatisfecho
+    
+  - rule: agradecer
+    steps:
+    - intent: agradecer 
+    - action: utter_agradecer     
 
   - rule: Fallback
     steps:
@@ -63,8 +74,8 @@ rules:
 
   - rule: preguntar tyt y saber pro 
     steps: 
-    - intent: spro
-    - action: utter_spro
+    - intent: saber
+    - action: utter_saber
 
   - rule: preguntar ceremonia de grados
     steps: 

@@ -23,7 +23,7 @@ intents:
       is_retrieval_intent: true            
   - fca:
       is_retrieval_intent: true            
-  - spro:
+  - saber:
       is_retrieval_intent: true            
   - gra:
       is_retrieval_intent: true            
@@ -35,11 +35,8 @@ intents:
 
   - nlu_fallback
   - saludar
-  - despedir
-  - afirmar
-  - negar
-  - buen_humor
-  - mal_humor
+  - agradecer
+  - usuario_insatisfecho
   - reto_chatbot
 
 responses:
@@ -47,21 +44,14 @@ responses:
   utter_saludar:
   - text: "¡Hola! Soy el asistente administrativo virtual del proyecto curricular de Tecnología en Sistematización de Datos e Ingeniería en Telemática de la Universidad Distrital Francisco José de Caldas, estoy aquí para ayudarte a resolver tus inquietudes acerca de los diferentes tramites administrativos que necesites realizar en la coordinación, a continuación puedo brindarte información acerca de los siguientes procesos: \n\t• Solicitud de validación\n\t• cancelaciones de materias\n\t• Solicitud de cancelación de semestre / no renovación de matricula\n\t• Solicitud de retiro (Voluntario Extemporáneo o Definitivo)\n\t• Certificado o sabana de notas\n\t• Certificados de estudio, contenidos programáticos (Syllabus), buena conducta\n\t• Formatos para modalidades de grado\n\t• Cronograma de proyectos / anteproyectos de grado\n\t• Formato adición y cancelación de asignaturas\n\t• Modalidad de profundización y posgrado\n\t• Terminación de materias\n\t• Exámen Saber T y T y Saber Pro\n\t• Ceremonia de grado\n\n ¡Hazme una pregunta!"
 
-  utter_animar:
-  - text: "aqui hay algo para alegrarte :) "
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_preguntar_satisfecho:
-  - text: "Eso te ayudo?"
-
-  utter_feliz:
-  - text: "Eso me agrada :) "
-
-  utter_despedir:
-  - text: "chau que estes bien"
-
   utter_iamabot:
   - text: "si, soy un bot"
+
+  utter_agradecer:
+  - text: "Me alegra saber que mi respuesta fue clara y oportuna! si tienes mas dudas acerca de los tramites del proyecto curricular no dudes en preguntar!"
+
+  utter_usuario_insatisfecho:
+  - text: "Ofrezco disculpas si mi respuesta no es clara, mi base de conocimiento esta en construccion, te invito nuevamente a formularme la pregunta."
 
   utter_val/segunda_lengua:
   - text: "Para los exámenes de Idoneidad Segunda Lengua se deben contemplar las siguientes recomendaciones:\n\t- Son cupos limitados para cada nivel de examen.\n\t- Se deben respetar las fechas establecidas; por tanto, se solicita no enviar estudiantes con oficios solicitando exámenes en fechas extemporáneas a menos que sea un caso extraordinario y aprobado por el Consejo Académico.\n\t- Las inscripciones para estas pruebas se realizarán por medio de la página web del ILUD: ilud.udistrital.edu.co.\n\t- El examen no tiene costo pero si lo reprueba el estudiante, se reporta y se envía respectivamente al proyecto curricular para que realicen el registro de la calificación que haya obtenido y deberá cursar el nivel reprobado en el siguiente semestre.\n\t- Recuerda revisar el calendario establecido para estos exámenes. "
@@ -183,17 +173,44 @@ responses:
   utter_fca/preguntar_por_horarios_atencion_formato:
   - text: "El formulario de adiciones y cancelaciones solo el lunes 29 de enero del presente año. Recuerda que solo estará habilitado ese día, debido a que la coordinación dará respuesta de lo solicitado dentro de la franja disponible hasta el 31 de enero del presente."
 
-  utter_spro/preguntar_saber_pro_tyt:
+  utter_saber/preguntar_saber_pro:
   - text: "Podrás encontrar más información en la página del ICFES (http://www.icfes.gov.co) menú Exámenes Educación Superior.\n\nDebes diligenciar el siguiente formulario para la pre-inscripción en la plataforma Prisma por parte de la coordinación. Posteriormente se notificará vía email para que puedas realizar la inscripción.\n\nEl formulario se encontrará Habilitado hasta el 08 de marzo de 2024 (pago ordinario 14 de Marzo) y hasta el 15 de marzo de 2024 (pago extraordinario - 22 de marzo de 2024). Enlace:\n\nhttps://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRUREM2RlNXVjNFQkJKTjBHWVpRNjdURENEMi4u"
+
+  utter_saber/preguntar_saber_tyt:
+  - text: "Podrás encontrar más información en la página del ICFES (http://www.icfes.gov.co) menú Exámenes Educación Superior.\n\nDebes diligenciar el siguiente formulario para la pre-inscripción en la plataforma Prisma por parte de la coordinación. Posteriormente se notificará vía email para que puedas realizar la inscripción.\n\nEl formulario se encontrará Habilitado hasta el 08 de marzo de 2024 (pago ordinario 14 de Marzo) y hasta el 15 de marzo de 2024 (pago extraordinario - 22 de marzo de 2024). Enlace:\n\nhttps://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRUREM2RlNXVjNFQkJKTjBHWVpRNjdURENEMi4u"
+
+  utter_saber/preguntar_resultados_saber_pro:
+  - text: "Podrás encontrar más información en la página del ICFES (http://www.resultadospro.icfes.gov.co) llenando el formulario de acuerdo a las instrucciones que ellos indican"
+
+  utter_saber/preguntar_resultados_saber_tyt:
+  - text: "Podrás encontrar más información en la página del ICFES (http://www2.icfesinteractivo.gov.co) llenando el formulario de acuerdo a las instrucciones que ellos indican"
 
   utter_gra/preguntar_ceremonia_grados:
   - text: "Te invitamos a leer detenidamente las instrucciones detalladas de la Circular 001-2024 de la Secretaría Académica, las cuales puedes encontrar en:\n\n• Circular 001-2024: https://ftecnologica.udistrital.edu.co/sites/default/files/2024-01/CIRCULAR%20001%20DE%202024.pdf\n\n• Pagina web de la secretaria académica facultad tecnológica: https://ftecnologica.udistrital.edu.co/facultad/secretaria-academica/procesos-cronogramas/ceremonia-de-grado"
 
-  utter_tmat/preguntar_terminacion_materias:
+  utter_gra/preguntar_ceremonia_grados_tecnologia:
+  - text: "Te invitamos a leer detenidamente las instrucciones detalladas de la Circular 001-2024 de la Secretaría Académica, las cuales puedes encontrar en:\n\n• Circular 001-2024: https://ftecnologica.udistrital.edu.co/sites/default/files/2024-01/CIRCULAR%20001%20DE%202024.pdf\n\n• Pagina web de la secretaria académica facultad tecnológica: https://ftecnologica.udistrital.edu.co/facultad/secretaria-academica/procesos-cronogramas/ceremonia-de-grado"
+
+  utter_gra/preguntar_ceremonia_grados_ingenieria:
+  - text: "Te invitamos a leer detenidamente las instrucciones detalladas de la Circular 001-2024 de la Secretaría Académica, las cuales puedes encontrar en:\n\n• Circular 001-2024: https://ftecnologica.udistrital.edu.co/sites/default/files/2024-01/CIRCULAR%20001%20DE%202024.pdf\n\n• Pagina web de la secretaria académica facultad tecnológica: https://ftecnologica.udistrital.edu.co/facultad/secretaria-academica/procesos-cronogramas/ceremonia-de-grado"
+
+  utter_tmat/preguntar_terminacion_materias_general:
   - text: "Si ya finalizaste materias de tu plan de estudio, puedes generar el recibo de pago con exoneración de los derechos pecuniarios de matrícula. Podrás generar el recibo si cumples alguna de las siguientes condiciones:\n\n1. Tengas aprobado el proyecto de grado culminado.\n\n2. Tener cualquier otra modalidad de grado aprobada y terminada.\n\nDebes tener en cuenta que los recibos de terminación de asignaturas se generarán a los estudiantes acorde a alguna de las siguientes situaciones:\n\n1. Recibo de terminación de Materias por cuota mínima (Seguro estudiantil):\n\nEn plan de estudios de créditos y sustento modalidad de grado (con acta de la modalidad de grado realizada).\n\nEn plan de estudios de Horas con propuesta de grado aprobada pero no ha sido sustentada o entregada como culminada.\n\nEn plan de estudios de Horas y sustento modalidad de grado (con acta de la modalidad de grado realizada).\n\n2. Recibo de terminación de Materias por cuota completa (Seguro estudiantil + Valor Matricula Regular):\n\nEn plan de estudios de créditos con propuesta de grado aprobada pero no ha sido sustentada o entregada como culminada.\n\nEn plan de estudios de Horas y sin modalidad de grado aprobada, ni en desarrollo."
 
-  utter_prof/preguntar_materias_de_produnfizacion_o_posgrado:
-  - text: "Para estudiantes de Tecnología interesados en realizar como Modalidad de Grado estudios de Profundización.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Profundizacion%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRUOVI3VTNLNjBOWDdFUjJLUkM4STdJODVERS4u\n\nRespuesta Intención 1.2\n\nPara estudiantes de Ingeniería interesados en realizar como Modalidad de Grado estudios de Posgrado.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Posgrado%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRURTE0MVdXTlYxR1RLOThYM0Q1UjZHUkZJNi4u"
+  utter_tmat/preguntar_terminacion_materias_tecnologia:
+  - text: "Si ya finalizaste materias de tu plan de estudio, puedes generar el recibo de pago con exoneración de los derechos pecuniarios de matrícula. Podrás generar el recibo si cumples alguna de las siguientes condiciones:\n\n1. Tengas aprobado el proyecto de grado culminado.\n\n2. Tener cualquier otra modalidad de grado aprobada y terminada.\n\nDebes tener en cuenta que los recibos de terminación de asignaturas se generarán a los estudiantes acorde a alguna de las siguientes situaciones:\n\n1. Recibo de terminación de Materias por cuota mínima (Seguro estudiantil):\n\nEn plan de estudios de créditos y sustento modalidad de grado (con acta de la modalidad de grado realizada).\n\nEn plan de estudios de Horas con propuesta de grado aprobada pero no ha sido sustentada o entregada como culminada.\n\nEn plan de estudios de Horas y sustento modalidad de grado (con acta de la modalidad de grado realizada).\n\n2. Recibo de terminación de Materias por cuota completa (Seguro estudiantil + Valor Matricula Regular):\n\nEn plan de estudios de créditos con propuesta de grado aprobada pero no ha sido sustentada o entregada como culminada.\n\nEn plan de estudios de Horas y sin modalidad de grado aprobada, ni en desarrollo."
+
+  utter_tmat/preguntar_terminacion_materias_ingenieria:
+  - text: "Si ya finalizaste materias de tu plan de estudio, puedes generar el recibo de pago con exoneración de los derechos pecuniarios de matrícula. Podrás generar el recibo si cumples alguna de las siguientes condiciones:\n\n1. Tengas aprobado el proyecto de grado culminado.\n\n2. Tener cualquier otra modalidad de grado aprobada y terminada.\n\nDebes tener en cuenta que los recibos de terminación de asignaturas se generarán a los estudiantes acorde a alguna de las siguientes situaciones:\n\n1. Recibo de terminación de Materias por cuota mínima (Seguro estudiantil):\n\nEn plan de estudios de créditos y sustento modalidad de grado (con acta de la modalidad de grado realizada).\n\nEn plan de estudios de Horas con propuesta de grado aprobada pero no ha sido sustentada o entregada como culminada.\n\nEn plan de estudios de Horas y sustento modalidad de grado (con acta de la modalidad de grado realizada).\n\n2. Recibo de terminación de Materias por cuota completa (Seguro estudiantil + Valor Matricula Regular):\n\nEn plan de estudios de créditos con propuesta de grado aprobada pero no ha sido sustentada o entregada como culminada.\n\nEn plan de estudios de Horas y sin modalidad de grado aprobada, ni en desarrollo."
+
+  utter_prof/preguntar_materias_profundizacion_general:
+  - text: "Para estudiantes de Tecnología interesados en realizar como Modalidad de Grado estudios de Profundización.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Profundizacion%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRUOVI3VTNLNjBOWDdFUjJLUkM4STdJODVERS4u\n\nPara estudiantes de Ingeniería interesados en realizar como Modalidad de Grado estudios de Posgrado.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Posgrado%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRURTE0MVdXTlYxR1RLOThYM0Q1UjZHUkZJNi4u"
+
+  utter_prof/preguntar_materias_de_produnfizacion:
+  - text: "Para estudiantes de Tecnología interesados en realizar como Modalidad de Grado estudios de Profundización.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Profundizacion%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRUOVI3VTNLNjBOWDdFUjJLUkM4STdJODVERS4u\n\nPara estudiantes de Ingeniería interesados en realizar como Modalidad de Grado estudios de Posgrado.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Posgrado%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRURTE0MVdXTlYxR1RLOThYM0Q1UjZHUkZJNi4u"
+
+  utter_prof/preguntar_materias_de_posgrado:
+  - text: "Para estudiantes de Tecnología interesados en realizar como Modalidad de Grado estudios de Profundización.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Profundizacion%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRUOVI3VTNLNjBOWDdFUjJLUkM4STdJODVERS4u\n\nPara estudiantes de Ingeniería interesados en realizar como Modalidad de Grado estudios de Posgrado.\nPara iniciar con el trámite se debe tener en cuenta y Leer detenidamente:\n\n1. Revisar el Cronograma, el cual se encuentra en el siguiente enlace: https://ftecnologica.udistrital.edu.co/tecnologia-sistematizacion/sites/tec-sistematizacion/files/formatos-tramites/2024-02/Posgrado%202024.pdf\n2. Si se encuentra dentro de las fechas mencionadas, diligenciar el siguiente formulario: https://forms.office.com/pages/responsepage.aspx?id=74gT1bBqY0OflNVmRKRZcMqlgOBiYIJCtykzrWrwcQRURTE0MVdXTlYxR1RLOThYM0Q1UjZHUkZJNi4u"
 
 
 actions:

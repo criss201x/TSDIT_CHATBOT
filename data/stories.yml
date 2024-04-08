@@ -2,32 +2,10 @@ version: "3.1"
 
 stories:
 
-- story: buen humor
+- story: reto chatbot 
   steps:
-  - intent: saludar
-  - action: utter_saludar
-  - intent: buen_humor
-  - action: utter_feliz
+  - intent: reto_chatbot
+  - action: utter_iamabot 
 
-- story: mal camino 1
-  steps:
-  - intent: saludar
-  - action: utter_saludar
-  - intent: mal_humor
-  - action: utter_animar
-  - action: utter_preguntar_satisfecho
-  - intent: afirmar
-  - action: utter_feliz
-
-- story: mal camino 2
-  steps:
-  - intent: saludar
-  - action: utter_saludar
-  - intent: mal_humor
-  - action: utter_animar
-  - action: utter_preguntar_satisfecho
-  - intent: negar
-  - action: utter_animar
-
-
+ 
 

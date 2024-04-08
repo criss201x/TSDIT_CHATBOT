@@ -61,6 +61,36 @@ pipeline: #null
     epochs: 100
     constrain_similarities: true
     retrieval_intent: for # retrieval_intent        
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: cron # retrieval_intent            
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: fca # retrieval_intent                
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: saber # retrieval_intent                    
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: gra # retrieval_intent                          
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: tmat # retrieval_intent                        
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+    constrain_similarities: true
+    retrieval_intent: prof # retrieval_intent                            
   - name: FallbackClassifier
     threshold: 0.93 #confguracion optima
     fallback_action: "action_fallback" # automatically gets triggered when fallback occurs

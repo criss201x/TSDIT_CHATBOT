@@ -11,84 +11,20 @@ nlu:
     - buenas noches
     - buenas buenas 
 
-
-- intent: despedir
+- intent: usuario_insatisfecho
   examples: |
-    - hasta luego
-    - nos vemos luego
-    - chau
-    - adiós
-    - adios
-    - ok gracias
-    - bye
-
-- intent: afirmar
-  examples: |
-    - Sí
-    - ok
-    - en efecto
-    - por supuesto
-    - Eso suena bien
-    - correcto    
-    - afirmativo 
-    - si señor
-    - sizas
-    - vale
-    - claro
-
-- intent: negar
-  examples: |
-    - No
-    - no
-    - nunca
-    - No me parece
-    - no me gusta eso
-    - de ninguna manera
-    - no precisamente
-    - jamas
-    - nuu
-    - nah 
-    - nooooooooo
-    - no estoy de acuerdo     
-
-- intent: buen_humor
-  examples: |
-    - perfecto
-    - excelente
-    - asombroso
-    - que chimba
-    - maravilloso
-    - Me siento muy bien
-    - me siento genial
-    - estoy asombrado
-    - Voy a conquistar el mundo.
-    - súper entusiasmado
-    - extremadamente bueno
-    - tan tan perfecto
-    - tan bueno
-    - tan perfecto
-    - como nunca     
-
-- intent: mal_humor
-  examples: |
-    - mi día fue horrible
-    - Estoy triste
-    - no me siento muy bien
-    - Estoy decepcionado
-    - súper triste
-    - Estoy muy triste
-    - triste
-    - muy triste
-    - infeliz
-    - no es bueno
-    - no muy bueno
-    - extremadamente triste
-    - muy triste
-    - decepcionado
-    - no muy bien
-    - paila
-    - re paila  
-
+    - no me parece 
+    - no estoy de acuerdo con esto 
+    - estoy en desacuerdo 
+    - esa informacion no es clara
+    - no entiendo lo que dices
+    - no estoy de acuerdo
+    - no entiendo nada 
+    - eso no es cierto
+    - eso esta mal 
+    - eso no es verdad 
+    - esa informarcion no me sirve 
+    - esto no es claro
 
 - intent: reto_chatbot
   examples: |
@@ -99,19 +35,38 @@ nlu:
     - Eres una maquina? 
     - Eres una persona? 
 
+- intent: agradecer
+  examples: |
+    - gracias 
+    - muchas gracias
+    - que bien, muchas gracias
+    - entiendo, gracias
+    - entendido, muchas gracias
+    - genial, gracias!
+    - genial, muchas gracias
+    - thank you!
+    - muy bien, muchas gracias
+    - gracias, que bien! 
+    - muy agradecido con tu respuesta 
+    - muy buena respuesta, gracias! 
+    - bueno, gracias
+    - vale, gracias
+    - ok gracias 
+
 - intent: val/que_es
   examples: |
     - que es la solicitud de validación?
     - En que consiste la solicitud de validación?
     - para que sirve la solicitud de validación?
-    - que es la validación 
+    - para que es la solicitud de validacion? 
+    - que es la validación
 
 - intent: val/solicitar
   examples: |
     - necesito homolagar una materia
     - necesito homolagar una asignatura
     - necesito un examen de homogacion
-    - mecesitp hacer el examen de validacion de una materia
+    - mecesito hacer el examen de validacion de una materia
     - necesito hacer la prueba de validacion 
     - solicito validar una asignatura 
     - solicito validar una materia
@@ -122,7 +77,7 @@ nlu:
     - puedo homologar ingles 1?
     - puedo homologar ingles 2?
     - puedo homologar ingles 3?
-    - necesito homologar segunda lengua 
+    - necesito homologar segunda lengua
     - como puedo presentar el examen de nivelacion del ilud?
     - necesito presentar el examen del ilud
     - necesito hacer el examen de nivelacion de ingles 
@@ -159,7 +114,7 @@ nlu:
     - no puedo continuar este semestre
     - puedo retirarme temporalmente? 
     - necesito cancelar el semestre actual  
-    - no puedo renovar matricula este semestre    
+    - no puedo renovar matricula este semestre
 
 - intent: nor/fecha_extratemporanea
   examples: |
@@ -183,7 +138,6 @@ nlu:
     - como puedo cambiarme de carrera 
     - quiero cambiarme de carrera
     - necesito cambiarme de carrera
-    - quiero cambiarme a ingenieria de sistemas
 
 - intent: ret/solicitar_cancelacion_extemporanea
   examples: |
@@ -243,7 +197,7 @@ nlu:
     - cual es el costo del certificado de estudio?
     - cuanto vale el certificado de estudio? 
     - cuanto debo pagar por el certificado de estudio?
-    - cuanto cuesta el certificado de estudio?          
+    - cuanto cuesta el certificado de estudio?
 
 - intent: cest/solicitar_syllabus
   examples: |
@@ -350,7 +304,7 @@ nlu:
     - donde puedo descargar la plantilla de solicitud de prorroga proyecto de grado
     - cual es el formato para solicitar prorroga del proyecto de grado
     - cual es la plantilla para la solicitud de prorroga de proyecto de grado
-    - tienes el formato para hacer la solicitud de prorroga de proyecto de grado proyecrto
+    - tienes el formato para hacer la solicitud de prorroga de proyecto de grado proyecto
     - tienes la plantilla de carta de solicitud de prorroga de proyecto de grado
 
 - intent: for/preguntar_formato_cumplimiento_de_objetivos
@@ -425,11 +379,11 @@ nlu:
 
 - intent: cron/fechas_anteproyectos
   examples: |
-    - cuales son las fechas para anteproyectos ?
-    - que fechas hay este semestre para pasar propuesta ? 
-    - en que fechas esta disponible la entrega de anteproyectos ? 
-    - que fechas hay disponbles para radicar anteproyecto de grado ? 
-    - cuales son las fechas de anteproyecto este semestre ? 
+    - cuales son las fechas para anteproyectos?
+    - que fechas hay este semestre para pasar propuesta? 
+    - en que fechas esta disponible la entrega de anteproyectos? 
+    - que fechas hay disponbles para radicar anteproyecto de grado? 
+    - cuales son las fechas de anteproyecto este semestre? 
 
 - intent: cron/procedimiento_entrega_anteproyecto
   examples: |
@@ -458,8 +412,6 @@ nlu:
     - en que formato subo mi anteproyecto? 
     - donde subo el ante proeycto de grado? 
 
-
-
 - intent: cron/procedimiento_entrega_proyecto_culminado
   examples: |
     - que debo hacer para entregar el proyecto de grado culminado?
@@ -472,59 +424,85 @@ nlu:
 
 - intent: cron/documentos_necesarios_proyecto_culminado
   examples: |
-    - que documentos necesito para subir mi proyecto de grado ?
-    - que debo subir a la plataforma ?
-    - que necesito para subir el proyecto de grado ?  
-    - a donde subo mi proyecto de grado culminado ? 
-    - en que formato subo mi proyecto de grado ? 
-    - donde subo el ante proyecto de grado ? 
+    - que documentos necesito para subir mi proyecto de grado?
+    - que debo subir a la plataforma?
+    - que necesito para subir el proyecto de grado?  
+    - a donde subo mi proyecto de grado culminado? 
+    - en que formato subo mi proyecto de grado? 
+    - donde subo el ante proyecto de grado? 
 
 - intent: cron/fechas_proyecto_de_grado_culminado
   examples: |
-    - cuales son las fechas para entregar proyectos ?
-    - cuantas fechas hay este semestre para entregar proyecto de grado ?
-    - cuales son las fechas para pasar proyecto de grado ?  
-    - cuales son las fechas de entrega de proyectos de grado ? 
-    - cual es la fecha limite para subir proyecto ? 
-    - hasta cuando hay plazo para subir proyecto de grado ? 
-    - cuando puedo enviar el proyecto de grado ? 
-    - cuando me entregan los resultados de mi proyecto ? 
+    - cuales son las fechas para entregar proyectos?
+    - cuantas fechas hay este semestre para entregar proyecto de grado?
+    - cuales son las fechas para pasar proyecto de grado?  
+    - cuales son las fechas de entrega de proyectos de grado? 
+    - cual es la fecha limite para subir proyecto? 
+    - hasta cuando hay plazo para subir proyecto de grado? 
+    - cuando puedo enviar el proyecto de grado? 
+    - cuando me entregan los resultados de mi proyecto? 
 
 
 - intent: fca/preguntar_formato_cancelacion_materias
   examples: |
-    - cual es el formato para cancelar o adicionar materias ? 
-    - tienes la plantilla del formato de cancelacion o adicion de materias ? 
-    - que debo diligencar para cancelar o adicionar materias por formato 
-    - donde puedo descargar el formato para cancelar o adicionar materias ? 
-    - tienes el formato de cancelacion o adicion de materias ? 
+    - cual es el formato para cancelar o adicionar materias?
+    - tienes la plantilla del formato de cancelacion o adicion de materias?
+    - que debo diligencar para cancelar o adicionar materias por formato
+    - donde puedo descargar el formato para cancelar o adicionar materias?
+    - tienes el formato de cancelacion o adicion de materias?
 
 - intent: fca/preguntar_por_cancelacion_por_formato
   examples: |
     - quiero cancelar materias por formato 
     - quiero adicionar materias por formato 
-    - a donde llevo el formato
+    - a donde llevo el formato de cancelacion de materias
     - donde puedo llevar el formato de cancelacion o adicion de materias
     - necesito cancelar una materia por formato
     - necesito adicionar una materia por formato
 
 - intent: fca/preguntar_por_horarios_atencion_formato
   examples: |
-    - a que horas puedo llevar el formato ? 
-    - cuando puedo llevar el formato de adiciones y cancelaciones ?
-    - puedo entregar el formato de cancelacion o adicion por correo ? 
-    - cuando puedo pasar a entregar el formato de cancelacion o adicion de materias ? 
-    - a que horas reciben el formato de cancelacon o adicion de materias ? 
+    - a que horas puedo llevar el formato?
+    - cuando puedo llevar el formato de adiciones y cancelaciones?
+    - puedo entregar el formato de cancelacion o adicion por correo? 
+    - cuando puedo pasar a entregar el formato de cancelacion o adicion de materias? 
+    - a que horas reciben el formato de cancelacon o adicion de materias?
 
-- intent: spro/preguntar_saber_pro_tyt
+- intent: saber/preguntar_saber_pro
   examples: |
-    - Qué son los exámenes Saber TyT y Saber Pro 
-    - Cuándo y dónde se realizan los exámenes Saber TyT y Saber Pro 
-    - Cómo puedo inscribirme para los exámenes Saber TyT y Saber Pro 
-    - Que debo hacer para presentar los exámenes Saber TyT y Saber Pro 
-    - Para que sirve el examen TyT y saber pro  
-    - Necesito hacer el examen saber pro 
-    - Donde puedo encontrar información del examen saber pro 
+    - que es el examen saber pro
+    - cuándo y dónde se realiza el examen saber pro
+    - cómo puedo inscribirme para el examen saber pro
+    - que debo hacer para presentar el examen saber pro
+    - para que sirve el examen saber pro
+    - necesito hacer el examen saber pro 
+    - donde puedo encontrar información del examen saber pro 
+
+- intent: saber/preguntar_saber_tyt
+  examples: |
+    - que es el examen Saber TyT
+    - cuándo y dónde se realiza el exámen Saber TyT
+    - cómo puedo inscribirme para el exámen Saber TyT
+    - que debo hacer para presentar el exámen Saber TyT
+    - para que sirve el examen TyT
+    - necesito hacer el examen saber TyT
+    - donde puedo encontrar información del examen saber TyT 
+
+- intent: saber/preguntar_resultados_saber_pro
+  examples: |
+    - cuando publican los resultados del examen saber pro
+    - cuándo dan los resultados del examen saber pro
+    - cómo puedo ver los resultados del examen saber pro
+    - donde estan los resultados del examen saber pro
+    - donde puedo encontrar los resultados del examen saber pro
+
+- intent: saber/preguntar_resultados_saber_tyt
+  examples: |
+    - cuando publican los resultados del examen saber TyT
+    - cuándo dan los resultados del examen saber TyT
+    - cómo puedo ver los resultados del examen saber TyT
+    - donde estan los resultados del examen saber TyT    
+    - donde puedo encontrar los resultados del examen saber TyT
 
 - intent: gra/preguntar_ceremonia_grados
   examples: |
@@ -536,7 +514,27 @@ nlu:
     - Que documentos debo presentar para la graduación 
     - cuando son los grados este año 
 
-- intent: tmat/preguntar_terminacion_materias
+- intent: gra/preguntar_ceremonia_grados_tecnologia
+  examples: |
+    - Cuando se realizará la próxima ceremonia de grado para tecnologos 
+    - Cuáles son las fechas para la ceremonia de graduación de tecnologos
+    - Que debo hacer para inscribirme a la ceremonia de grado para tecnologos 
+    - Cuáles son los requisitos para participar en la ceremonia de grado de tecnologos
+    - Cómo puedo obtener el diploma de grado de tecnologo
+    - Que documentos debo presentar para la graduación para tecnologos
+    - cuando son los grados de tecnologia este año 
+
+- intent: gra/preguntar_ceremonia_grados_ingenieria
+  examples: |
+    - Cuando se realizará la próxima ceremonia de grado de ingenierias
+    - Cuáles son las fechas para la ceremonia de graduación de ingenierias 
+    - Que debo hacer para inscribirme a la ceremonia de grado de ingenierias 
+    - Cuáles son los requisitos para participar en la ceremonia de grado de ingenierias 
+    - Cómo puedo obtener el diploma de grado de ingeniero
+    - Que documentos debo presentar para la graduación de ingenierias 
+    - cuando son los grados de ingenierias este año
+
+- intent: tmat/preguntar_terminacion_materias_general
   examples: |
     - Qué debo hacer si ya finalicé materias 
     - Qué debo hacer si ya terminé materias 
@@ -544,8 +542,27 @@ nlu:
     - Qué pasos debo seguir después de terminar todas las materias 
     - Debo generar recibo de pago al terminar materias 
     - Estoy a la espera de graduarme, ya terminé materias 
+    - que hago si ya termine materias
 
-- intent: prof/preguntar_materias_de_produnfizacion_o_posgrado
+- intent: tmat/preguntar_terminacion_materias_tecnologia
+  examples: |
+    - Qué debo hacer si ya finalicé materias de tecnoloia 
+    - Qué debo hacer si ya terminé materias de tecnologia
+    - Ya terminé plan de estudios de tecnologia, que debo hacer 
+    - Qué pasos debo seguir después de terminar todas las materias de tecnologia
+    - Debo generar recibo de pago al terminar materias de tecnologia
+    - Estoy a la espera de graduarme, ya terminé materias de tecnologia
+
+- intent: tmat/preguntar_terminacion_materias_ingenieria
+  examples: |
+    - Qué debo hacer si ya finalicé materias de ingenieria
+    - Qué debo hacer si ya terminé materias de ingenieria
+    - Ya terminé plan de estudios de ingenieria, que debo hacer 
+    - Qué pasos debo seguir después de terminar todas las materias de ingenieria
+    - Debo generar recibo de pago al terminar materias de ingenieria
+    - Estoy a la espera de graduarme, ya terminé materias de ingenieria
+
+- intent: prof/preguntar_materias_profundizacion_general
   examples: |
     - Qué son las modalidades de profundización 
     - Qué modalidades de profundización hay 
@@ -562,3 +579,38 @@ nlu:
     - como me inscribo a materias de profundizacion en ingenieria 
     - como puedo ver materias de posgrado 
     - quiero ver materias de profundizacion
+
+- intent: prof/preguntar_materias_de_produnfizacion
+  examples: |
+    - Qué materias hay de profundizacion
+    - cual es la modalidad de materias de profundizacion
+    - Cuáles son los requisitos para ver materias de profundizacion
+    - Cómo puedo elegir la modalidad de materias de profundizacion
+    - Hay algún costo asociado a la modalidad de materias de profundización 
+    - Cómo puedo obtener más información sobre la modalidad de materias de profundización 
+    - En qué consiste la modalidad de materias de profundización 
+    - Qué requisitos debo cumplir para acceder a la modalidad de materias de profundización 
+    - como puedo hacer materias de profundización 
+    - como puedo inscribirme a materias de profundización 
+    - quiero hacer materias de profundización 
+    - como me inscribo a materias de profundizacion
+    - quiero ver materias de profundizacion
+
+- intent: prof/preguntar_materias_de_posgrado
+  examples: |
+    - Qué materias hay de posgrado
+    - Qué es la modalidad de materias de posgrado
+    - Cuáles son los requisitos para acceder a una modalidad de materias de posgrado 
+    - Cómo puedo elegir la modalidad de de materias de posgrado 
+    - Hay algún costo asociado a las modalidad de materias de posgrado
+    - Cómo puedo obtener más información sobre las modalidad de materias de posgrado
+    - En qué consiste la modalidad de materias de posgrado
+    - Qué requisitos debo cumplir para acceder a la modalidad de materias de posgrado 
+    - como puedo hacer materias de posgrado
+    - como puedo inscribirme a materias de posgrado
+    - quiero hacer materias de posgrado
+    - como hago modalidad de materias de pogrado
+    - como me inscribo a materias de posgrado
+    - como puedo ver materias de posgrado 
+    - quiero ver materias de posgrado
+
