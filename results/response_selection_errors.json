@@ -1,0 +1,42 @@
+[
+  {
+    "text": "quiero hacer materias de profundización",
+    "intent_response_key_target": "prof/preguntar_materias_profundizacion_general",
+    "intent_response_key_prediction": {
+      "name": "prof/preguntar_materias_de_produnfizacion",
+      "confidence": 0.5866270065307617
+    }
+  },
+  {
+    "text": "quiero ver materias de profundizacion",
+    "intent_response_key_target": "prof/preguntar_materias_profundizacion_general",
+    "intent_response_key_prediction": {
+      "name": "prof/preguntar_materias_de_produnfizacion",
+      "confidence": 0.5627304911613464
+    }
+  },
+  {
+    "text": "como puedo hacer materias de posgrado",
+    "intent_response_key_target": "prof/preguntar_materias_de_posgrado",
+    "intent_response_key_prediction": {
+      "name": "prof/preguntar_materias_profundizacion_general",
+      "confidence": 0.7116953134536743
+    }
+  },
+  {
+    "text": "como puedo inscribirme a materias de posgrado",
+    "intent_response_key_target": "prof/preguntar_materias_de_posgrado",
+    "intent_response_key_prediction": {
+      "name": "prof/preguntar_materias_profundizacion_general",
+      "confidence": 0.6560497283935547
+    }
+  },
+  {
+    "text": "como puedo ver materias de posgrado",
+    "intent_response_key_target": "prof/preguntar_materias_de_posgrado",
+    "intent_response_key_prediction": {
+      "name": "prof/preguntar_materias_profundizacion_general",
+      "confidence": 0.7261812090873718
+    }
+  }
+]
