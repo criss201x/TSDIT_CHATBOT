@@ -1,11 +1,11 @@
 version: "3"
 services:
-  mongo:
+  mongo_tracker:
     image: mongo
-    container_name: "mongo_tracker"
+    container_name: mongo_tracker
     command: mongod --auth
     environment:
-      MONGO_INITDB_DATABASE: = chatbot
+      MONGO_INITDB_DATABASE: chatbot
       MONGO_INITDB_ROOT_USERNAME: chatbotadmin
       MONGO_INITDB_ROOT_PASSWORD: 123456
     volumes:
