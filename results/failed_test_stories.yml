@@ -1,6 +1,1 @@
-version: "3.1"
-stories:
-- story: reto chatbot (./tests/test_stories.yml)
-  steps:
-  - intent: reto_chatbot  # predicted: nlu_fallback: eres un bot?
-  - action: utter_iamabot
+# None of the test stories failed - all good!

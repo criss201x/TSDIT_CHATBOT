@@ -1,0 +1,30 @@
+version: "3"
+services:
+  mongo:
+    image: mongo
+    container_name: "mongo_tracker"
+    command: mongod --auth
+    environment:
+      MONGO_INITDB_DATABASE: = chatbot
+      MONGO_INITDB_ROOT_USERNAME: chatbotadmin
+      MONGO_INITDB_ROOT_PASSWORD: 123456
+    volumes:
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+  rasa:
+    container_name: "rasa_server"
+    user: root
+    build:
+      context: .
+    volumes:
+      - "./:/app"
+    ports:
+      - "5005:5005"
+  action_server:
+    container_name: "action_server"
+    build:
+      context: ./actions
+    volumes:
+      - ./actions:/app/actions
+      - ./data:/app/data
+    ports:
+      - 5055:5055

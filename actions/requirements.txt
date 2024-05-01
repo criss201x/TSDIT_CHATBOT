@@ -1,0 +1,4 @@
+typing
+rasa-nlu   
+rasa-core   
+rasa-core-sdk  

@@ -94,7 +94,7 @@ pipeline: #null
     constrain_similarities: true
     retrieval_intent: prof # retrieval_intent                            
   - name: FallbackClassifier
-    threshold: 0.93 #confguracion optima
+    threshold: 0.70 #confguracion optima
     fallback_action: "action_fallback" # automatically gets triggered when fallback occurs
 
 # Configuration for Rasa Core.
@@ -108,7 +108,7 @@ policies:
 #    max_history: 5
 #    epochs: 100
   - name: RulePolicy
-    core_fallback_threshold: 0.93 # make sure to test the confidences of your stories, rules and domain and then specify this value confguracion optima
+    core_fallback_threshold: 0.70 # make sure to test the confidences of your stories, rules and domain and then specify this value confguracion optima
     core_fallback_action_name: action_fallback
     enable_fallback_prediction: true
   - name: TEDPolicy
