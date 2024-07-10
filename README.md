@@ -17,7 +17,4 @@ gradual increase in users. To achieve this purpose, the technologies are defined
 necessary and the Kanban methodology that is precise to meet the objectives
 established.
 
-It is important for the curricular project, within the context of assistance
-administrative, have a tool that supports the management of procedures
-that will benefit both students and administrators, for quick resolution
-and reliable of the concerns that may arise
+It is important for the curricular project, within the context of assistance administrative, have a tool that supports the management of procedures that will benefit both students and administrators, for quick resolution and reliable of the concerns that may arise
