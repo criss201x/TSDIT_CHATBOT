@@ -87,3 +87,47 @@ from Google that makes it easy to design and integrate Chatbot into other applic
 This platform runs in the cloud and allows the creation of models of
 Natural Language Understanding (NLU) which is the basis for developing Chatbot
 [5].
+
+Likewise, the technical complexity of this implementation was mainly due to
+in the design of the NLP model of the Chatbot where the design of
+a conversation where agents, intentions, entities,
+contexts, events, compliance and integration for the development of a model
+suitable. Dialogflow beyond a tool is a cloud service
+classified as a SaaS-type solution, although it is true that it can simplify
+and make sufficient abstractions in the development must be considered and analyzed
+its rate and costs of use.
+
+So far the analyzes carried out show some technical and operational aspects.
+quality that is worth taking into account, but the way to encompass the problem
+remains a challenge. A research carried out at the Inter-American School
+of Library Science at the University of Antioquia in Colombia proposes a framework
+structured methodological based on Design Thinking for the design of
+virtual assistants (Chatbots). This framework is made up of the following
+stages: empathize, define, ideate, prototype and evaluate, which in turn include
+a series of techniques and methodological instruments used with a focus
+qualitative, exploratory and descriptive scope which favored the recognition
+of the actors involved in the virtual education processes, these actors
+were essential to generate a state of empathy in the team
+research [6]. This research was strongly supported by surveys
+where it is evident that among the students' preferences are:
+Web and mobile interoperability (via WhatsApp), using phrases
+short and simple, without technicalities, Hybrid (with default options, but
+with the possibility of asking) Textual communication based on FAQ (questions
+frequent).
+
+Conversational artificial intelligence has had an incremental boom since
+At the end of 2022, after the arrival of chatGTP, it was evident that this application
+I reached 100 million monthly active users in just 2 months something
+that it took Instagram two and a half years, setting a record like the
+fastest growing application in history [7].
+
+The core of an application of this magnitude works through a model of
+large language (LLM) which is a type of model based on neural networks
+which is trained on massive amounts of text data to understand and
+generate human language, chatGTP 3.5 LLM has 175 billion
+parameters spread over 96 layers in the neural network which makes it one
+of the largest deep learning models ever created [8].
+
+ChatGTP is currently the greatest exponent of Chatbot technologies to study
+Its architecture and integration modes are novel and can provide knowledge
+cutting-edge research.
