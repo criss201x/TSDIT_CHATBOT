@@ -9,3 +9,4 @@ The design and deployment of the Chatbot will be carried out with a distributed 
 It is important for the curricular project, within the context of assistance administrative, have a tool that supports the management of procedures that will benefit both students and administrators, for quick resolution and reliable of the concerns that may arise
 
 ## STATE OF ART
+
