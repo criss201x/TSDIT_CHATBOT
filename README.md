@@ -128,6 +128,4 @@ generate human language, chatGTP 3.5 LLM has 175 billion
 parameters spread over 96 layers in the neural network which makes it one
 of the largest deep learning models ever created [8].
 
-ChatGTP is currently the greatest exponent of Chatbot technologies to study
-Its architecture and integration modes are novel and can provide knowledge
-cutting-edge research.
+ChatGTP is currently the greatest exponent of Chatbot technologies to study Its architecture and integration modes are novel and can provide knowledge cutting-edge research.
