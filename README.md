@@ -121,11 +121,6 @@ I reached 100 million monthly active users in just 2 months something
 that it took Instagram two and a half years, setting a record like the
 fastest growing application in history [7].
 
-The core of an application of this magnitude works through a model of
-large language (LLM) which is a type of model based on neural networks
-which is trained on massive amounts of text data to understand and
-generate human language, chatGTP 3.5 LLM has 175 billion
-parameters spread over 96 layers in the neural network which makes it one
-of the largest deep learning models ever created [8].
+The core of an application of this magnitude works through a model of large language (LLM) which is a type of model based on neural networks which is trained on massive amounts of text data to understand and generate human language, chatGTP 3.5 LLM has 175 billion parameters spread over 96 layers in the neural network which makes it one of the largest deep learning models ever created [8].
 
 ChatGTP is currently the greatest exponent of Chatbot technologies to study Its architecture and integration modes are novel and can provide knowledge cutting-edge research.
