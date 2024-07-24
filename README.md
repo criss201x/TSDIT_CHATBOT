@@ -78,15 +78,7 @@ humanistic, ethics, technical satisfaction and accessibility. This research prov
 as a theoretical and architectural reference in the construction of the assistant
 intelligent academic.
 
-Simon Prananta Barus and Evalien Surijati implemented a Chatbot in the
-University of Matana in Indonesia in the face of the challenges brought by the pandemic, this
-Chatbot basically focused on frequently asked questions (FAQs) of the
-library in order to guarantee online services 24/7. The development of
-Chatbot was made in a minimalist way through the Dialogflow platform
-from Google that makes it easy to design and integrate Chatbot into other applications,
-This platform runs in the cloud and allows the creation of models of
-Natural Language Understanding (NLU) which is the basis for developing Chatbot
-[5].
+Simon Prananta Barus and Evalien Surijati implemented a Chatbot in the University of Matana in Indonesia in the face of the challenges brought by the pandemic, this Chatbot basically focused on frequently asked questions (FAQs) of the library in order to guarantee online services 24/7. The development of Chatbot was made in a minimalist way through the Dialogflow platform from Google that makes it easy to design and integrate Chatbot into other applications, This platform runs in the cloud and allows the creation of models of Natural Language Understanding (NLU) which is the basis for developing Chatbot [5].
 
 Likewise, the technical complexity of this implementation was mainly due to in the design of the NLP model of the Chatbot where the design of a conversation where agents, intentions, entities, contexts, events, compliance and integration for the development of a model suitable. Dialogflow beyond a tool is a cloud service classified as a SaaS-type solution, although it is true that it can simplify and make sufficient abstractions in the development must be considered and analyzed its rate and costs of use.
 
