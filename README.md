@@ -71,12 +71,7 @@ known key features such as functionality, reliability, ease of use,
 efficiency, ease of maintenance and portability that are based on the capacity
 to meet anticipated and unforeseen needs [4].
 
-It was also found that there are seven elements that contribute to the design and
-development of the Chatbot increasingly similar to a human agent these
-elements correspond to technical functionalities, efficiency, effectiveness,
-humanistic, ethics, technical satisfaction and accessibility. This research provides
-as a theoretical and architectural reference in the construction of the assistant
-intelligent academic.
+It was also found that there are seven elements that contribute to the design and development of the Chatbot increasingly similar to a human agent these elements correspond to technical functionalities, efficiency, effectiveness, humanistic, ethics, technical satisfaction and accessibility. This research provides as a theoretical and architectural reference in the construction of the assistant intelligent academic.
 
 Simon Prananta Barus and Evalien Surijati implemented a Chatbot in the University of Matana in Indonesia in the face of the challenges brought by the pandemic, this Chatbot basically focused on frequently asked questions (FAQs) of the library in order to guarantee online services 24/7. The development of Chatbot was made in a minimalist way through the Dialogflow platform from Google that makes it easy to design and integrate Chatbot into other applications, This platform runs in the cloud and allows the creation of models of Natural Language Understanding (NLU) which is the basis for developing Chatbot [5].
 
