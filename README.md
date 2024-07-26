@@ -65,11 +65,7 @@ suggests that the developer must have knowledge of markup language
 AI, Pattern Matching, Chat Script, Parsing, Databases and Strings
 Markov.
 
-The article also proposes that the main reference point for constructing a
-Chatbot can be started from the ISO 9126-1 Quality Model which emphasizes six
-known key features such as functionality, reliability, ease of use,
-efficiency, ease of maintenance and portability that are based on the capacity
-to meet anticipated and unforeseen needs [4].
+The article also proposes that the main reference point for constructing a Chatbot can be started from the ISO 9126-1 Quality Model which emphasizes six known key features such as functionality, reliability, ease of use, efficiency, ease of maintenance and portability that are based on the capacity to meet anticipated and unforeseen needs [4].
 
 It was also found that there are seven elements that contribute to the design and development of the Chatbot increasingly similar to a human agent these elements correspond to technical functionalities, efficiency, effectiveness, humanistic, ethics, technical satisfaction and accessibility. This research provides as a theoretical and architectural reference in the construction of the assistant intelligent academic.
 
