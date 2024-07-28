@@ -58,12 +58,7 @@ extracting the best attributes, qualities, patterns, functional characteristics
 and quality when building a Chatbots that can achieve high rates of
 customer satisfaction.
 
-The research is based mainly on surveys and what was found
-In the literature review, a series of aspects are defined in the research
-to consider in the design and development of a Chatbot, Initially the article
-suggests that the developer must have knowledge of markup language
-AI, Pattern Matching, Chat Script, Parsing, Databases and Strings
-Markov.
+The research is based mainly on surveys and what was found In the literature review, a series of aspects are defined in the research to consider in the design and development of a Chatbot, Initially the article suggests that the developer must have knowledge of markup language AI, Pattern Matching, Chat Script, Parsing, Databases and Strings Markov.
 
 The article also proposes that the main reference point for constructing a Chatbot can be started from the ISO 9126-1 Quality Model which emphasizes six known key features such as functionality, reliability, ease of use, efficiency, ease of maintenance and portability that are based on the capacity to meet anticipated and unforeseen needs [4].
 
