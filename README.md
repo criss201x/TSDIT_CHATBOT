@@ -52,11 +52,7 @@ challenge, in addition to its integration with external systems such as APIs and
 services has a certain complexity that is not convenient in an environment of
 production.
 
-A group of researchers from the Institute of Engineering and Technology made a
-Complete analysis of the way Chatbots are currently developed
-extracting the best attributes, qualities, patterns, functional characteristics
-and quality when building a Chatbots that can achieve high rates of
-customer satisfaction.
+A group of researchers from the Institute of Engineering and Technology made a Complete analysis of the way Chatbots are currently developed extracting the best attributes, qualities, patterns, functional characteristics and quality when building a Chatbots that can achieve high rates of customer satisfaction.
 
 The research is based mainly on surveys and what was found In the literature review, a series of aspects are defined in the research to consider in the design and development of a Chatbot, Initially the article suggests that the developer must have knowledge of markup language AI, Pattern Matching, Chat Script, Parsing, Databases and Strings Markov.
 
