@@ -43,14 +43,7 @@ integrated into the university's Facebook Fanpage resulting in
 availability of responses in real time 24 hours a day with effective
 of 90.29% in a sample of 50,000 questions.
 
-To achieve this result, the authors implemented a series of modeling models.
-deep learning natively integrated into the Rasa Framework [3] which is
-a powerful set of libraries in the Python programming language
-specialized in conversational AI. While it is true that the Rasa Framework is
-a great open source tool your learning curve can be a
-challenge, in addition to its integration with external systems such as APIs and others
-services has a certain complexity that is not convenient in an environment of
-production.
+To achieve this result, the authors implemented a series of modeling models. deep learning natively integrated into the Rasa Framework [3] which is a powerful set of libraries in the Python programming language specialized in conversational AI. While it is true that the Rasa Framework is a great open source tool your learning curve can be a challenge, in addition to its integration with external systems such as APIs and others services has a certain complexity that is not convenient in an environment of production.
 
 A group of researchers from the Institute of Engineering and Technology made a Complete analysis of the way Chatbots are currently developed extracting the best attributes, qualities, patterns, functional characteristics and quality when building a Chatbots that can achieve high rates of customer satisfaction.
 
