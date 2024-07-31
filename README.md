@@ -33,15 +33,7 @@ of the students. The survey revealed the overwhelming openness of futures
 students to use Chatbots, with 95% of students at least somewhat open
 to receive support from a Chatbot [2].
 
-With respect to this study, the potential of Chatbots in a
-only process that is admissions, however, extending the scope of
-a Chatbot beyond a process in the student is a challenge, but the
-literature has revealed some success stories. Authors Trung Thanh
-Nguyen and Anh Duc Le designed and implemented a Chatbot in the office
-admissions from the National University of Economics in Vietnam which was
-integrated into the university's Facebook Fanpage resulting in
-availability of responses in real time 24 hours a day with effective
-of 90.29% in a sample of 50,000 questions.
+With respect to this study, the potential of Chatbots in a only process that is admissions, however, extending the scope of a Chatbot beyond a process in the student is a challenge, but the literature has revealed some success stories. Authors Trung Thanh Nguyen and Anh Duc Le designed and implemented a Chatbot in the office admissions from the National University of Economics in Vietnam which was integrated into the university's Facebook Fanpage resulting in availability of responses in real time 24 hours a day with effective of 90.29% in a sample of 50,000 questions.
 
 To achieve this result, the authors implemented a series of modeling models. deep learning natively integrated into the Rasa Framework [3] which is a powerful set of libraries in the Python programming language specialized in conversational AI. While it is true that the Rasa Framework is a great open source tool your learning curve can be a challenge, in addition to its integration with external systems such as APIs and others services has a certain complexity that is not convenient in an environment of production.
 
