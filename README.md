@@ -20,18 +20,7 @@ demanding, not only in their training process, but in their way of communicating
 Comm100 is a global provider of omnichannel digital engagement software.
 customer service for educational, government and commercial organizations.
 
-Comm100 is a global provider of omnichannel digital engagement software.
-customer service for educational, government and commercial organizations.
-Comm100 announced the results of a new survey on April 11, 2023
-conducted to North American higher education students about their
-communication preferences during the registration and admission processes. A
-Key survey finding revealed that digital communication with schools
-is the most important support factor for future students, these
-The results emphasize once again the need for
-admissions adopt digital channels to meet support expectations
-of the students. The survey revealed the overwhelming openness of futures
-students to use Chatbots, with 95% of students at least somewhat open
-to receive support from a Chatbot [2].
+Comm100 is a global provider of omnichannel digital engagement software. customer service for educational, government and commercial organizations. Comm100 announced the results of a new survey on April 11, 2023 conducted to North American higher education students about their communication preferences during the registration and admission processes. A Key survey finding revealed that digital communication with schools is the most important support factor for future students, these The results emphasize once again the need for admissions adopt digital channels to meet support expectations of the students. The survey revealed the overwhelming openness of futures students to use Chatbots, with 95% of students at least somewhat open to receive support from a Chatbot [2].
 
 With respect to this study, the potential of Chatbots in a only process that is admissions, however, extending the scope of a Chatbot beyond a process in the student is a challenge, but the literature has revealed some success stories. Authors Trung Thanh Nguyen and Anh Duc Le designed and implemented a Chatbot in the office admissions from the National University of Economics in Vietnam which was integrated into the university's Facebook Fanpage resulting in availability of responses in real time 24 hours a day with effective of 90.29% in a sample of 50,000 questions.
 
