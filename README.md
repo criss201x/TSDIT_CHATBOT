@@ -300,18 +300,8 @@ the business and create new growth opportunities.
 
 •
 Digital transformation and Chatbot [25]:
-As mentioned, digital transformation is a complex process that
-involves a re-evaluation and reorganization of business processes
-to make the most of emerging technologies. In this context,
-Chatbots have emerged as a key tool to assist in the
-digital transformation process of organizations.
-The main way Chatbots help in the digital
-transformation process of an organization is by automating
-tasks and processes. Chatbots can be integrated into different business
-systems and applications to provide quick and accurate answers to
-frequently asked questions and perform repetitive tasks, thereby
-reducing the workload on employees and allowing a focus on more strategic
-tasks.
+
+As mentioned, digital transformation is a complex process that involves a re-evaluation and reorganization of business processes to make the most of emerging technologies. In this context, Chatbots have emerged as a key tool to assist in the digital transformation process of organizations. The main way Chatbots help in the digital transformation process of an organization is by automating tasks and processes. Chatbots can be integrated into different business systems and applications to provide quick and accurate answers to frequently asked questions and perform repetitive tasks, thereby reducing the workload on employees and allowing a focus on more strategic tasks.
 
 In addition, Chatbots can significantly improve the customer experience by providing instant and personalized customer support. Customers can interact with a Chatbot at any time of the day and get accurate and fast answers to their questions.
 
