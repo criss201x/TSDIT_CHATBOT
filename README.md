@@ -281,25 +281,12 @@ hosts the platform and software on its infrastructure, allowing users to develop
 run applications without having to worry about managing the infrastructure.
 PaaS is an especially useful solution for developers and programmers, as it provides them with a complete environment to write and manage applications, and allows them to focus on developing the application itself, rather than having to worry about maintaining and managing the infrastructure. In addition, PaaS offers the ability to customize and design their web-based applications using built-in software elements. Examples of PaaS include AWS Elastic Beanstalk, Heroku, and Red Hat OpenShift.
 4.2.13. Digital transformation. [24]
-Digital transformation refers to the process of incorporating digital technologies into all areas of an organization to change the way value is delivered to customers. Digital transformation involves cultural and operational changes, and can include building digital solutions, moving to cloud computing, and adopting smart sensors to reduce operating costs. The goal is to better adapt to changing customer needs and improve efficiency in the organization.
-Digital transformation is important for organizations because it allows them to
-stay competitive in an ever-changing technological environment. Digital
-transformation initiatives can improve productivity, customer
-experience, and reduce operational costs. Emerging technologies, such as artificial
-intelligence and cloud services, can save time and improve efficiency in business
-processes. Digital transformation can significantly reduce operational
-costs by eliminating or replacing specific workflows, reducing spending on
-expensive infrastructure and equipment, and automating tasks with technologies such as
-smart sensors and machine learning.
-Digital transformation goes beyond digitizing processes and workflows. It refers to the integration of digital technologies to
-fundamentally change the way products or services are delivered, customers are interacted with, and business
-processes are operated.
-Digital transformation involves profound cultural and operational changes,
-such as reorganizing teams and adopting new ways of working, to adapt to changing market and customer needs. Digital transformation is about using technology to reinvent
-the business and create new growth opportunities.
 
-•
-Digital transformation and Chatbot [25]:
+Digital transformation refers to the process of incorporating digital technologies into all areas of an organization to change the way value is delivered to customers. Digital transformation involves cultural and operational changes, and can include building digital solutions, moving to cloud computing, and adopting smart sensors to reduce operating costs. The goal is to better adapt to changing customer needs and improve efficiency in the organization. Digital transformation is important for organizations because it allows them to stay competitive in an ever-changing technological environment. 
+
+Digital transformation initiatives can improve productivity, customer experience, and reduce operational costs. Emerging technologies, such as artificial intelligence and cloud services, can save time and improve efficiency in business processes. Digital transformation can significantly reduce operational costs by eliminating or replacing specific workflows, reducing spending on expensive infrastructure and equipment, and automating tasks with technologies such as smart sensors and machine learning. Digital transformation goes beyond digitizing processes and workflows. It refers to the integration of digital technologies to fundamentally change the way products or services are delivered, customers are interacted with, and business processes are operated. Digital transformation involves profound cultural and operational changes, such as reorganizing teams and adopting new ways of working, to adapt to changing market and customer needs. Digital transformation is about using technology to reinvent the business and create new growth opportunities.
+
+***Digital transformation and Chatbot [25]:***
 
 As mentioned, digital transformation is a complex process that involves a re-evaluation and reorganization of business processes to make the most of emerging technologies. In this context, Chatbots have emerged as a key tool to assist in the digital transformation process of organizations. The main way Chatbots help in the digital transformation process of an organization is by automating tasks and processes. Chatbots can be integrated into different business systems and applications to provide quick and accurate answers to frequently asked questions and perform repetitive tasks, thereby reducing the workload on employees and allowing a focus on more strategic tasks.
 
