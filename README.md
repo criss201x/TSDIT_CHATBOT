@@ -272,13 +272,10 @@ provider, service reliability, and multi-tenant systems where the
 provider must share infrastructure resources with several
 customers. Some public cloud providers that offer IaaS may include
 AWS, Microsoft Azure, and Google Cloud.
-•
-PAAS
-Platform as a Service (PaaS) is a type of cloud service model used to
-provide users with an online application development and
-running environment. In the PaaS model, the cloud service provider
-hosts the platform and software on its infrastructure, allowing users to develop and
-run applications without having to worry about managing the infrastructure.
+
+• PAAS
+Platform as a Service (PaaS) is a type of cloud service model used to provide users with an online application development and running environment. In the PaaS model, the cloud service provider hosts the platform and software on its infrastructure, allowing users to develop and run applications without having to worry about managing the infrastructure.
+
 PaaS is an especially useful solution for developers and programmers, as it provides them with a complete environment to write and manage applications, and allows them to focus on developing the application itself, rather than having to worry about maintaining and managing the infrastructure. In addition, PaaS offers the ability to customize and design their web-based applications using built-in software elements. Examples of PaaS include AWS Elastic Beanstalk, Heroku, and Red Hat OpenShift.
 
 ***4.2.13. Digital transformation.***
