@@ -260,9 +260,10 @@ using a public cloud through a cloud service provider.
 •
 Comparison between infrastructure and cloud architecture:
 Cloud architecture refers to the way different technologies are combined to create cloud computing environments, while infrastructure is the set of tools needed to design the cloud. Architecture is like a technical blueprint that indicates how cloud elements such as hardware, virtual resources, networks, operating systems, etc. should be connected. [22]
-4.2.12. Types of Cloud Computing as a Service. [23]
-•
-IAAS
+
+***4.2.12. Types of Cloud Computing as a Service. [23]***
+
+• IAAS
 Infrastructure as a Service (IaaS) is a cloud service model in which a third-party service provider offers IT infrastructure such as storage, servers, and virtualization to users who pay for their consumption. The provider manages the resources, and the user is responsible for operating systems, data, applications, and runtimes. IaaS
 offers flexibility to acquire and adapt the necessary elements and is an
 affordable option since it does not generate maintenance costs.
