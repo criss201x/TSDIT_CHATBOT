@@ -264,9 +264,8 @@ Cloud architecture refers to the way different technologies are combined to crea
 ***4.2.12. Types of Cloud Computing as a Service. [23]***
 
 • IAAS
-Infrastructure as a Service (IaaS) is a cloud service model in which a third-party service provider offers IT infrastructure such as storage, servers, and virtualization to users who pay for their consumption. The provider manages the resources, and the user is responsible for operating systems, data, applications, and runtimes. IaaS
-offers flexibility to acquire and adapt the necessary elements and is an
-affordable option since it does not generate maintenance costs.
+
+Infrastructure as a Service (IaaS) is a cloud service model in which a third-party service provider offers IT infrastructure such as storage, servers, and virtualization to users who pay for their consumption. The provider manages the resources, and the user is responsible for operating systems, data, applications, and runtimes. IaaS offers flexibility to acquire and adapt the necessary elements and is an affordable option since it does not generate maintenance costs.
 
 Some disadvantages of IaaS are possible security problems of the provider, service reliability, and multi-tenant systems where the provider must share infrastructure resources with several customers. Some public cloud providers that offer IaaS may include AWS, Microsoft Azure, and Google Cloud.
 
