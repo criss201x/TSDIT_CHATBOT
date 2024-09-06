@@ -234,31 +234,14 @@ Storage management in cloud infrastructure is
 essential to ensure data integrity and availability.
 Data is stored on storage arrays and is
 regularly backed up to protect against failure or loss of information.
-With virtualization, storage is abstracted from the hardware
-and offered to users in the cloud as a shared resource.
-This allows for greater flexibility in managing storage
-resources, as drives can be added or removed as needed and respond to changes
-without having to add separate storage servers.
-o Network
-Cloud infrastructure includes a physical network made up of
-cables, switches, routers, and other equipment, which is used
-to create virtual networks. The traditional cloud network setup
-consists of multiple subnetworks with different levels of
-control, and virtual local area networks (VLANs) can be created and
-static or dynamic addresses assigned to network resources.
-Users can access cloud resources through
-a network, either the Internet or an Intranet, allowing them to access
-cloud applications or services remotely. The network
-also allows users to interconnect multiple clouds, giving them the
-flexibility to choose different cloud providers or
-integrate their own private and public cloud solutions.
-Cloud infrastructure consists of the same basic elements,
-whether it is a public, private, or hybrid cloud. To
-work with any type of Cloud Computing, a cloud infrastructure is required, which can be created by yourself or
-using a public cloud through a cloud service provider.
+With virtualization, storage is abstracted from the hard are
+and offered to users in the cloud as a shared resource. 
+
+This allows for greater flexibility in managing storage resources, as drives can be added or removed as needed and respond to changes without having to add separate storage servers. o Network Cloud infrastructure includes a physical network made up of cables, switches, routers, and other equipment, which is used to create virtual networks. The traditional cloud network setup consists of multiple subnetworks with different levels of control, and virtual local area networks (VLANs) can be created and static or dynamic addresses assigned to network resources. Users can access cloud resources through a network, either the Internet or an Intranet, allowing them to access cloud applications or services remotely. The network also allows users to interconnect multiple clouds, giving them the flexibility to choose different cloud providers or integrate their own private and public cloud solutions. Cloud infrastructure consists of the same basic elements, whether it is a public, private, or hybrid cloud. To work with any type of Cloud Computing, a cloud infrastructure is required, which can be created by yourself or using a public cloud through a cloud service provider.
 
 •
 Comparison between infrastructure and cloud architecture:
+
 Cloud architecture refers to the way different technologies are combined to create cloud computing environments, while infrastructure is the set of tools needed to design the cloud. Architecture is like a technical blueprint that indicates how cloud elements such as hardware, virtual resources, networks, operating systems, etc. should be connected. [22]
 
 ***4.2.12. Types of Cloud Computing as a Service. [23]***
