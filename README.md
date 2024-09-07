@@ -225,17 +225,9 @@ include network equipment such as switches, routers, firewalls, and load balance
 o Virtualization
 Virtualization is a technology that separates IT functions and services from the physical hardware system. A hypervisor, a specialized software, controls the physical hardware and abstracts the machine's
 resources, such as memory, computing power, and storage. Once virtual resources are assigned to
-centralized pools, they are considered clouds.
-Virtualization is essential for creating and managing cloud
-infrastructure, as it allows for the creation of virtual environments
-from a single set of physical resources, allowing for greater efficiency and scalability.
-o Storage
-Storage management in cloud infrastructure is
-essential to ensure data integrity and availability.
-Data is stored on storage arrays and is
-regularly backed up to protect against failure or loss of information.
-With virtualization, storage is abstracted from the hard are
-and offered to users in the cloud as a shared resource. 
+centralized pools, they are considered clouds. 
+
+Virtualization is essential for creating and managing cloud infrastructure, as it allows for the creation of virtual environments from a single set of physical resources, allowing for greater efficiency and scalability. o Storage Storage management in cloud infrastructure is essential to ensure data integrity and availability. Data is stored on storage arrays and is regularly backed up to protect against failure or loss of information. With virtualization, storage is abstracted from the hard are and offered to users in the cloud as a shared resource. 
 
 This allows for greater flexibility in managing storage resources, as drives can be added or removed as needed and respond to changes without having to add separate storage servers. o Network Cloud infrastructure includes a physical network made up of cables, switches, routers, and other equipment, which is used to create virtual networks. The traditional cloud network setup consists of multiple subnetworks with different levels of control, and virtual local area networks (VLANs) can be created and static or dynamic addresses assigned to network resources. Users can access cloud resources through a network, either the Internet or an Intranet, allowing them to access cloud applications or services remotely. The network also allows users to interconnect multiple clouds, giving them the flexibility to choose different cloud providers or integrate their own private and public cloud solutions. Cloud infrastructure consists of the same basic elements, whether it is a public, private, or hybrid cloud. To work with any type of Cloud Computing, a cloud infrastructure is required, which can be created by yourself or using a public cloud through a cloud service provider.
 
