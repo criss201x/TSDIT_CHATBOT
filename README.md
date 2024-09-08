@@ -213,19 +213,7 @@ together to provide a complete cloud computing solution.
 
 Cloud infrastructure can refer to both an entire cloud computing system and the individual technologies that compose it.
 
-•
-Elements of cloud infrastructure.
-
-o Hardware
-Cloud infrastructure requires physical hardware to operate, which can include a network of hardware systems
-distributed across different geographic locations. This network can
-
-include network equipment such as switches, routers, firewalls, and load balancers, as well as storage arrays, backup devices, and servers.
-
-o Virtualization
-Virtualization is a technology that separates IT functions and services from the physical hardware system. A hypervisor, a specialized software, controls the physical hardware and abstracts the machine's
-resources, such as memory, computing power, and storage. Once virtual resources are assigned to
-centralized pools, they are considered clouds. 
+• Elements of cloud infrastructure. Hardware Cloud infrastructure requires physical hardware to operate, which can include a network of hardware systems distributed across different geographic locations. This network can include network equipment such as switches, routers, firewalls, and load balancers, as well as storage arrays, backup devices, and servers. o Virtualization Virtualization is a technology that separates IT functions and services from the physical hardware system. A hypervisor, a specialized software, controls the physical hardware and abstracts the machine's resources, such as memory, computing power, and storage. Once virtual resources are assigned to centralized pools, they are considered clouds. 
 
 Virtualization is essential for creating and managing cloud infrastructure, as it allows for the creation of virtual environments from a single set of physical resources, allowing for greater efficiency and scalability. o Storage Storage management in cloud infrastructure is essential to ensure data integrity and availability. Data is stored on storage arrays and is regularly backed up to protect against failure or loss of information. With virtualization, storage is abstracted from the hard are and offered to users in the cloud as a shared resource. 
 
@@ -238,7 +226,7 @@ Cloud architecture refers to the way different technologies are combined to crea
 
 ***4.2.12. Types of Cloud Computing as a Service. [23]***
 
-• IAAS
+*** IAAS***
 
 Infrastructure as a Service (IaaS) is a cloud service model in which a third-party service provider offers IT infrastructure such as storage, servers, and virtualization to users who pay for their consumption. The provider manages the resources, and the user is responsible for operating systems, data, applications, and runtimes. IaaS offers flexibility to acquire and adapt the necessary elements and is an affordable option since it does not generate maintenance costs.
 
