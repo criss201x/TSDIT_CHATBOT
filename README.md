@@ -193,16 +193,10 @@ language is considered simple and easy to learn, granting the programmer virtues
 programming. Another advantage is its flexibility, since
 it stores a large amount of data of various types without having to declare each
 type of data, it is an ordered, readable, and portable language. [20]
-4.2.10. Microservice-API.
-The microservices architectural style is an approach to develop a
-single application as a set of small services, each
-running in its own process and communicating with lightweight mechanisms,
-often an HTTP resource API. These services are based on
-business capabilities and are implemented independently by
-fully automated deployment machinery. There is a minimum
-indispensable centralized management of these services, which can be
-written in different programming languages ​​and use different
-data storage technologies. [21]
+
+**4.2.10. Microservice-API.**
+
+The microservices architectural style is an approach to develop a single application as a set of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are based on business capabilities and are implemented independently by fully automated deployment machinery. There is a minimum indispensable centralized management of these services, which can be written in different programming languages ​​and use different data storage technologies. [21]
 
 **4.2.11. Cloud infrastructure.**
 
