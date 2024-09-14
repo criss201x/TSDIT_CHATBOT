@@ -190,9 +190,7 @@ Being a dynamic language, it allows testing portions of code as they are
 generated, optimizing the programming and debugging time of the written code. Created by Guido van Rossum in 1989. This
 language is considered simple and easy to learn, granting the programmer virtues such as automatic memory management, simple reading or writing operations. In which it differs from other programming languages
 
-programming. Another advantage is its flexibility, since
-it stores a large amount of data of various types without having to declare each
-type of data, it is an ordered, readable, and portable language. [20]
+programming. Another advantage is its flexibility, since it stores a large amount of data of various types without having to declare each type of data, it is an ordered, readable, and portable language. [20]
 
 **4.2.10. Microservice-API.**
 
