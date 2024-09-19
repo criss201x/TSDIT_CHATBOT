@@ -184,11 +184,10 @@ customer interactions, provide 24/7 support, and reduce the workload of human cu
 service representatives. However, for Chatbots to be effective, they must
 be able to understand and respond to users' natural language input, which
 requires sophisticated NLP algorithms.
+
 4.2.9. Python programming language.
-It is a multiplatform programming language, very popular in the industry.
-Being a dynamic language, it allows testing portions of code as they are
-generated, optimizing the programming and debugging time of the written code. Created by Guido van Rossum in 1989. This
-language is considered simple and easy to learn, granting the programmer virtues such as automatic memory management, simple reading or writing operations. In which it differs from other programming languages
+
+It is a multiplatform programming language, very popular in the industry. Being a dynamic language, it allows testing portions of code as they are generated, optimizing the programming and debugging time of the written code. Created by Guido van Rossum in 1989. This language is considered simple and easy to learn, granting the programmer virtues such as automatic memory management, simple reading or writing operations. In which it differs from other programming languages
 
 programming. Another advantage is its flexibility, since it stores a large amount of data of various types without having to declare each type of data, it is an ordered, readable, and portable language. [20]
 
