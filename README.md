@@ -177,13 +177,8 @@ in a wide range of different fields. In the humanities, work
 on corpora is gaining increasing prominence. Within industry,
 people need NLP for market analysis, web software development, to name a few examples. For this reason, it is important
 for many people to have some working knowledge of NLP. [19]
-The relationship between Chatbots and NLP lies in the fact that Chatbots have
-become an increasingly popular means of customer service and support for
-businesses. By using Chatbots, businesses can automate
-customer interactions, provide 24/7 support, and reduce the workload of human customer
-service representatives. However, for Chatbots to be effective, they must
-be able to understand and respond to users' natural language input, which
-requires sophisticated NLP algorithms.
+
+The relationship between Chatbots and NLP lies in the fact that Chatbots have become an increasingly popular means of customer service and support for businesses. By using Chatbots, businesses can automate customer interactions, provide 24/7 support, and reduce the workload of human customer service representatives. However, for Chatbots to be effective, they must be able to understand and respond to users' natural language input, which requires sophisticated NLP algorithms.
 
 4.2.9. Python programming language.
 
