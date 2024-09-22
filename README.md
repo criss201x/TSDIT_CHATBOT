@@ -165,12 +165,10 @@ Automating the communication of a Chatbot in such a way that it communicates on 
 
 self-learning, the system adapts and takes into account all the user's
 preferences and learns more and more about the user over time. [18]
+
 4.2.8. Natural Language Processing.
-Natural language processing (NLP) is a field of computer science,
-artificial intelligence, and computational linguistics that deals with the
-interactions between computers and human (natural) languages. It
-focuses on how to program computers to process and analyze large
-amounts of natural language data.
+
+Natural language processing (NLP) is a field of computer science, artificial intelligence, and computational linguistics that deals with the interactions between computers and human (natural) languages. It focuses on how to program computers to process and analyze large amounts of natural language data.
 
 Natural language processing (NLP) is experiencing rapid growth as its theories and methods are increasingly implemented in a wide range of different fields. In the humanities, work on corpora is gaining increasing prominence. Within industry, people need NLP for market analysis, web software development, to name a few examples. For this reason, it is important for many people to have some working knowledge of NLP. [19]
 
