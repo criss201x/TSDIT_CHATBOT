@@ -158,13 +158,13 @@ they can automate simple tasks that would otherwise be carried out by a
 banker over the phone, such as verifying your identity, blocking a stolen credit
 card, informing you of the hours of nearby offices or confirming an issued
 transfer. [17]
-4.2.7. Self-learning Chatbot.
-A self-learning Chatbot understands what the user wants and consequently saves the users effort to complete a daily task by communicating with the second Chatbot on behalf of the user. It tries to overcome the lack of knowledge of the user's preferences and requirements in making decisions on behalf of the user.
-Both the server and the chatbot interact with each other and work as if it were a normal conversation and the resulting output is returned to the user. This leads to reduced to sometimes zero input from the user while adapting the user's preferences and tastes. User preferences play a vital role in the conversation. The more the user interacts with the system, the more it trains the system to understand the user's preferences.
-Automating the communication of a Chatbot in such a way that it communicates on behalf of human preferences considering the preferences is what has been proven as a system. By
 
-self-learning, the system adapts and takes into account all the user's
-preferences and learns more and more about the user over time. [18]
+4.2.7. Self-learning Chatbot.
+
+A self-learning Chatbot understands what the user wants and consequently saves the users effort to complete a daily task by communicating with the second Chatbot on behalf of the user. It tries to overcome the lack of knowledge of the user's preferences and requirements in making decisions on behalf of the user.
+Both the server and the chatbot interact with each other and work as if it were a normal conversation and the resulting output is returned to the user. This leads to reduced to sometimes zero input from the user while adapting the user's preferences and tastes. User preferences play a vital role in the conversation. The more the user interacts with the system, the more it trains the system to understand the user's preferences. Automating the communication of a Chatbot in such a way that it communicates on behalf of human preferences considering the preferences is what has been proven as a system. By
+
+self-learning, the system adapts and takes into account all the user's preferences and learns more and more about the user over time. [18]
 
 4.2.8. Natural Language Processing.
 
