@@ -152,12 +152,7 @@ optimized to execute a certain number of specialized processes
 that eliminate the need to speak with an expert or to use more complex interfaces
 such as mobile applications or websites.
 
-Transactional chatbots can be implemented in various sectors,
-such as banking, insurance or e-commerce. In the financial sector, for example,
-they can automate simple tasks that would otherwise be carried out by a
-banker over the phone, such as verifying your identity, blocking a stolen credit
-card, informing you of the hours of nearby offices or confirming an issued
-transfer. [17]
+Transactional chatbots can be implemented in various sectors, such as banking, insurance or e-commerce. In the financial sector, for example, they can automate simple tasks that would otherwise be carried out by a banker over the phone, such as verifying your identity, blocking a stolen credit card, informing you of the hours of nearby offices or confirming an issued transfer. [17]
 
 4.2.7. Self-learning Chatbot.
 
