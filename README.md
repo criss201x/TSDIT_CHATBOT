@@ -142,15 +142,7 @@ This allows the chatbot to provide the best of both worlds: consistent responses
 
 4.2.6. Transactional Chatbots.
 
-A transactional chatbot acts as an agent and interacts with external
-systems to carry out a specific action. Thus, a transactional
-chatbot differs from the more common bots, also called informative or
-conversational chatbots, in that its objective is to
-automate a transaction and simplify the user experience
-by providing a suitable and fast channel for a specific objective. It is
-optimized to execute a certain number of specialized processes
-that eliminate the need to speak with an expert or to use more complex interfaces
-such as mobile applications or websites.
+A transactional chatbot acts as an agent and interacts with external systems to carry out a specific action. Thus, a transactional chatbot differs from the more common bots, also called informative or conversational chatbots, in that its objective is to automate a transaction and simplify the user experience by providing a suitable and fast channel for a specific objective. It is optimized to execute a certain number of specialized processes that eliminate the need to speak with an expert or to use more complex interfaces such as mobile applications or websites.
 
 Transactional chatbots can be implemented in various sectors, such as banking, insurance or e-commerce. In the financial sector, for example, they can automate simple tasks that would otherwise be carried out by a banker over the phone, such as verifying your identity, blocking a stolen credit card, informing you of the hours of nearby offices or confirming an issued transfer. [17]
 
