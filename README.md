@@ -136,9 +136,10 @@ predefined queries and possible resulting responses. It does not need any machin
 learning approach and language processing is not mandatory.
 They are intended for simple queries and may fail in more complicated questions as they cannot produce their own answers.
 (Jagdish Singh 2019) Proposed a rule-based Chatbot for students at Asia Pacific University (APU) to answer their queries from their administrative offices. The designed Chatbot allows end users to view information and interact with the Chatbot regarding their queries. The developed system was compatible with the bot's Facebook application page to access via a laptop or computing devices. [15]
-4.2.5. Hybrid Chatbots.
-A Hybrid Chatbot is a combination of rule-based and AI-powered Chatbots. They use pre-programmed rules to handle simple tasks and machine learning algorithms to handle more complex tasks.
-This allows the chatbot to provide the best of both worlds: consistent responses for simple tasks and personalized responses for complex tasks, providing an improved user experience that seamlessly blends automation with human assistance. [16]
+
+4.2.5. Hybrid Chatbots. 
+
+A Hybrid Chatbot is a combination of rule-based and AI-powered Chatbots. They use pre-programmed rules to handle simple tasks and machine learning algorithms to handle more complex tasks. This allows the chatbot to provide the best of both worlds: consistent responses for simple tasks and personalized responses for complex tasks, providing an improved user experience that seamlessly blends automation with human assistance. [16]
 
 4.2.6. Transactional Chatbots.
 
