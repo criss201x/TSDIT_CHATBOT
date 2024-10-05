@@ -130,11 +130,11 @@ before releasing it to production.
 Current Chatbot testing approaches either monitor the Chatbot output
 to assess performance or study the internal functionality of the Chatbot and the
 various algorithms involved.
+
 4.2.4. Rule-based Chatbots.
-Rule-based Chatbots rely on a list of simple,
-predefined queries and possible resulting responses. It does not need any machine
-learning approach and language processing is not mandatory.
-They are intended for simple queries and may fail in more complicated questions as they cannot produce their own answers.
+
+Rule-based Chatbots rely on a list of simple, predefined queries and possible resulting responses. It does not need any machine learning approach and language processing is not mandatory. They are intended for simple queries and may fail in more complicated questions as they cannot produce their own answers.
+
 (Jagdish Singh 2019) Proposed a rule-based Chatbot for students at Asia Pacific University (APU) to answer their queries from their administrative offices. The designed Chatbot allows end users to view information and interact with the Chatbot regarding their queries. The developed system was compatible with the bot's Facebook application page to access via a laptop or computing devices. [15]
 
 4.2.5. Hybrid Chatbots. 
