@@ -127,9 +127,8 @@ Chatbot performance is often measured by its similarity to that of a
 human. Therefore, it is imperative that Chatbots operate and interact in a
 desirable manner. Organizations must rigorously test and verify their Chatbot
 before releasing it to production.
-Current Chatbot testing approaches either monitor the Chatbot output
-to assess performance or study the internal functionality of the Chatbot and the
-various algorithms involved.
+
+Current Chatbot testing approaches either monitor the Chatbot output to assess performance or study the internal functionality of the Chatbot and the various algorithms involved.
 
 4.2.4. Rule-based Chatbots.
 
