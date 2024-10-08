@@ -114,12 +114,9 @@ Many Chatbots operate on a social/messaging platform, which has
 its terms and conditions regarding data handling.
 •
 Evaluating the performance of Chatbot systems.
-Chatbots are generally designed to serve specific purposes.
-For example, customer service Chatbots are designed
-specifically to meet the needs of customers seeking help, while conversational Chatbots are designed to have
-interactive communications with users. These Chatbots are designed
-and built based on the domain in which they will operate.
-Chatbots tend to fail when presented with situations and inputs that they are not familiar with. This may include ambiguous
+Chatbots are generally designed to serve specific purposes. 
+
+For example, customer service Chatbots are designed specifically to meet the needs of customers seeking help, while conversational Chatbots are designed to have interactive communications with users. These Chatbots are designed and built based on the domain in which they will operate. Chatbots tend to fail when presented with situations and inputs that they are not familiar with. This may include ambiguous
 
 statements, grammatically incorrect phrases, and statements outside the bot's
 operational domain. [14]
