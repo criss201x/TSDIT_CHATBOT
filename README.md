@@ -106,15 +106,9 @@ People use Chatbots for shopping assistance, banking communication,
 food delivery, healthcare, automobiles, and many other actions.
 However, it brings an additional security risk and creates serious security challenges that need to be managed.
 
-Modern Chatbots are no longer rule-based models, but rather
-employ modern natural language and machine learning techniques.
-Such techniques learn from a conversation, which may contain
-personal information [13] that must be treated appropriately, for which ethical and data handling policy rules are provided.
-Many Chatbots operate on a social/messaging platform, which has
-its terms and conditions regarding data handling.
-•
-Evaluating the performance of Chatbot systems.
-Chatbots are generally designed to serve specific purposes. 
+Modern Chatbots are no longer rule-based models, but rather employ modern natural language and machine learning techniques. Such techniques learn from a conversation, which may contain personal information [13] that must be treated appropriately, for which ethical and data handling policy rules are provided. Many Chatbots operate on a social/messaging platform, which has its terms and conditions regarding data handling.
+
+•Evaluating the performance of Chatbot systems. Chatbots are generally designed to serve specific purposes. 
 
 For example, customer service Chatbots are designed specifically to meet the needs of customers seeking help, while conversational Chatbots are designed to have interactive communications with users. These Chatbots are designed and built based on the domain in which they will operate. Chatbots tend to fail when presented with situations and inputs that they are not familiar with. This may include ambiguous
 
