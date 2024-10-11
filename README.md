@@ -98,13 +98,8 @@ may require developing a conversational agent that starts with the
 data, application logic, or graphical UI of the system to support
 natural language conversations leveraging artificial intelligence (AI)
 or more traditional software engineering approaches.[12]
-•
-Ethics, privacy, and security.
-Chatbots are increasingly popular artificial communication systems
-and not all of their security questions are clearly resolved.
-People use Chatbots for shopping assistance, banking communication,
-food delivery, healthcare, automobiles, and many other actions.
-However, it brings an additional security risk and creates serious security challenges that need to be managed.
+
+•Ethics, privacy, and security. Chatbots are increasingly popular artificial communication systems and not all of their security questions are clearly resolved. People use Chatbots for shopping assistance, banking communication, food delivery, healthcare, automobiles, and many other actions. However, it brings an additional security risk and creates serious security challenges that need to be managed.
 
 Modern Chatbots are no longer rule-based models, but rather employ modern natural language and machine learning techniques. Such techniques learn from a conversation, which may contain personal information [13] that must be treated appropriately, for which ethical and data handling policy rules are provided. Many Chatbots operate on a social/messaging platform, which has its terms and conditions regarding data handling.
 
