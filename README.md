@@ -88,16 +88,8 @@ Multimodal inputs.
 Multimodal AI is in the field of natural language dialogue systems. Multimodal models can use visual and linguistic cues to generate more human-like conversational responses. For example, a chatbot that understands the visual context of the conversation can generate more appropriate responses that consider not only the text of the conversation but also the images or videos that are shared. [11] Many chatbot platforms now support multimodal inputs as a standard feature. Multimodal chatbots are especially useful for complex interactions where multiple types of inputs are required, such as making a hotel reservation where the user may want to see photos of the rooms, ask questions about amenities, and check availability by voice or text.
 
 Integration with other technologies.
-Chatbots are being integrated with other technologies, such as machine learning,
-IoT, and AR/VR, to provide more complete solutions. For example,
-Chatbots can be integrated with machine learning algorithms to
-provide predictive analytics and personalized recommendations.
-Integration can also be defined as the problem of integrating
-conversational capabilities into existing software systems. Doing so
-may require developing a conversational agent that starts with the
-data, application logic, or graphical UI of the system to support
-natural language conversations leveraging artificial intelligence (AI)
-or more traditional software engineering approaches.[12]
+
+Chatbots are being integrated with other technologies, such as machine learning, IoT, and AR/VR, to provide more complete solutions. For example, Chatbots can be integrated with machine learning algorithms to provide predictive analytics and personalized recommendations. Integration can also be defined as the problem of integrating conversational capabilities into existing software systems. Doing so may require developing a conversational agent that starts with the data, application logic, or graphical UI of the system to support natural language conversations leveraging artificial intelligence (AI) or more traditional software engineering approaches.[12]
 
 •Ethics, privacy, and security. Chatbots are increasingly popular artificial communication systems and not all of their security questions are clearly resolved. People use Chatbots for shopping assistance, banking communication, food delivery, healthcare, automobiles, and many other actions. However, it brings an additional security risk and creates serious security challenges that need to be managed.
 
