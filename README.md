@@ -83,8 +83,8 @@ many communication channels (including voice, text, and video) and is context-aw
 involving multiple inputs/outputs. The critical difference between Chatbots and
 Conversational AI is that the former is a computer program,
 while the latter is a type of technology. [10]
-•
-Multimodal inputs.
+
+• Multimodal inputs.
 Multimodal AI is in the field of natural language dialogue systems. Multimodal models can use visual and linguistic cues to generate more human-like conversational responses. For example, a chatbot that understands the visual context of the conversation can generate more appropriate responses that consider not only the text of the conversation but also the images or videos that are shared. [11] Many chatbot platforms now support multimodal inputs as a standard feature. Multimodal chatbots are especially useful for complex interactions where multiple types of inputs are required, such as making a hotel reservation where the user may want to see photos of the rooms, ask questions about amenities, and check availability by voice or text.
 
 Integration with other technologies.
