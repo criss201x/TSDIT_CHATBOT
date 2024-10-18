@@ -66,9 +66,7 @@ The ideal of a chatbot is to ensure a seamless, human-like user experience. Chat
 
 4.2.2. How a chatbot works.
 
-To create chatbots, which replicate natural language conversations with users through messaging apps, websites, mobile apps, and phones, AI software is typically used. This application is essential as knowledge is pre-stored, allowing for self-learning and restoration of knowledge through human or online resources. As the application of the system takes the form of a
-Chatbot, it responds to user requests using the question-answer
-protocol [9].
+To create chatbots, which replicate natural language conversations with users through messaging apps, websites, mobile apps, and phones, AI software is typically used. This application is essential as knowledge is pre-stored, allowing for self-learning and restoration of knowledge through human or online resources. As the application of the system takes the form of a Chatbot, it responds to user requests using the question-answer protocol [9].
 
 4.2.3. Technological advancements and related trends.
 
