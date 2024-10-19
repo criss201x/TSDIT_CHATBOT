@@ -56,11 +56,7 @@ service and sales to entertainment and personal assistance. They can help
 organizations automate routine tasks, reduce response times and improve
 customer satisfaction.
 
-A chatbot can be rule-based or artificial intelligence-based. A
-rule-based chatbot follows a predefined set of rules and can only
-respond to specific keywords or phrases. An AI-based chatbot, on the other hand, employs machine
-learning algorithms to learn from previous interactions and improve its responses
-over time. An AI-based chatbot can also understand natural language inputs, making it more flexible and adaptable than a rule-based chatbot.
+A chatbot can be rule-based or artificial intelligence-based. A rule-based chatbot follows a predefined set of rules and can only respond to specific keywords or phrases. An AI-based chatbot, on the other hand, employs machine learning algorithms to learn from previous interactions and improve its responses over time. An AI-based chatbot can also understand natural language inputs, making it more flexible and adaptable than a rule-based chatbot.
 
 The ideal of a chatbot is to ensure a seamless, human-like user experience. Chatbots are currently the most popular because they can handle a variety of inputs, understand context, and provide relevant and helpful responses. Despite the challenges, chatbots have become increasingly popular in recent years, and many organizations are adopting them to improve their customer service and communication channels.
 
