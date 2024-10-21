@@ -48,13 +48,7 @@ ChatGTP is currently the greatest exponent of Chatbot technologies to study Its 
 A chatbot is a software designed to simulate conversations with human users,
 usually through messaging applications, such as
 
-Facebook Messenger, WhatsApp or Telegram. A chatbot usually
-employs natural language processing (NLP) algorithms to interpret
-user messages and provide automated responses. The purpose of a chatbot is to
-benefit from automating a wide range of tasks ranging from customer
-service and sales to entertainment and personal assistance. They can help
-organizations automate routine tasks, reduce response times and improve
-customer satisfaction.
+Facebook Messenger, WhatsApp or Telegram. A chatbot usually employs natural language processing (NLP) algorithms to interpret user messages and provide automated responses. The purpose of a chatbot is to benefit from automating a wide range of tasks ranging from customer service and sales to entertainment and personal assistance. They can help organizations automate routine tasks, reduce response times and improve customer satisfaction.
 
 A chatbot can be rule-based or artificial intelligence-based. A rule-based chatbot follows a predefined set of rules and can only respond to specific keywords or phrases. An AI-based chatbot, on the other hand, employs machine learning algorithms to learn from previous interactions and improve its responses over time. An AI-based chatbot can also understand natural language inputs, making it more flexible and adaptable than a rule-based chatbot.
 
