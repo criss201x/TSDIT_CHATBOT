@@ -61,6 +61,7 @@ To create chatbots, which replicate natural language conversations with users th
 4.2.3. Technological advancements and related trends.
 
 • Conversational AI. 
+
 Conversational AI makes it possible to understand human language and respond accordingly. In other words, conversational AI allows a Chatbot to respond to you naturally. 
  
 It uses voice recognition and machine learning to understand what people are saying, how they are feeling, what the context of the conversation is, and how they can respond appropriately. Furthermore, it supports many communication channels (including voice, text, and video) and is context-aware, allowing it to understand complex requests involving multiple inputs/outputs. The critical difference between Chatbots and Conversational AI is that the former is a computer program, while the latter is a type of technology. [10]
