@@ -40,7 +40,7 @@ The core of an application of this magnitude works through a model of large lang
 
 ChatGTP is currently the greatest exponent of Chatbot technologies to study Its architecture and integration modes are novel and can provide knowledge cutting-edge research.
 
-4.2. THEORETICAL FRAMEWORK
+### 4.2. THEORETICAL FRAMEWORK
 
 4.2.1. Chatbots.
 
