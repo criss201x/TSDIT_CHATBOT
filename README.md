@@ -119,7 +119,7 @@ Natural language processing (NLP) is experiencing rapid growth as its theories a
 
 The relationship between Chatbots and NLP lies in the fact that Chatbots have become an increasingly popular means of customer service and support for businesses. By using Chatbots, businesses can automate customer interactions, provide 24/7 support, and reduce the workload of human customer service representatives. However, for Chatbots to be effective, they must be able to understand and respond to users' natural language input, which requires sophisticated NLP algorithms.
 
-4.2.9. Python programming language.
+**4.2.9. Python programming language.**
 
 It is a multiplatform programming language, very popular in the industry. Being a dynamic language, it allows testing portions of code as they are generated, optimizing the programming and debugging time of the written code. Created by Guido van Rossum in 1989. This language is considered simple and easy to learn, granting the programmer virtues such as automatic memory management, simple reading or writing operations. In which it differs from other programming languages
 
