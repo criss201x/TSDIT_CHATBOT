@@ -171,3 +171,41 @@ As mentioned, digital transformation is a complex process that involves a re-eva
 In addition, Chatbots can significantly improve the customer experience by providing instant and personalized customer support. Customers can interact with a Chatbot at any time of the day and get accurate and fast answers to their questions.
 
 Another benefit of Chatbots is data collection. Chatbots can track and analyze customer interactions, allowing organizations to better understand customer needs and preferences and continuously improve their services and products. Additionally, chatbots can be integrated with data analytics and machine learning tools to identify patterns and trends in the data collected, which can help in business decision-making.
+
+TECHNOLOGICAL SOLUTION
+
+The technological solution aims to automate the management of frequently asked questions
+and their corresponding answers within the curricular project of
+Data Systematization Technology and Telematics Engineering. This will be
+achieved through the integration of a Chatbot into the WhatsApp instant messaging
+platform. The main goal is to alleviate the workload of the project's administrative
+staff, optimizing student service processes and
+offering efficient responses in real time.
+
+To achieve this result, a series of specific objectives were established
+that define each procedure or component of the Chatbot implementation.
+
+The technological solution is detailed below by specific objective.
+
+• Initially, an analysis must be carried out, where the scope of the processes that the Chatbot will cover will be explored and delimited through the automation of responses. This analysis must be aligned and documented according to the methodological flow used in the development of the project, as well as the research of the technologies that meet the requirements and allow the implementation.
+
+• Design and develop the software components necessary to integrate the Chatbot into the WhatsApp instant messaging service. This solution will be implemented in a microservices architecture exposed in APIs made in the Python programming language, which must have libraries specialized in artificial intelligence techniques.
+
+• Design and implement a data architecture that can store
+conversations and the Core of the response processing engine in an
+efficient manner, considering that the response processing engine will
+work adequately in a relational database such as PostgreSQL, on the other hand, considering the excess of
+write and read operations such as conversations, a non-relational approach such as Mongodb can be
+opted.
+
+• Train the response processing model using as an input source a catalog of rules defined from an analysis of the
+requirements survey. This input source must have a specific format that can be synchronized with the
+semantic and syntactical patterns of the natural language processing
+(NLP) technique used.
+
+• Deploying the Chatbot along with its components in a pre-production environment will be done through a cloud infrastructure provider that offers the benefits of an infrastructure as a service (IAAS) or platform as a service (PAAS) which make an abstraction of underlying network infrastructure configurations, such as provisioning or virtualization, thus allowing greater emphasis on the project objectives.
+
+• When selecting the cloud infrastructure provider, the costs and the catalog of services offered by layer (TIER) will be taken into account. Many cloud providers offer a free TIER which has limitations regarding services and storage, however, for this prototype it is likely that an initial investment must be made.
+
+• In the functional testing phase, the Chatbot will be evaluated in a scenario of questions with different conversational flows. In case there are corrections and improvements, the project will have a continuous integration and continuous deployment flow (CI/CD).
+It is important to highlight that this series of objectives will be carried out in a structured manner according to an agile methodology.
