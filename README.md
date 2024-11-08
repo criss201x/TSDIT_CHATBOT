@@ -198,10 +198,7 @@ work adequately in a relational database such as PostgreSQL, on the other hand, 
 write and read operations such as conversations, a non-relational approach such as Mongodb can be
 opted.
 
-• Train the response processing model using as an input source a catalog of rules defined from an analysis of the
-requirements survey. This input source must have a specific format that can be synchronized with the
-semantic and syntactical patterns of the natural language processing
-(NLP) technique used.
+• Train the response processing model using as an input source a catalog of rules defined from an analysis of the requirements survey. This input source must have a specific format that can be synchronized with the semantic and syntactical patterns of the natural language processing (NLP) technique used.
 
 • Deploying the Chatbot along with its components in a pre-production environment will be done through a cloud infrastructure provider that offers the benefits of an infrastructure as a service (IAAS) or platform as a service (PAAS) which make an abstraction of underlying network infrastructure configurations, such as provisioning or virtualization, thus allowing greater emphasis on the project objectives.
 
