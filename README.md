@@ -191,12 +191,9 @@ The technological solution is detailed below by specific objective.
 
 • Design and develop the software components necessary to integrate the Chatbot into the WhatsApp instant messaging service. This solution will be implemented in a microservices architecture exposed in APIs made in the Python programming language, which must have libraries specialized in artificial intelligence techniques.
 
-• Design and implement a data architecture that can store
-conversations and the Core of the response processing engine in an
-efficient manner, considering that the response processing engine will
-work adequately in a relational database such as PostgreSQL, on the other hand, considering the excess of
-write and read operations such as conversations, a non-relational approach such as Mongodb can be
-opted.
+• Design and implement a data architecture that can store 
+
+conversations and the Core of the response processing engine in an efficient manner, considering that the response processing engine will work adequately in a relational database such as PostgreSQL, on the other hand, considering the excess of write and read operations such as conversations, a non-relational approach such as Mongodb can be opted.
 
 • Train the response processing model using as an input source a catalog of rules defined from an analysis of the requirements survey. This input source must have a specific format that can be synchronized with the semantic and syntactical patterns of the natural language processing (NLP) technique used.
 
