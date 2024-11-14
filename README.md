@@ -182,8 +182,7 @@ platform. The main goal is to alleviate the workload of the project's administra
 staff, optimizing student service processes and
 offering efficient responses in real time.
 
-To achieve this result, a series of specific objectives were established
-that define each procedure or component of the Chatbot implementation.
+To achieve this result, a series of specific objectives were established that define each procedure or component of the Chatbot implementation.
 
 The technological solution is detailed below by specific objective.
 
