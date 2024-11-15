@@ -174,17 +174,9 @@ Another benefit of Chatbots is data collection. Chatbots can track and analyze c
 
 TECHNOLOGICAL SOLUTION
 
-The technological solution aims to automate the management of frequently asked questions
-and their corresponding answers within the curricular project of
-Data Systematization Technology and Telematics Engineering. This will be
-achieved through the integration of a Chatbot into the WhatsApp instant messaging
-platform. The main goal is to alleviate the workload of the project's administrative
-staff, optimizing student service processes and
-offering efficient responses in real time.
+The technological solution aims to automate the management of frequently asked questions and their corresponding answers within the curricular project of Data Systematization Technology and Telematics Engineering. This will be achieved through the integration of a Chatbot into the WhatsApp instant messaging platform. The main goal is to alleviate the workload of the project's administrative staff, optimizing student service processes and offering efficient responses in real time.
 
-To achieve this result, a series of specific objectives were established that define each procedure or component of the Chatbot implementation.
-
-The technological solution is detailed below by specific objective.
+To achieve this result, a series of specific objectives were established that define each procedure or component of the Chatbot implementation. The technological solution is detailed below by specific objective.
 
 • Initially, an analysis must be carried out, where the scope of the processes that the Chatbot will cover will be explored and delimited through the automation of responses. This analysis must be aligned and documented according to the methodological flow used in the development of the project, as well as the research of the technologies that meet the requirements and allow the implementation.
 
