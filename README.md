@@ -194,3 +194,4 @@ conversations and the Core of the response processing engine in an efficient man
 
 • In the functional testing phase, the Chatbot will be evaluated in a scenario of questions with different conversational flows. In case there are corrections and improvements, the project will have a continuous integration and continuous deployment flow (CI/CD).
 It is important to highlight that this series of objectives will be carried out in a structured manner according to an agile methodology.
+
