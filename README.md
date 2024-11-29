@@ -194,3 +194,97 @@ conversations and the Core of the response processing engine in an efficient man
 
 • In the functional testing phase, the Chatbot will be evaluated in a scenario of questions with different conversational flows. In case there are corrections and improvements, the project will have a continuous integration and continuous deployment flow (CI/CD).
 It is important to highlight that this series of objectives will be carried out in a structured manner according to an agile methodology.
+
+
+7.1.
+TECHNOLOGIES FOR THE DEVELOPMENT OF THE PROJECT
+Below are the technologies that were used in the development of the
+project:
+•
+RASA: Rasa is an open source platform for the development of
+Chatbots and virtual assistants powered by conversational
+artificial intelligence.
+As elements to highlight, Rasa offers an intuitive user interface
+that facilitates the creation of the Chatbot, can be scaled to support
+large volumes in conversations, and makes use of machine learning
+models that ensure that the Chatbot can understand and
+respond to natural language accurately. [28]
+•
+Python Virtual Environments: A Python virtual environment (venv) is a
+directory that contains a stand-alone installation of Python, along with
+the libraries and dependencies that a specific project needs. It is
+like having a separate copy of Python for the development of the Chatbot.
+The benefits of using Virtual Environments for developing the
+Chatbot are that it has its own set of dependencies, which avoids
+conflicts between other different projects, it guarantees operation
+in any environment with the correct Python configuration and libraries, which
+facilitates project management. [29]
+
+Twilio: It is a platform that provides communication tools
+so that phone call functionalities,
+text messages (SMS), chat, email and other forms of communication
+can be incorporated into applications and websites. Twilio acts as an
+intermediary between any application and cellular telephone networks and
+messaging service providers.
+This is a de facto tool that is suggested by Rasa for handling
+communications with WhatsApp, the Twilio platform offers an
+integration with the WhatsApp Business API, which allows you to take advantage
+of its advantages to improve communication, which is a fundamental part of
+Chatbot development. [30]
+•
+Mongo DB: Mongo DB is an open source, document-oriented NoSQL database written in C++. Unlike traditional relational databases that store information in tables with structured rows and columns, Mongo DB uses a flexible document model based on JSON (JavaScript Object Notation).
+In the development of the Chatbot it is ideal for storing dynamic and constantly changing data such as the conversational flow and the history record of conversations by storing them in JSON format. Due to its flexibility and scalability it allows fluid analysis and integration with Frameworks such as Rasa in the development and analysis of conversations. [31]
+•Postgres: PostgreSQL is an open source, robust and scalable relational database management system (RDBMS), ideal for storing business rules and knowledge bases for the Chatbot.
+It allows you to organize information in tables with well-defined relationships,
+guarantees the accuracy and consistency of the information through validation rules and
+restrictions. It provides high performance for reading and writing data, allowing fast and
+efficient access to business rules and the knowledge base. [32]
+•Docker: It is an open source platform that facilitates the development,
+execution and deployment of applications, such as the Chatbot, through the use of
+containers.
+
+When developing the Chatbot, Docker provides an isolated environment where the
+application can be developed and tested, along with all the necessary
+dependencies and configurations. You can ensure that the Chatbot works in various environments, making it easy to integrate and
+deploy on the WhatsApp messaging platform. [33]
+•
+BERT: (Bidirectional Encoder Representations from), is a machine learning
+technique used to train natural language models (NLP). BERT is based on the Transformer architecture, which allows for bidirectional text processing, that is, taking into account the full context of a sentence.
+In order to improve the accuracy of the Chatbot, this AI model will be used to train the Chatbot. [34]
+•
+DIETClassifier: (Dual Intent and Entity Transformer), is a multi-task natural language processing (NLP) model developed by Rasa
+NLU. Its main function lies in the classification of intents and the
+extraction of entities in dialog applications.
+This model is especially useful for empowering the Chatbot, allowing it to
+understand and respond naturally to user queries.
+Intent classification is crucial for identifying the purpose or goal of a user statement. [35]
+•
+
+
+Django: It is a free and open source web development framework
+based on Python, which provides a predefined structure and tools
+to build web applications faster and more efficiently.
+In the development of the Chatbot, based on Django and REST Framework, it is a
+versatile tool, it provides flexibility to support the rules and allows
+the Chatbot to be adapted to different needs and scenarios. [36]
+•
+Ngrok: It is a tool that allows a local server to be exposed to the Internet
+in a secure and temporary way. It works by creating a proxy server in the
+cloud, creates a secure tunnel between the computer and the server, then
+provides a unique URL that can be used to access a local server from any web browser or application.
+
+In the development of the Chatbot, this tool will be used to expose the
+Chatbot's messaging server to the Internet for the testing phase. [37]
+•
+AWS: Amazon Web Services, it is considered the most complete and used cloud platform
+in the world; Instead of having physical servers to
+store data and run applications, these resources can be rented.
+AWS offers a large number of comprehensive services ranging from
+basic infrastructure to emerging technologies such as AI and
+machine learning, which is precisely what this project is about.
+AWS is a tool that will facilitate the pre-production deployment of the
+Chatbot, since the application will be packaged in a Docker container
+and AWS has this service. [38]
+
+
+
