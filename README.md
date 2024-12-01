@@ -267,14 +267,10 @@ to build web applications faster and more efficiently.
 In the development of the Chatbot, based on Django and REST Framework, it is a
 versatile tool, it provides flexibility to support the rules and allows
 the Chatbot to be adapted to different needs and scenarios. [36]
-•
-Ngrok: It is a tool that allows a local server to be exposed to the Internet
-in a secure and temporary way. It works by creating a proxy server in the
-cloud, creates a secure tunnel between the computer and the server, then
-provides a unique URL that can be used to access a local server from any web browser or application.
 
-In the development of the Chatbot, this tool will be used to expose the
-Chatbot's messaging server to the Internet for the testing phase. [37]
+• Ngrok: It is a tool that allows a local server to be exposed to the Internet in a secure and temporary way. It works by creating a proxy server in the cloud, creates a secure tunnel between the computer and the server, then provides a unique URL that can be used to access a local server from any web browser or application.
+
+In the development of the Chatbot, this tool will be used to expose the Chatbot's messaging server to the Internet for the testing phase. [37]
 
 • AWS: Amazon Web Services, it is considered the most complete and used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented. AWS offers a large number of comprehensive services ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is about. AWS is a tool that will facilitate the pre-production deployment of the Chatbot, since the application will be packaged in a Docker container and AWS has this service. [38]
 
