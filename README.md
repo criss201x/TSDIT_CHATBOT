@@ -261,12 +261,7 @@ Intent classification is crucial for identifying the purpose or goal of a user s
 •
 
 
-Django: It is a free and open source web development framework
-based on Python, which provides a predefined structure and tools
-to build web applications faster and more efficiently.
-In the development of the Chatbot, based on Django and REST Framework, it is a
-versatile tool, it provides flexibility to support the rules and allows
-the Chatbot to be adapted to different needs and scenarios. [36]
+Django: It is a free and open source web development framework based on Python, which provides a predefined structure and tools to build web applications faster and more efficiently. In the development of the Chatbot, based on Django and REST Framework, it is a versatile tool, it provides flexibility to support the rules and allows the Chatbot to be adapted to different needs and scenarios. [36]
 
 • Ngrok: It is a tool that allows a local server to be exposed to the Internet in a secure and temporary way. It works by creating a proxy server in the cloud, creates a secure tunnel between the computer and the server, then provides a unique URL that can be used to access a local server from any web browser or application.
 
