@@ -243,13 +243,9 @@ efficient access to business rules and the knowledge base. [32]
 execution and deployment of applications, such as the Chatbot, through the use of
 containers.
 
-When developing the Chatbot, Docker provides an isolated environment where the
-application can be developed and tested, along with all the necessary
-dependencies and configurations. You can ensure that the Chatbot works in various environments, making it easy to integrate and
-deploy on the WhatsApp messaging platform. [33]
-•
-BERT: (Bidirectional Encoder Representations from), is a machine learning
-technique used to train natural language models (NLP). BERT is based on the Transformer architecture, which allows for bidirectional text processing, that is, taking into account the full context of a sentence.
+When developing the Chatbot, Docker provides an isolated environment where the application can be developed and tested, along with all the necessary dependencies and configurations. You can ensure that the Chatbot works in various environments, making it easy to integrate and deploy on the WhatsApp messaging platform. [33]
+
+• BERT: (Bidirectional Encoder Representations from), is a machine learning technique used to train natural language models (NLP). BERT is based on the Transformer architecture, which allows for bidirectional text processing, that is, taking into account the full context of a sentence.
 In order to improve the accuracy of the Chatbot, this AI model will be used to train the Chatbot. [34] 
 
 • DIETClassifier: (Dual Intent and Entity Transformer), is a multi-task natural language processing (NLP) model developed by Rasa NLU. Its main function lies in the classification of intents and the extraction of entities in dialog applications. This model is especially useful for empowering the Chatbot, allowing it to understand and respond naturally to user queries. Intent classification is crucial for identifying the purpose or goal of a user statement. [35]
