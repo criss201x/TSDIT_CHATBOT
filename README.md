@@ -233,15 +233,9 @@ of its advantages to improve communication, which is a fundamental part of
 Chatbot development. [30]
 •
 Mongo DB: Mongo DB is an open source, document-oriented NoSQL database written in C++. Unlike traditional relational databases that store information in tables with structured rows and columns, Mongo DB uses a flexible document model based on JSON (JavaScript Object Notation).
-In the development of the Chatbot it is ideal for storing dynamic and constantly changing data such as the conversational flow and the history record of conversations by storing them in JSON format. Due to its flexibility and scalability it allows fluid analysis and integration with Frameworks such as Rasa in the development and analysis of conversations. [31]
-•Postgres: PostgreSQL is an open source, robust and scalable relational database management system (RDBMS), ideal for storing business rules and knowledge bases for the Chatbot.
-It allows you to organize information in tables with well-defined relationships,
-guarantees the accuracy and consistency of the information through validation rules and
-restrictions. It provides high performance for reading and writing data, allowing fast and
-efficient access to business rules and the knowledge base. [32]
-•Docker: It is an open source platform that facilitates the development,
-execution and deployment of applications, such as the Chatbot, through the use of
-containers.
+In the development of the Chatbot it is ideal for storing dynamic and constantly changing data such as the conversational flow and the history record of conversations by storing them in JSON format. Due to its flexibility and scalability it allows fluid analysis and integration with Frameworks such as Rasa in the development and analysis of conversations. [31] 
+
+•Postgres: PostgreSQL is an open source, robust and scalable relational database management system (RDBMS), ideal for storing business rules and knowledge bases for the Chatbot. It allows you to organize information in tables with well-defined relationships, guarantees the accuracy and consistency of the information through validation rules and restrictions. It provides high performance for reading and writing data, allowing fast and efficient access to business rules and the knowledge base. [32] •Docker: It is an open source platform that facilitates the development, execution and deployment of applications, such as the Chatbot, through the use of containers.
 
 When developing the Chatbot, Docker provides an isolated environment where the application can be developed and tested, along with all the necessary dependencies and configurations. You can ensure that the Chatbot works in various environments, making it easy to integrate and deploy on the WhatsApp messaging platform. [33]
 
