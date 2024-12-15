@@ -220,17 +220,9 @@ conflicts between other different projects, it guarantees operation
 in any environment with the correct Python configuration and libraries, which
 facilitates project management. [29]
 
-Twilio: It is a platform that provides communication tools
-so that phone call functionalities,
-text messages (SMS), chat, email and other forms of communication
-can be incorporated into applications and websites. Twilio acts as an
-intermediary between any application and cellular telephone networks and
-messaging service providers.
-This is a de facto tool that is suggested by Rasa for handling
-communications with WhatsApp, the Twilio platform offers an
-integration with the WhatsApp Business API, which allows you to take advantage
-of its advantages to improve communication, which is a fundamental part of
-Chatbot development. [30]
+• Twilio: It is a platform that provides communication tools so that phone call functionalities, text messages (SMS), chat, email and other forms of communication can be incorporated into applications and websites. Twilio acts as an intermediary between any application and cellular telephone networks and messaging service providers.
+
+This is a de facto tool that is suggested by Rasa for handling communications with WhatsApp, the Twilio platform offers an integration with the WhatsApp Business API, which allows you to take advantage of its advantages to improve communication, which is a fundamental part of Chatbot development. [30]
 
 • Mongo DB: Mongo DB is an open source, document-oriented NoSQL database written in C++. Unlike traditional relational databases that store information in tables with structured rows and columns, Mongo DB uses a flexible document model based on JSON (JavaScript Object Notation).
 In the development of the Chatbot it is ideal for storing dynamic and constantly changing data such as the conversational flow and the history record of conversations by storing them in JSON format. Due to its flexibility and scalability it allows fluid analysis and integration with Frameworks such as Rasa in the development and analysis of conversations. [31] 
