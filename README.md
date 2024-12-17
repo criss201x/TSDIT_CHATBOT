@@ -208,17 +208,11 @@ As elements to highlight, Rasa offers an intuitive user interface
 that facilitates the creation of the Chatbot, can be scaled to support
 large volumes in conversations, and makes use of machine learning
 models that ensure that the Chatbot can understand and
-respond to natural language accurately. [28]
-•
-Python Virtual Environments: A Python virtual environment (venv) is a
-directory that contains a stand-alone installation of Python, along with
-the libraries and dependencies that a specific project needs. It is
-like having a separate copy of Python for the development of the Chatbot.
-The benefits of using Virtual Environments for developing the
-Chatbot are that it has its own set of dependencies, which avoids
-conflicts between other different projects, it guarantees operation
-in any environment with the correct Python configuration and libraries, which
-facilitates project management. [29]
+respond to natural language accurately. [28] 
+
+• Python Virtual Environments: A Python virtual environment (venv) is a directory that contains a stand-alone installation of Python, along with the libraries and dependencies that a specific project needs. It is like having a separate copy of Python for the development of the Chatbot. 
+
+The benefits of using Virtual Environments for developing the Chatbot are that it has its own set of dependencies, which avoids conflicts between other different projects, it guarantees operation in any environment with the correct Python configuration and libraries, which facilitates project management. [29]
 
 • Twilio: It is a platform that provides communication tools so that phone call functionalities, text messages (SMS), chat, email and other forms of communication can be incorporated into applications and websites. Twilio acts as an intermediary between any application and cellular telephone networks and messaging service providers.
 
