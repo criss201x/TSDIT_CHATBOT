@@ -196,10 +196,9 @@ conversations and the Core of the response processing engine in an efficient man
 It is important to highlight that this series of objectives will be carried out in a structured manner according to an agile methodology.
 
 
-7.1.
-TECHNOLOGIES FOR THE DEVELOPMENT OF THE PROJECT
-Below are the technologies that were used in the development of the
-project:
+7.1. TECHNOLOGIES FOR THE DEVELOPMENT OF THE PROJECT
+
+Below are the technologies that were used in the development of the project:
 
 • RASA: Rasa is an open source platform for the development of Chatbots and virtual assistants powered by conversational artificial intelligence. As elements to highlight, Rasa offers an intuitive user interface that facilitates the creation of the Chatbot, can be scaled to support large volumes in conversations, and makes use of machine learning models that ensure that the Chatbot can understand and respond to natural language accurately. [28] 
 
