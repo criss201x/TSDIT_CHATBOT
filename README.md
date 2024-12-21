@@ -230,5 +230,3 @@ In the development of the Chatbot, this tool will be used to expose the Chatbot'
 
 • AWS: Amazon Web Services, it is considered the most complete and used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented. AWS offers a large number of comprehensive services ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is about. AWS is a tool that will facilitate the pre-production deployment of the Chatbot, since the application will be packaged in a Docker container and AWS has this service. [38]
 
-
-
