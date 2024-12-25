@@ -229,3 +229,54 @@ In order to improve the accuracy of the Chatbot, this AI model will be used to t
 In the development of the Chatbot, this tool will be used to expose the Chatbot's messaging server to the Internet for the testing phase. [37]
 
 • AWS: Amazon Web Services, it is considered the most complete and used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented. AWS offers a large number of comprehensive services ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is about. AWS is a tool that will facilitate the pre-production deployment of the Chatbot, since the application will be packaged in a Docker container and AWS has this service. [38]
+
+
+
+In project management, the Kanban methodology has emerged as a
+tool that offers a complete and effective perspective for the
+successful development and execution of projects. By providing a transparent and
+detailed view of the work process, Kanban is presented as a
+valuable solution for managing tasks, optimizing time and achieving goals
+efficiently.
+The Kanban methodology is a project management tool and is a
+great option for project development. This methodology offers a
+transparent way to manage tasks and visualize the process of
+carrying them out. This methodology helps prioritize tasks and
+manage time efficiently.
+The first step in implementing the Kanban methodology is to define the
+project workflow. To do this, a board must be created that is accessible
+by all team members. Each column on the board must correspond to a
+specific state of the task flow, from start to finish. It is important that the board has as many columns as the states that a task goes through,
+
+so that you can know the status of each activity.
+
+One of the peculiarities of the Kanban board is that it is continuous,
+unlike Scrum. As you move forward, new tasks accumulate
+in the initial section, and in regular meetings they are prioritized and placed
+in the section that is deemed appropriate. This board can be
+specific for a specific project or generic, depending on the
+needs of the team.
+The second step to implement the Kanban methodology is to visualize the
+phases of the production cycle. To do this, the work is divided into different parts,
+which speeds up the production process. Each of these parts is written
+on a post-it and stuck on the board, in the corresponding phase. These post-its
+contain the basic information so that the team quickly knows the total workload that it
+entails. In addition, photos can be used to
+assign responsibilities, as well as cards with different shapes to
+put observations or indicate blockages.
+The goal of the visualization is to make as clear as possible the work to be done, the
+tasks assigned to each team member, the priorities and the assigned goal. This helps students to have a clear idea of ​​what is
+expected of them and to prioritize tasks based on importance and urgency.
+Finally, the third step to implement the Kanban methodology in the
+project is to apply the motto "Stop Starting, Start Finishing." This means that
+work that is in progress is prioritized instead of starting new tasks. Instead of
+jumping from one task to another, the focus should be on finishing tasks that are
+already in progress before moving on to new tasks. This helps to
+avoid overwork and the accumulation of pending tasks.
+The Kanban methodology turns out to be an effective tool to manage
+degree projects efficiently and transparently. This methodology can be applied to prioritize tasks, visualize the production process, and avoid
+overwork. With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.
+[39]
+Workflow for project development with the Kanban methodology
+
+
