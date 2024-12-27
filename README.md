@@ -275,8 +275,9 @@ already in progress before moving on to new tasks. This helps to
 avoid overwork and the accumulation of pending tasks.
 The Kanban methodology turns out to be an effective tool to manage
 degree projects efficiently and transparently. This methodology can be applied to prioritize tasks, visualize the production process, and avoid
-overwork. With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.
-[39]
-Workflow for project development with the Kanban methodology
+overwork. 
+
+With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.
+[39] Workflow for project development with the Kanban methodology
 
 
