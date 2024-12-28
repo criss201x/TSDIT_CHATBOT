@@ -267,14 +267,15 @@ put observations or indicate blockages.
 The goal of the visualization is to make as clear as possible the work to be done, the
 tasks assigned to each team member, the priorities and the assigned goal. This helps students to have a clear idea of ​​what is
 expected of them and to prioritize tasks based on importance and urgency.
+
 Finally, the third step to implement the Kanban methodology in the
 project is to apply the motto "Stop Starting, Start Finishing." This means that
 work that is in progress is prioritized instead of starting new tasks. Instead of
 jumping from one task to another, the focus should be on finishing tasks that are
 already in progress before moving on to new tasks. This helps to
-avoid overwork and the accumulation of pending tasks.
-The Kanban methodology turns out to be an effective tool to manage
-degree projects efficiently and transparently. This methodology can be applied to prioritize tasks, visualize the production process, and avoid
+avoid overwork and the accumulation of pending tasks. 
+
+The Kanban methodology turns out to be an effective tool to manage degree projects efficiently and transparently. This methodology can be applied to prioritize tasks, visualize the production process, and avoid
 overwork. 
 
 With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.
