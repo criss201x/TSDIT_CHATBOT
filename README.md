@@ -264,9 +264,8 @@ contain the basic information so that the team quickly knows the total workload 
 entails. In addition, photos can be used to
 assign responsibilities, as well as cards with different shapes to
 put observations or indicate blockages.
-The goal of the visualization is to make as clear as possible the work to be done, the
-tasks assigned to each team member, the priorities and the assigned goal. This helps students to have a clear idea of ​​what is
-expected of them and to prioritize tasks based on importance and urgency.
+
+The goal of the visualization is to make as clear as possible the work to be done, the tasks assigned to each team member, the priorities and the assigned goal. This helps students to have a clear idea of ​​what is expected of them and to prioritize tasks based on importance and urgency.
 
 Finally, the third step to implement the Kanban methodology in the project is to apply the motto "Stop Starting, Start Finishing." This means that work that is in progress is prioritized instead of starting new tasks. Instead of jumping from one task to another, the focus should be on finishing tasks that are already in progress before moving on to new tasks. This helps to avoid overwork and the accumulation of pending tasks. 
 
