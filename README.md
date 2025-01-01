@@ -256,14 +256,8 @@ in the initial section, and in regular meetings they are prioritized and placed
 in the section that is deemed appropriate. This board can be
 specific for a specific project or generic, depending on the
 needs of the team.
-The second step to implement the Kanban methodology is to visualize the
-phases of the production cycle. To do this, the work is divided into different parts,
-which speeds up the production process. Each of these parts is written
-on a post-it and stuck on the board, in the corresponding phase. These post-its
-contain the basic information so that the team quickly knows the total workload that it
-entails. In addition, photos can be used to
-assign responsibilities, as well as cards with different shapes to
-put observations or indicate blockages.
+
+The second step to implement the Kanban methodology is to visualize the phases of the production cycle. To do this, the work is divided into different parts, which speeds up the production process. Each of these parts is written on a post-it and stuck on the board, in the corresponding phase. These post-its contain the basic information so that the team quickly knows the total workload that it entails. In addition, photos can be used to assign responsibilities, as well as cards with different shapes to put observations or indicate blockages.
 
 The goal of the visualization is to make as clear as possible the work to be done, the tasks assigned to each team member, the priorities and the assigned goal. This helps students to have a clear idea of ​​what is expected of them and to prioritize tasks based on importance and urgency.
 
