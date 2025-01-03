@@ -243,10 +243,8 @@ great option for project development. This methodology offers a
 transparent way to manage tasks and visualize the process of
 carrying them out. This methodology helps prioritize tasks and
 manage time efficiently.
-The first step in implementing the Kanban methodology is to define the
-project workflow. To do this, a board must be created that is accessible
-by all team members. Each column on the board must correspond to a
-specific state of the task flow, from start to finish. It is important that the board has as many columns as the states that a task goes through,
+ 
+The first step in implementing the Kanban methodology is to define the  project workflow. To do this, a board must be created that is accessible by all team members. Each column on the board must correspond to a specific state of the task flow, from start to finish. It is important that the board has as many columns as the states that a task goes through,
 
 so that you can know the status of each activity.
 
