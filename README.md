@@ -230,8 +230,6 @@ In the development of the Chatbot, this tool will be used to expose the Chatbot'
 
 • AWS: Amazon Web Services, it is considered the most complete and used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented. AWS offers a large number of comprehensive services ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is about. AWS is a tool that will facilitate the pre-production deployment of the Chatbot, since the application will be packaged in a Docker container and AWS has this service. [38]
 
-
-
 In project management, the Kanban methodology has emerged as a tool that offers a complete and effective perspective for the successful development and execution of projects. By providing a transparent and detailed view of the work process, Kanban is presented as a valuable solution for managing tasks, optimizing time and achieving goals efficiently.
 
 The Kanban methodology is a project management tool and is a great option for project development. This methodology offers a transparent way to manage tasks and visualize the process of carrying them out. This methodology helps prioritize tasks and manage time efficiently.
@@ -251,7 +249,6 @@ Finally, the third step to implement the Kanban methodology in the project is to
 The Kanban methodology turns out to be an effective tool to manage degree projects efficiently and transparently. This methodology can be applied to prioritize tasks, visualize the production process, and avoid
 overwork. 
 
-With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.
-[39] Workflow for project development with the Kanban methodology
+With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.[39] Workflow for project development with the Kanban methodology
 
 
