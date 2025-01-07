@@ -232,12 +232,7 @@ In the development of the Chatbot, this tool will be used to expose the Chatbot'
 
 
 
-In project management, the Kanban methodology has emerged as a
-tool that offers a complete and effective perspective for the
-successful development and execution of projects. By providing a transparent and
-detailed view of the work process, Kanban is presented as a
-valuable solution for managing tasks, optimizing time and achieving goals
-efficiently.
+In project management, the Kanban methodology has emerged as a tool that offers a complete and effective perspective for the successful development and execution of projects. By providing a transparent and detailed view of the work process, Kanban is presented as a valuable solution for managing tasks, optimizing time and achieving goals efficiently.
 
 The Kanban methodology is a project management tool and is a great option for project development. This methodology offers a transparent way to manage tasks and visualize the process of carrying them out. This methodology helps prioritize tasks and manage time efficiently.
  
