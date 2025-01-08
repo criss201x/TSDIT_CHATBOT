@@ -250,5 +250,3 @@ The Kanban methodology turns out to be an effective tool to manage degree projec
 overwork. 
 
 With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.[39] Workflow for project development with the Kanban methodology
-
-
