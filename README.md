@@ -304,8 +304,7 @@ Training tests: Perform tests to evaluate the Chatbot's performance.
 Phase 5: Implementation
 
 •Cloud Provider: Select a public cloud provider for Chatbot deployment.
-•••
 
-Service Deployment: Deploy Chatbot services and obtain corresponding domains.
-Technology Architecture: Define the technology architecture for Chatbot deployment. 
-Documentation: Build the Chatbot's technical and functional manual.
+•Service Deployment: Deploy Chatbot services and obtain corresponding domains.
+•Technology Architecture: Define the technology architecture for Chatbot deployment. 
+•Documentation: Build the Chatbot's technical and functional manual.
