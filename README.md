@@ -295,16 +295,14 @@ databases to store the Chatbot conversations and the neural network
 training data.
 o Data Neural Network Training: Define information processing with model training
 
-Phase 4: Functional Testing
-•
-•
-Functional testing: Perform unit tests to ensure consistency and fluidity in conversations.
-Training tests: Perform tests to evaluate the Chatbot's performance.
+### Phase 4: Functional Testing
 
-Phase 5: Implementation
+• Functional testing: Perform unit tests to ensure consistency and fluidity in conversations.
+• Training tests: Perform tests to evaluate the Chatbot's performance.
 
-•Cloud Provider: Select a public cloud provider for Chatbot deployment.
+### Phase 5: Implementation
 
-•Service Deployment: Deploy Chatbot services and obtain corresponding domains.
-•Technology Architecture: Define the technology architecture for Chatbot deployment. 
-•Documentation: Build the Chatbot's technical and functional manual.
+• Cloud Provider: Select a public cloud provider for Chatbot deployment.
+• Service Deployment: Deploy Chatbot services and obtain corresponding domains.
+• Technology Architecture: Define the technology architecture for Chatbot deployment. 
+• Documentation: Build the Chatbot's technical and functional manual.
