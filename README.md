@@ -286,14 +286,7 @@ data input and output protocols for the Chatbot.
 •
 Phase II: Development of WhatsApp integration middleware
 
-Communication protocol and channel: Select and implement the
-communication protocol for WhatsApp integration.
-o Conversation rules management system: Design and
-develop an application for managing conversation rules.
-o Conversation databases: Design and develop the
-databases to store the Chatbot conversations and the neural network
-training data.
-o Data Neural Network Training: Define information processing with model training
+Communication protocol and channel: Select and implement the communication protocol for WhatsApp integration. o Conversation rules management system: Design and develop an application for managing conversation rules. o Conversation databases: Design and develop the databases to store the Chatbot conversations and the neural network training data. o Data Neural Network Training: Define information processing with model training
 
 ### Phase 4: Functional Testing
 
