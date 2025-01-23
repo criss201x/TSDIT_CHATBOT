@@ -275,13 +275,10 @@ automated with the Chatbot.
 
 Phase 3: Development
 •
-Phase I: Development of the Chatbot Core
-o Development environment: Set up the development environment for the
-Chatbot.
-o NLP model training: Train the Chatbot's artificial intelligence
-model to understand natural language.
-o Input/output protocols: Select and implement the
-data input and output protocols for the Chatbot.
+
+Phase I: Development of the Chatbot Core o Development environment: 
+
+Set up the development environment for the Chatbot. o NLP model training: Train the Chatbot's artificial intelligence model to understand natural language. o Input/output protocols: Select and implement the data input and output protocols for the Chatbot.
 
 • Phase II: Development of WhatsApp integration middleware
 
