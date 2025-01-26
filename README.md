@@ -265,13 +265,9 @@ Processes to be covered: Identify the processes or procedures that will be
 automated with the Chatbot.
 Conversational flow: Design the Chatbot conversation flow.
 
-Phase 2: Design
-•
-•
-Application architecture: Define the Chatbot system architecture,
-including the different components and their interconnection.
-Process modeling: Document the processes or procedures that will be
-automated with the Chatbot.
+• Phase 2: Design
+
+• Application architecture: Define the Chatbot system architecture, including the different components and their interconnection. Process modeling: Document the processes or procedures that will be automated with the Chatbot.
 
 Phase 3: Development
 
