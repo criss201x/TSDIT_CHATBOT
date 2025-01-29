@@ -252,6 +252,7 @@ overwork.
 With proper implementation, the Kanban methodology can help successfully complete the project that has been planned.[39] Workflow for project development with the Kanban methodology
 
 7.2.2. Workflow for project development using the Kanban methodology
+
 Phase 1: Planning
 
 • Proposed solution: Define the Chatbot solution to be developed, including its objectives and components. Chatbot requirements: Specify the functionalities and features of the Chatbot, including the scope. Processes to be covered: Identify the processes or procedures that will be automated with the Chatbot. Conversational flow: Design the Chatbot conversation flow.
@@ -266,7 +267,7 @@ Phase 3: Development
 
 Set up the development environment for the Chatbot. o NLP model training: Train the Chatbot's artificial intelligence model to understand natural language. o Input/output protocols: Select and implement the data input and output protocols for the Chatbot.
 
-• Phase II: Development of WhatsApp integration middleware
+### Phase II: Development of WhatsApp integration middleware
 
 Communication protocol and channel: Select and implement the communication protocol for WhatsApp integration. o Conversation rules management system: Design and develop an application for managing conversation rules. o Conversation databases: Design and develop the databases to store the Chatbot conversations and the neural network training data. o Data Neural Network Training: Define information processing with model training
 
