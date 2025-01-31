@@ -257,7 +257,7 @@ Phase 1: Planning
 
 • Proposed solution: Define the Chatbot solution to be developed, including its objectives and components. Chatbot requirements: Specify the functionalities and features of the Chatbot, including the scope. Processes to be covered: Identify the processes or procedures that will be automated with the Chatbot. Conversational flow: Design the Chatbot conversation flow.
 
-• Phase 2: Design
+### Phase 2: Design
 
 • Application architecture: Define the Chatbot system architecture, including the different components and their interconnection. Process modeling: Document the processes or procedures that will be automated with the Chatbot.
 
