@@ -282,3 +282,77 @@ Communication protocol and channel: Select and implement the communication proto
 • Service Deployment: Deploy Chatbot services and obtain corresponding domains.
 • Technology Architecture: Define the technology architecture for Chatbot deployment. 
 • Documentation: Build the Chatbot's technical and functional manual.
+
+7.4.
+I.
+PROJECT DEVELOPMENT
+Planning Phase.
+
+a. Proposed solution.
+The proposed technological solution for the Chatbot aims to
+automate the management of frequently asked questions and their corresponding
+answers within the curricular project of Data Systematization Technology and
+Telematics Engineering. This will be achieved through the integration
+of a Chatbot into the WhatsApp instant messaging platform.
+The solution is composed of the following components:
+✓ Scope analysis: An analysis will be carried out to define the
+functions and requirements of the Chatbot, in addition to delimiting the scope of the
+processes that will be automated by the Chatbot.
+✓ Design and implementation of software components: The software
+components necessary to integrate the Chatbot into WhatsApp will be
+designed and developed. These components will be
+implemented in a microservices architecture exposed in
+APIS made in the Python programming language.
+
+✓ Data architecture: A data architecture will be designed and implemented that can store conversations and the Core of the response processing engine efficiently. The response processing engine will work properly in a relational database such as PostgreSQL, but a non-relational database such as Mongodb can be chosen for conversations.
+✓ Response processing model training: The response processing model will be trained using as an input source a catalog of rules defined from an analysis of the requirements gathering. This input source must have a specific format that can be synchronized with the semantic and syntactical patterns of the NLP technique used.
+✓ Functional tests: The Chatbot will be evaluated in a scenario of questions with different users. In case there are corrections and improvements, a continuous integration and continuous deployment flow (CI/CD) will be used in accordance with DevOps best practices.
+✓ Deployment in a pre-production environment: The Chatbot and its
+components will be deployed in an environment through a cloud infrastructure
+provider. A provider that offers the benefits of an infrastructure as a service (IAAS) or
+platform as a service (PAAS) will be used, which will allow the generation of network
+infrastructure configurations.
+b. Define functions and requirements of the Chatbot.
+The main function of the Chatbot is to provide information and assistance to the
+user automatically, with content that is understandable in the university context. Within the requirements, it must be taken into account that
+the end users of the Chatbot will mainly be students, teachers and
+administrative staff.
+The current scope of the Chatbot is limited to the internal procedures of the
+university, but it is contemplated that in the future it may be used by
+external personnel. Therefore, it is important to define the processes that will be
+
+covered in the Chatbot, taking into account the current needs of these users.
+c. Processes that will be covered with the Chatbot.
+The content that will be used in the Chatbot is important, so the procedures associated with Data Systematization Technology1 will be taken into account, which in turn are the same for telematics engineering:
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Validation request
+Cancellation of subjects
+Request for NO renewal of registration
+Request for voluntary withdrawal
+Grade sheets
+Study certificates, programmatic content (Syllabus), good conduct
+Formats
+Projects and Preliminary Projects - Schedules
+Format for adding and canceling subjects
+Deepening mode
+Completion of subjects
+Saber T and T exam
+Graduation ceremony
+d. Chatbot Conversational Flow.
+See Annex A
+II.
+Design Phase
+
+
