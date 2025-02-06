@@ -341,18 +341,8 @@ Validation request
 Cancellation of subjects
 Request for NO renewal of registration
 Request for voluntary withdrawal
-Grade sheets
-Study certificates, programmatic content (Syllabus), good conduct
-Formats
-Projects and Preliminary Projects - Schedules
-Format for adding and canceling subjects
-Deepening mode
-Completion of subjects
-Saber T and T exam
-Graduation ceremony
-d. Chatbot Conversational Flow.
-See Annex A
-II.
-Design Phase
+Grade sheets Study certificates, programmatic content (Syllabus), good conduct Formats Projects and Preliminary Projects - Schedules Format for adding and canceling subjects Deepening mode Completion of subjects Saber T and T exam Graduation ceremony 
+d. Chatbot Conversational Flow. See Annex A
+II. Design Phase
 
 
