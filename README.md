@@ -317,32 +317,17 @@ The main function of the Chatbot is to provide information and assistance to the
 user automatically, with content that is understandable in the university context. Within the requirements, it must be taken into account that
 the end users of the Chatbot will mainly be students, teachers and
 administrative staff.
-The current scope of the Chatbot is limited to the internal procedures of the
-university, but it is contemplated that in the future it may be used by
-external personnel. Therefore, it is important to define the processes that will be
+
+The current scope of the Chatbot is limited to the internal procedures of the university, but it is contemplated that in the future it may be used by external personnel. Therefore, it is important to define the processes that will be 
 
 covered in the Chatbot, taking into account the current needs of these users.
+
 c. Processes that will be covered with the Chatbot.
 The content that will be used in the Chatbot is important, so the procedures associated with Data Systematization Technology1 will be taken into account, which in turn are the same for telematics engineering:
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-✓
-Validation request
-Cancellation of subjects
-Request for NO renewal of registration
-Request for voluntary withdrawal
-Grade sheets Study certificates, programmatic content (Syllabus), good conduct Formats Projects and Preliminary Projects - Schedules Format for adding and canceling subjects Deepening mode Completion of subjects Saber T and T exam Graduation ceremony 
+Validation request Cancellation of subjects Request for NO renewal of registration Request for voluntary withdrawal Grade sheets Study certificates, programmatic content (Syllabus), good conduct Formats Projects and Preliminary Projects - Schedules Format for adding and canceling subjects Deepening mode Completion of subjects Saber T and T exam Graduation ceremony 
+
 d. Chatbot Conversational Flow. See Annex A
+
 II. Design Phase
 
 
