@@ -312,11 +312,10 @@ components will be deployed in an environment through a cloud infrastructure
 provider. A provider that offers the benefits of an infrastructure as a service (IAAS) or
 platform as a service (PAAS) will be used, which will allow the generation of network
 infrastructure configurations.
-b. Define functions and requirements of the Chatbot.
-The main function of the Chatbot is to provide information and assistance to the
-user automatically, with content that is understandable in the university context. Within the requirements, it must be taken into account that
-the end users of the Chatbot will mainly be students, teachers and
-administrative staff.
+
+### b. Define functions and requirements of the Chatbot.
+
+The main function of the Chatbot is to provide information and assistance to the user automatically, with content that is understandable in the university context. Within the requirements, it must be taken into account that the end users of the Chatbot will mainly be students, teachers and administrative staff.
 
 The current scope of the Chatbot is limited to the internal procedures of the university, but it is contemplated that in the future it may be used by external personnel. Therefore, it is important to define the processes that will be 
 
