@@ -295,11 +295,8 @@ answers within the curricular project of Data Systematization Technology and
 Telematics Engineering. This will be achieved through the integration
 of a Chatbot into the WhatsApp instant messaging platform.
 The solution is composed of the following components:
-✓ Scope analysis: An analysis will be carried out to define the
-functions and requirements of the Chatbot, in addition to delimiting the scope of the
-processes that will be automated by the Chatbot. 
+✓ Scope analysis: An analysis will be carried out to define the functions and requirements of the Chatbot, in addition to delimiting the scope of the processes that will be automated by the Chatbot. 
 ✓ Design and implementation of software components: The software components necessary to integrate the Chatbot into WhatsApp will be designed and developed. These components will be implemented in a microservices architecture exposed in APIS made in the Python programming language.
-
 ✓ Data architecture: A data architecture will be designed and implemented that can store conversations and the Core of the response processing engine efficiently. The response processing engine will work properly in a relational database such as PostgreSQL, but a non-relational database such as Mongodb can be chosen for conversations.
 ✓ Response processing model training: The response processing model will be trained using as an input source a catalog of rules defined from an analysis of the requirements gathering. This input source must have a specific format that can be synchronized with the semantic and syntactical patterns of the NLP technique used.
 ✓ Functional tests: The Chatbot will be evaluated in a scenario of questions with different users. In case there are corrections and improvements, a continuous integration and continuous deployment flow (CI/CD) will be used in accordance with DevOps best practices.
