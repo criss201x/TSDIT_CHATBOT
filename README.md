@@ -289,12 +289,9 @@ PROJECT DEVELOPMENT
 Planning Phase.
 
 a. Proposed solution.
-The proposed technological solution for the Chatbot aims to
-automate the management of frequently asked questions and their corresponding
-answers within the curricular project of Data Systematization Technology and
-Telematics Engineering. This will be achieved through the integration
-of a Chatbot into the WhatsApp instant messaging platform.
-The solution is composed of the following components:
+
+The proposed technological solution for the Chatbot aims to automate the management of frequently asked questions and their corresponding answers within the curricular project of Data Systematization Technology and Telematics Engineering. This will be achieved through the integration of a Chatbot into the WhatsApp instant messaging platform. The solution is composed of the following components:
+
 ✓ Scope analysis: An analysis will be carried out to define the functions and requirements of the Chatbot, in addition to delimiting the scope of the processes that will be automated by the Chatbot. 
 ✓ Design and implementation of software components: The software components necessary to integrate the Chatbot into WhatsApp will be designed and developed. These components will be implemented in a microservices architecture exposed in APIS made in the Python programming language.
 ✓ Data architecture: A data architecture will be designed and implemented that can store conversations and the Core of the response processing engine efficiently. The response processing engine will work properly in a relational database such as PostgreSQL, but a non-relational database such as Mongodb can be chosen for conversations.
