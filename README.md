@@ -315,5 +315,3 @@ Validation request Cancellation of subjects Request for NO renewal of registrati
 d. Chatbot Conversational Flow. See Annex A
 
 II. Design Phase
-
-
