@@ -283,9 +283,10 @@ Communication protocol and channel: Select and implement the communication proto
 • Technology Architecture: Define the technology architecture for Chatbot deployment. 
 • Documentation: Build the Chatbot's technical and functional manual.
 
-7.4.
-I.
-PROJECT DEVELOPMENT
+## 7.4. 
+
+I. PROJECT DEVELOPMENT
+
 Planning Phase.
 
 a. Proposed solution.
