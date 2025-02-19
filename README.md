@@ -312,4 +312,4 @@ c. Processes that will be covered with the Chatbot.
 The content that will be used in the Chatbot is important, so the procedures associated with Data Systematization Technology1 will be taken into account, which in turn are the same for telematics engineering:
 Validation request Cancellation of subjects Request for NO renewal of registration Request for voluntary withdrawal Grade sheets Study certificates, programmatic content (Syllabus), good conduct Formats Projects and Preliminary Projects - Schedules Format for adding and canceling subjects Deepening mode Completion of subjects Saber T and T exam Graduation ceremony 
 
-d. Chatbot Conversational Flow. See Annex A
+d. Chatbot Conversational Flow. See Annex A.
