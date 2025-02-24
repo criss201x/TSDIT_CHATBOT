@@ -312,3 +312,128 @@ c. Processes that will be covered with the Chatbot.
 The content that will be used in the Chatbot is important, so the procedures associated with Data Systematization Technology1 will be taken into account, which in turn are the same for telematics engineering:
 Validation request Cancellation of subjects Request for NO renewal of registration Request for voluntary withdrawal Grade sheets Study certificates, programmatic content (Syllabus), good conduct Formats Projects and Preliminary Projects - Schedules Format for adding and canceling subjects Deepening mode Completion of subjects Saber T and T exam Graduation ceremony 
 
+
+Application Architecture.
+In the design phase, it is essential to structure the Chatbot architecture
+where each of its components must be identified and defined. The Rasa Open Source tool suite will be
+used for the creation, operation and training of the model. The components include
+Rasa SDK, Rasa Core and Rasa NLU.
+For the Tracker Store, Mongo DB will be implemented to save the flow and
+history of conversations, so the MongoTrackerStore file must be used. For the storage of training data and
+trained models, it will be done in the Filesystem.
+The main components in the architecture are:
+•Natural language understanding (NLU) – NLU Pipeline, which is responsible for
+interpreting the user's intention from the natural language that he uses.
+•Dialog management – ​​Dialogue Policies, which is responsible for maintaining a coherent
+conversational flow for the user.
+
+Figure 10: Proposed Chatbot Prototype Architecture.
+Based on: https://learning.rasa.com/conversational-ai-with-rasa/website-integration/
+
+b. Process Modeling.
+In the planning phase in item c. Processes to be covered with the
+Chatbot, the processes to be implemented for the development of the
+Chatbot were defined, aligned with the statement of the problem, a joint
+interview of data systematization technology and telematics engineering
+is developed.
+The objective of the interview is to document and analyze the process of managing
+procedures that are currently handled by coordination and thus be able to
+identify the areas of improvement for the attention of the same. This will help
+improve the efficiency and effectiveness of the process, as well as the experience of the
+end user who are the students. In general, the entire process is covered, from the reception of the application to the final response for the student, so the following scope is determined in the resolution of frequently asked questions about procedures:
+•
+Guidance to students on the processes to follow to resolve their concerns.
+
+
+
+•
+Provide updated information on
+the documentation required for each procedure.
+dates,
+requirements, and
+During the interview, the most relevant points to take into account
+in the development of the Chatbot were identified:
+•It must be initially taken into account that the curricular project has
+grown, there are more students and the same people who attend to the
+requests. The scope is justified due to the number of requests.
+•As a consequence of the pandemic, students want an
+immediate response, however, the capacity is not sufficient since
+not only requests from the curricular project are attended to but also
+from other departments.
+•For the professional and administrative support assistant of the curricular
+project, the Chatbot proposal is interesting, according to what is
+published on the procedures page and taking this information as a
+base is important. Because students do not read, in the implementation of the Chatbot there should not be much text, that is, the
+questions and answers should be very clear and concise.
+•The coordination sends communications to the students via email, for example, the schedules, but despite
+having the information in the email, the students do not read it,
+consequently, they cause loss of time for the professional and administrative
+support assistant, since information that the students already have must be repeated. The Chatbot would support the students to
+have faster access to the information.
+•To update the Chatbot information, an administrator profile must be established,
+since modifications must be made annually, such as the dates of the preliminary project schedules, the
+financial values, and who and how could configure it. There would be a rules engine, the
+Chatbot that will be built is based on artificial intelligence
+techniques, the Framework that will be used makes sufficient abstractions
+so that anyone with basic programming knowledge can update the rules and their responses.
+
+•Returning to the main scope of the Chatbot, such as the resolution of
+frequently asked questions, many students might think that they can
+do a complete procedure, such as canceling a subject. But this is a procedure that involves sending
+documentation and receiving a response to the process, it is a process that must be
+executed step by step. But for this type of process it is not covered
+by the Chatbot, however, the Chatbot will have the necessary information
+so that the student can ask all the possible questions regarding that
+process.
+•The resolution of queries with extensive processes where documentation validations and the like must
+be done, is an administrative issue and could not be within the scope of the Chatbot,
+however, the objective is to handle all those frequently asked questions
+by providing the necessary guidelines so that the student can carry out the
+procedure. •Returning to the lack of reading of the students, they sometimes
+confuse the study certificates with the grade certificate, if a deposit must be made, for example, the students only
+focus on the price, but do not read that in addition to the deposit support, the email must be sent to the academic secretary but they do not
+do it. The response has to be punctual, it cannot be done with the
+totality of the processes because there are processes that are complex, for
+example, the process of the completed degrees.
+•As a fundamental part for the Chatbot, and based on the
+previous points, a knowledge base of all these procedures must be created, identifying if there is any other process that requires
+some adjustment or some update. It should be one of the great milestones
+of the Chatbot, to configure the parameters and rules. To update these
+rules each semester, the administrator in charge at the beginning of the semester,
+each time the academic calendar is established, updates the rules from a simple, intuitive and easy-to-use user application.
+•The professional and administrative support assistant will
+share the templates of how emails are currently being answered, and use them as a basis for building the
+
+
+responses to the procedures. The text of the responses should not be too
+extensive.
+Within the information gathering, the processes to be taken into account
+in the management of procedures in the Chatbot were identified:
+•
+Receiving requests:
+o The student will initiate the interaction with the Chatbot through a
+text message or a query.
+o The Chatbot asks the student for the information necessary to carry
+out the procedure.
+o The Chatbot identifies the type of procedure that the student is requesting.
+o The Chatbot validates the information provided by the student. If the
+question emphasizes a previously configured procedure, the
+Chatbot proceeds to give a response; if the information is incorrect,
+the Chatbot asks the student to correct the query.
+•
+Guide:
+o The Chatbot provides the student with instructions on how to
+carry out the procedure for which he or she asked.
+o The Chatbot can direct the student to additional resources, such as
+web pages or information documents. •
+Considerations:
+o Develop the Chatbot prototype that includes the basic processes of procedures.
+o The Chatbot must be able to learn and adapt to the questions and
+requests of the students.
+o It is important to establish a management plan to keep the Chatbot updated and functional.
+o Evaluate the prototype to identify areas of improvement.
+•
+Additional resources:
+o Response templates to emails about procedures will be shared.
+
+Knowledge base of administrative procedures.
