@@ -427,13 +427,13 @@ carry out the procedure for which he or she asked.
 o The Chatbot can direct the student to additional resources, such as
 web pages or information documents. •
 Considerations:
-o Develop the Chatbot prototype that includes the basic processes of procedures.
-o The Chatbot must be able to learn and adapt to the questions and
-requests of the students.
-o It is important to establish a management plan to keep the Chatbot updated and functional.
-o Evaluate the prototype to identify areas of improvement.
-•
-Additional resources:
+
+o Develop the Chatbot prototype that includes the basic processes of procedures. o The Chatbot must be able to learn and adapt to the questions and
+requests of the students. o It is important to establish a management plan to keep the Chatbot updated and functional. o Evaluate the prototype to identify areas of improvement.
+
+• Additional resources:
+
 o Response templates to emails about procedures will be shared.
+
 
 Knowledge base of administrative procedures.
