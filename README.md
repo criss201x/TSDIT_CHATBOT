@@ -409,17 +409,11 @@ responses to the procedures. The text of the responses should not be too
 extensive.
 Within the information gathering, the processes to be taken into account
 in the management of procedures in the Chatbot were identified:
-•
-Receiving requests:
-o The student will initiate the interaction with the Chatbot through a
-text message or a query.
-o The Chatbot asks the student for the information necessary to carry
-out the procedure.
-o The Chatbot identifies the type of procedure that the student is requesting.
-o The Chatbot validates the information provided by the student. If the
-question emphasizes a previously configured procedure, the
-Chatbot proceeds to give a response; if the information is incorrect,
-the Chatbot asks the student to correct the query.
+• Receiving requests: 
+
+o The student will initiate the interaction with the Chatbot through a text message or a query. o The Chatbot asks the student for the information necessary to carry out the procedure.
+
+o The Chatbot identifies the type of procedure that the student is requesting. o The Chatbot validates the information provided by the student. If the question emphasizes a previously configured procedure, the Chatbot proceeds to give a response; if the information is incorrect, the Chatbot asks the student to correct the query.
 
 • Guide:
 
@@ -427,8 +421,7 @@ o The Chatbot provides the student with instructions on how to carry out the pro
 
 • Considerations:
 
-o Develop the Chatbot prototype that includes the basic processes of procedures. o The Chatbot must be able to learn and adapt to the questions and
-requests of the students. o It is important to establish a management plan to keep the Chatbot updated and functional. o Evaluate the prototype to identify areas of improvement.
+o Develop the Chatbot prototype that includes the basic processes of procedures. o The Chatbot must be able to learn and adapt to the questions and requests of the students. o It is important to establish a management plan to keep the Chatbot updated and functional. o Evaluate the prototype to identify areas of improvement.
 
 • Additional resources:
 
