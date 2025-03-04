@@ -404,11 +404,8 @@ each time the academic calendar is established, updates the rules from a simple,
 •The professional and administrative support assistant will
 share the templates of how emails are currently being answered, and use them as a basis for building the
 
+responses to the procedures. The text of the responses should not be too extensive. Within the information gathering, the processes to be taken into account in the management of procedures in the Chatbot were identified:
 
-responses to the procedures. The text of the responses should not be too
-extensive.
-Within the information gathering, the processes to be taken into account
-in the management of procedures in the Chatbot were identified:
 • Receiving requests: 
 
 o The student will initiate the interaction with the Chatbot through a text message or a query. o The Chatbot asks the student for the information necessary to carry out the procedure.
