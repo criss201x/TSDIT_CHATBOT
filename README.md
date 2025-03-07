@@ -395,14 +395,8 @@ focus on the price, but do not read that in addition to the deposit support, the
 do it. The response has to be punctual, it cannot be done with the
 totality of the processes because there are processes that are complex, for
 example, the process of the completed degrees.
-•As a fundamental part for the Chatbot, and based on the
-previous points, a knowledge base of all these procedures must be created, identifying if there is any other process that requires
-some adjustment or some update. It should be one of the great milestones
-of the Chatbot, to configure the parameters and rules. To update these
-rules each semester, the administrator in charge at the beginning of the semester,
-each time the academic calendar is established, updates the rules from a simple, intuitive and easy-to-use user application.
-•The professional and administrative support assistant will
-share the templates of how emails are currently being answered, and use them as a basis for building the
+
+•As a fundamental part for the Chatbot, and based on the previous points, a knowledge base of all these procedures must be created, identifying if there is any other process that requires some adjustment or some update. It should be one of the great milestones of the Chatbot, to configure the parameters and rules. To update these rules each semester, the administrator in charge at the beginning of the semester, each time the academic calendar is established, updates the rules from a simple, intuitive and easy-to-use user application. •The professional and administrative support assistant will share the templates of how emails are currently being answered, and use them as a basis for building the
 
 responses to the procedures. The text of the responses should not be too extensive. Within the information gathering, the processes to be taken into account in the management of procedures in the Chatbot were identified:
 
