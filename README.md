@@ -385,16 +385,8 @@ executed step by step. But for this type of process it is not covered
 by the Chatbot, however, the Chatbot will have the necessary information
 so that the student can ask all the possible questions regarding that
 process.
-•The resolution of queries with extensive processes where documentation validations and the like must
-be done, is an administrative issue and could not be within the scope of the Chatbot,
-however, the objective is to handle all those frequently asked questions
-by providing the necessary guidelines so that the student can carry out the
-procedure. •Returning to the lack of reading of the students, they sometimes
-confuse the study certificates with the grade certificate, if a deposit must be made, for example, the students only
-focus on the price, but do not read that in addition to the deposit support, the email must be sent to the academic secretary but they do not
-do it. The response has to be punctual, it cannot be done with the
-totality of the processes because there are processes that are complex, for
-example, the process of the completed degrees.
+
+•The resolution of queries with extensive processes where documentation validations and the like must be done, is an administrative issue and could not be within the scope of the Chatbot, however, the objective is to handle all those frequently asked questions by providing the necessary guidelines so that the student can carry out the procedure. •Returning to the lack of reading of the students, they sometimes confuse the study certificates with the grade certificate, if a deposit must be made, for example, the students only focus on the price, but do not read that in addition to the deposit support, the email must be sent to the academic secretary but they do not do it. The response has to be punctual, it cannot be done with the totality of the processes because there are processes that are complex, for example, the process of the completed degrees.
 
 •As a fundamental part for the Chatbot, and based on the previous points, a knowledge base of all these procedures must be created, identifying if there is any other process that requires some adjustment or some update. It should be one of the great milestones of the Chatbot, to configure the parameters and rules. To update these rules each semester, the administrator in charge at the beginning of the semester, each time the academic calendar is established, updates the rules from a simple, intuitive and easy-to-use user application. •The professional and administrative support assistant will share the templates of how emails are currently being answered, and use them as a basis for building the
 
