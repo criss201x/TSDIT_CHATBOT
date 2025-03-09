@@ -377,14 +377,7 @@ Chatbot that will be built is based on artificial intelligence
 techniques, the Framework that will be used makes sufficient abstractions
 so that anyone with basic programming knowledge can update the rules and their responses.
 
-•Returning to the main scope of the Chatbot, such as the resolution of
-frequently asked questions, many students might think that they can
-do a complete procedure, such as canceling a subject. But this is a procedure that involves sending
-documentation and receiving a response to the process, it is a process that must be
-executed step by step. But for this type of process it is not covered
-by the Chatbot, however, the Chatbot will have the necessary information
-so that the student can ask all the possible questions regarding that
-process.
+•Returning to the main scope of the Chatbot, such as the resolution of frequently asked questions, many students might think that they can do a complete procedure, such as canceling a subject. But this is a procedure that involves sending documentation and receiving a response to the process, it is a process that must be executed step by step. But for this type of process it is not covered by the Chatbot, however, the Chatbot will have the necessary information so that the student can ask all the possible questions regarding that process.
 
 •The resolution of queries with extensive processes where documentation validations and the like must be done, is an administrative issue and could not be within the scope of the Chatbot, however, the objective is to handle all those frequently asked questions by providing the necessary guidelines so that the student can carry out the procedure. •Returning to the lack of reading of the students, they sometimes confuse the study certificates with the grade certificate, if a deposit must be made, for example, the students only focus on the price, but do not read that in addition to the deposit support, the email must be sent to the academic secretary but they do not do it. The response has to be punctual, it cannot be done with the totality of the processes because there are processes that are complex, for example, the process of the completed degrees.
 
