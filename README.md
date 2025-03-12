@@ -365,11 +365,7 @@ project, the Chatbot proposal is interesting, according to what is
 published on the procedures page and taking this information as a
 base is important. Because students do not read, in the implementation of the Chatbot there should not be much text, that is, the
 questions and answers should be very clear and concise.
-•The coordination sends communications to the students via email, for example, the schedules, but despite
-having the information in the email, the students do not read it,
-consequently, they cause loss of time for the professional and administrative
-support assistant, since information that the students already have must be repeated. The Chatbot would support the students to
-have faster access to the information.
+•The coordination sends communications to the students via email, for example, the schedules, but despite having the information in the email, the students do not read it, consequently, they cause loss of time for the professional and administrative support assistant, since information that the students already have must be repeated. The Chatbot would support the students to have faster access to the information.
 
 • To update the Chatbot information, an administrator profile must be established, since modifications must be made annually, such as the dates of the preliminary project schedules, the financial values, and who and how could configure it. There would be a rules engine, the Chatbot that will be built is based on artificial intelligence techniques, the Framework that will be used makes sufficient abstractions so that anyone with basic programming knowledge can update the rules and their responses.
 
