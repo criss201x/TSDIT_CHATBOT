@@ -353,13 +353,9 @@ dates,
 requirements, and
 During the interview, the most relevant points to take into account
 in the development of the Chatbot were identified:
-•It must be initially taken into account that the curricular project has
-grown, there are more students and the same people who attend to the
-requests. The scope is justified due to the number of requests.
-•As a consequence of the pandemic, students want an
-immediate response, however, the capacity is not sufficient since
-not only requests from the curricular project are attended to but also
-from other departments. 
+
+
+•It must be initially taken into account that the curricular project has grown, there are more students and the same people who attend to the requests. The scope is justified due to the number of requests. •As a consequence of the pandemic, students want an immediate response, however, the capacity is not sufficient since not only requests from the curricular project are attended to but also from other departments. 
 
 • For the professional and administrative support assistant of the curricular project, the Chatbot proposal is interesting, according to what is published on the procedures page and taking this information as a base is important. Because students do not read, in the implementation of the Chatbot there should not be much text, that is, the questions and answers should be very clear and concise.
 
