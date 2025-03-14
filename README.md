@@ -346,13 +346,7 @@ Guidance to students on the processes to follow to resolve their concerns.
 
 
 
-•
-Provide updated information on
-the documentation required for each procedure.
-dates,
-requirements, and
-During the interview, the most relevant points to take into account
-in the development of the Chatbot were identified:
+• Provide updated information on the documentation required for each procedure. dates, requirements, and During the interview, the most relevant points to take into account in the development of the Chatbot were identified:
 
 
 •It must be initially taken into account that the curricular project has grown, there are more students and the same people who attend to the requests. The scope is justified due to the number of requests. •As a consequence of the pandemic, students want an immediate response, however, the capacity is not sufficient since not only requests from the curricular project are attended to but also from other departments. 
