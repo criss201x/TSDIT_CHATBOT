@@ -336,13 +336,10 @@ Chatbot, the processes to be implemented for the development of the
 Chatbot were defined, aligned with the statement of the problem, a joint
 interview of data systematization technology and telematics engineering
 is developed.
-The objective of the interview is to document and analyze the process of managing
-procedures that are currently handled by coordination and thus be able to
-identify the areas of improvement for the attention of the same. This will help
-improve the efficiency and effectiveness of the process, as well as the experience of the
-end user who are the students. In general, the entire process is covered, from the reception of the application to the final response for the student, so the following scope is determined in the resolution of frequently asked questions about procedures:
-•
-Guidance to students on the processes to follow to resolve their concerns.
+
+The objective of the interview is to document and analyze the process of managing procedures that are currently handled by coordination and thus be able to identify the areas of improvement for the attention of the same. This will help improve the efficiency and effectiveness of the process, as well as the experience of the end user who are the students. In general, the entire process is covered, from the reception of the application to the final response for the student, so the following scope is determined in the resolution of frequently asked questions about procedures:
+
+• Guidance to students on the processes to follow to resolve their concerns.
 
 
 
