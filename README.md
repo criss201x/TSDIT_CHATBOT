@@ -330,23 +330,17 @@ conversational flow for the user.
 Figure 10: Proposed Chatbot Prototype Architecture.
 Based on: https://learning.rasa.com/conversational-ai-with-rasa/website-integration/
 
-b. Process Modeling.
-In the planning phase in item c. Processes to be covered with the
-Chatbot, the processes to be implemented for the development of the
-Chatbot were defined, aligned with the statement of the problem, a joint
-interview of data systematization technology and telematics engineering
-is developed.
+b. Process Modeling. 
+
+In the planning phase in item c. Processes to be covered with the Chatbot, the processes to be implemented for the development of the Chatbot were defined, aligned with the statement of the problem, a joint interview of data systematization technology and telematics engineering is developed.
 
 The objective of the interview is to document and analyze the process of managing procedures that are currently handled by coordination and thus be able to identify the areas of improvement for the attention of the same. This will help improve the efficiency and effectiveness of the process, as well as the experience of the end user who are the students. In general, the entire process is covered, from the reception of the application to the final response for the student, so the following scope is determined in the resolution of frequently asked questions about procedures:
 
 • Guidance to students on the processes to follow to resolve their concerns.
 
-
-
 • Provide updated information on the documentation required for each procedure. dates, requirements, and During the interview, the most relevant points to take into account in the development of the Chatbot were identified:
 
-
-•It must be initially taken into account that the curricular project has grown, there are more students and the same people who attend to the requests. The scope is justified due to the number of requests. •As a consequence of the pandemic, students want an immediate response, however, the capacity is not sufficient since not only requests from the curricular project are attended to but also from other departments. 
+• It must be initially taken into account that the curricular project has grown, there are more students and the same people who attend to the requests. The scope is justified due to the number of requests. •As a consequence of the pandemic, students want an immediate response, however, the capacity is not sufficient since not only requests from the curricular project are attended to but also from other departments. 
 
 • For the professional and administrative support assistant of the curricular project, the Chatbot proposal is interesting, according to what is published on the procedures page and taking this information as a base is important. Because students do not read, in the implementation of the Chatbot there should not be much text, that is, the questions and answers should be very clear and concise.
 
@@ -379,6 +373,5 @@ o Develop the Chatbot prototype that includes the basic processes of procedures.
 • Additional resources:
 
 o Response templates to emails about procedures will be shared.
-
 
 Knowledge base of administrative procedures.
