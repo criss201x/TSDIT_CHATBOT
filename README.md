@@ -314,15 +314,11 @@ Validation request Cancellation of subjects Request for NO renewal of registrati
 
 
 Application Architecture.
-In the design phase, it is essential to structure the Chatbot architecture
-where each of its components must be identified and defined. The Rasa Open Source tool suite will be
-used for the creation, operation and training of the model. The components include
-Rasa SDK, Rasa Core and Rasa NLU.
-For the Tracker Store, Mongo DB will be implemented to save the flow and
-history of conversations, so the MongoTrackerStore file must be used. For the storage of training data and
-trained models, it will be done in the Filesystem.
-The main components in the architecture are:
+
+In the design phase, it is essential to structure the Chatbot architecture where each of its components must be identified and defined. The Rasa Open Source tool suite will be used for the creation, operation and training of the model. The components include Rasa SDK, Rasa Core and Rasa NLU. For the Tracker Store, Mongo DB will be implemented to save the flow and history of conversations, so the MongoTrackerStore file must be used. For the storage of training data and trained models, it will be done in the Filesystem. The main components in the architecture are:
+
 •Natural language understanding (NLU) – NLU Pipeline, which is responsible for interpreting the user's intention from the natural language that he uses.
+
 •Dialog management – ​​Dialogue Policies, which is responsible for maintaining a coherent conversational flow for the user.
 
 Figure 10: Proposed Chatbot Prototype Architecture.
