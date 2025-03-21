@@ -322,10 +322,8 @@ For the Tracker Store, Mongo DB will be implemented to save the flow and
 history of conversations, so the MongoTrackerStore file must be used. For the storage of training data and
 trained models, it will be done in the Filesystem.
 The main components in the architecture are:
-•Natural language understanding (NLU) – NLU Pipeline, which is responsible for
-interpreting the user's intention from the natural language that he uses.
-•Dialog management – ​​Dialogue Policies, which is responsible for maintaining a coherent
-conversational flow for the user.
+•Natural language understanding (NLU) – NLU Pipeline, which is responsible for interpreting the user's intention from the natural language that he uses.
+•Dialog management – ​​Dialogue Policies, which is responsible for maintaining a coherent conversational flow for the user.
 
 Figure 10: Proposed Chatbot Prototype Architecture.
 Based on: https://learning.rasa.com/conversational-ai-with-rasa/website-integration/
