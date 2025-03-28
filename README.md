@@ -367,5 +367,4 @@ o Develop the Chatbot prototype that includes the basic processes of procedures.
 • Additional resources:
 
 o Response templates to emails about procedures will be shared.
-
 Knowledge base of administrative procedures.
