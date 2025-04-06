@@ -366,5 +366,44 @@ o Develop the Chatbot prototype that includes the basic processes of procedures.
 
 • Additional resources:
 
-o Response templates to emails about procedures will be shared.
-Knowledge base of administrative procedures.
+o Response templates to emails about procedures will be shared. Knowledge base of administrative procedures.
+
+
+
+
+7.1. TECHNOLOGIES FOR PROJECT DEVELOPMENT
+
+The technologies used in the development of the project are listed below:
+•
+RASA: Rasa is an open-source platform for the development of chatbots and virtual assistants powered by conversational artificial intelligence.
+Noteworthy elements include Rasa offering an intuitive user interface that facilitates chatbot creation, scalability to support large conversation volumes, and the use of machine learning models that ensure the chatbot can accurately understand and respond to natural language. [28]
+•
+Python Virtual Environments: A Python virtual environment (venv) is a directory that contains a standalone installation of Python, along with the libraries and dependencies required by a specific project. It is like having a separate copy of Python for chatbot development. The benefits of using Virtual Environments for chatbot development include the fact that it has its own set of dependencies, which avoids conflicts between other projects. It guarantees operation in any environment with the correct Python configuration and libraries, which facilitates project management. [29]
+
+•
+Twilio: This is a platform that provides communication tools so that phone calls, text messages (SMS), chat, email, and other forms of communication can be incorporated into applications and websites. Twilio acts as an intermediary between any application and cellular telephone networks and messaging service providers. This is a de facto tool suggested by Rasa for managing communications with WhatsApp. The Twilio platform offers integration with the WhatsApp Business API, allowing users to leverage its benefits to improve communication, which is a fundamental part of chatbot development. [30]
+•
+Mongo DB: Mongo DB is an open-source, document-oriented NoSQL database written in C++. Unlike traditional relational databases that store information in tables with structured rows and columns, Mongo DB uses a flexible document model based on JSON (JavaScript Object Notation).
+In chatbot development, it is ideal for storing dynamic and constantly changing data such as conversational flow and conversation history records by storing them in JSON format. Due to its flexibility and scalability, it allows for fluid analysis and integration with frameworks such as Rasa for conversation development and analysis. [31]
+• Postgres: PostgreSQL is an open-source, robust, and scalable relational database management system (RDBMS), ideal for storing business rules and knowledge bases for chatbots. It allows you to organize information in tables with well-defined relationships, ensuring the accuracy and consistency of information through validation rules and restrictions. It provides high performance for reading and writing data, allowing for fast and efficient access to business rules and the knowledge base. [32]
+• Docker: This is an open-source platform that facilitates the development, execution, and deployment of applications, such as the Chatbot, through the use of containers.
+
+When developing the Chatbot, Docker provides an isolated environment where you can develop and test the application, along with all the necessary dependencies and configurations. You can ensure that the Chatbot works in various environments, facilitating integration and deployment on the WhatsApp messaging platform. [33]
+
+BERT: (Bidirectional Encoder Representations from) is a machine learning technique used to train natural language models (NLP). BERT is based on the Transformer architecture, which allows for bidirectional text processing, taking into account the full context of a sentence.
+With the goal of improving chatbot accuracy, this AI model will be used for chatbot training. [34]
+•
+DIETClassifier: (Dual Intent and Entity Transformer) is a multi-task natural language processing (NLP) model developed by Rasa NLU. Its main function is intent classification and entity extraction in dialog applications.
+This model is especially useful for enhancing chatbots, allowing them to understand and respond naturally to user queries.
+Intent classification is crucial for identifying the purpose or goal of a user's statement. [35]
+
+Django: A free and open-source web development framework based on Python, it provides a predefined structure and tools for building web applications faster and more efficiently.
+In chatbot development, based on Django and the REST Framework, it is a versatile tool, providing flexibility in supporting rules and allowing the chatbot to be adapted to different needs and scenarios. [36]
+•
+Ngrok: This tool allows a local server to be exposed to the Internet securely and temporarily. It works by creating a proxy server in the cloud, creating a secure tunnel between the computer and the server, and then providing a unique URL that can be used to access a local server from any web browser or application.
+
+In chatbot development, this tool will be used to expose the chatbot's messaging server to the Internet for the testing phase. [37]
+•
+AWS: Amazon Web Services, considered the most comprehensive and widely used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented.
+AWS offers a wide range of comprehensive services, ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is concerned with.
+AWS is a tool that will facilitate the pre-production deployment of the Chatbot, as the application will be packaged in a Docker container, and AWS offers this service. [38]
