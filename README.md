@@ -397,8 +397,7 @@ DIETClassifier: (Dual Intent and Entity Transformer) is a multi-task natural lan
 This model is especially useful for enhancing chatbots, allowing them to understand and respond naturally to user queries.
 Intent classification is crucial for identifying the purpose or goal of a user's statement. [35]
 
-Django: A free and open-source web development framework based on Python, it provides a predefined structure and tools for building web applications faster and more efficiently.
-In chatbot development, based on Django and the REST Framework, it is a versatile tool, providing flexibility in supporting rules and allowing the chatbot to be adapted to different needs and scenarios. [36]
+Django: A free and open-source web development framework based on Python, it provides a predefined structure and tools for building web applications faster and more efficiently. In chatbot development, based on Django and the REST Framework, it is a versatile tool, providing flexibility in supporting rules and allowing the chatbot to be adapted to different needs and scenarios. [36]
 •
 Ngrok: This tool allows a local server to be exposed to the Internet securely and temporarily. It works by creating a proxy server in the cloud, creating a secure tunnel between the computer and the server, and then providing a unique URL that can be used to access a local server from any web browser or application.
 
