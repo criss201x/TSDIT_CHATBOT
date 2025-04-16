@@ -390,9 +390,8 @@ When developing the Chatbot, Docker provides an isolated environment where you c
 
 BERT: (Bidirectional Encoder Representations from) is a machine learning technique used to train natural language models (NLP). BERT is based on the Transformer architecture, which allows for bidirectional text processing, taking into account the full context of a sentence.
 With the goal of improving chatbot accuracy, this AI model will be used for chatbot training. [34]
-• DIETClassifier: (Dual Intent and Entity Transformer) is a multi-task natural language processing (NLP) model developed by Rasa NLU. Its main function is intent classification and entity extraction in dialog applications.
-This model is especially useful for enhancing chatbots, allowing them to understand and respond naturally to user queries.
-Intent classification is crucial for identifying the purpose or goal of a user's statement. [35]
+
+• DIETClassifier: (Dual Intent and Entity Transformer) is a multi-task natural language processing (NLP) model developed by Rasa NLU. Its main function is intent classification and entity extraction in dialog applications. This model is especially useful for enhancing chatbots, allowing them to understand and respond naturally to user queries. Intent classification is crucial for identifying the purpose or goal of a user's statement. [35]
 
 Django: A free and open-source web development framework based on Python, it provides a predefined structure and tools for building web applications faster and more efficiently. In chatbot development, based on Django and the REST Framework, it is a versatile tool, providing flexibility in supporting rules and allowing the chatbot to be adapted to different needs and scenarios. [36]
 •
