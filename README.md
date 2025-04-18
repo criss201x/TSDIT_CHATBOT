@@ -374,11 +374,10 @@ o Response templates to emails about procedures will be shared. Knowledge base o
 7.1. TECHNOLOGIES FOR PROJECT DEVELOPMENT
 
 The technologies used in the development of the project are listed below:
-•
-RASA: Rasa is an open-source platform for the development of chatbots and virtual assistants powered by conversational artificial intelligence.
+
+• RASA: Rasa is an open-source platform for the development of chatbots and virtual assistants powered by conversational artificial intelligence.
 Noteworthy elements include Rasa offering an intuitive user interface that facilitates chatbot creation, scalability to support large conversation volumes, and the use of machine learning models that ensure the chatbot can accurately understand and respond to natural language. [28]
-•
-Python Virtual Environments: A Python virtual environment (venv) is a directory that contains a standalone installation of Python, along with the libraries and dependencies required by a specific project. It is like having a separate copy of Python for chatbot development. The benefits of using Virtual Environments for chatbot development include the fact that it has its own set of dependencies, which avoids conflicts between other projects. It guarantees operation in any environment with the correct Python configuration and libraries, which facilitates project management. [29]
+• Python Virtual Environments: A Python virtual environment (venv) is a directory that contains a standalone installation of Python, along with the libraries and dependencies required by a specific project. It is like having a separate copy of Python for chatbot development. The benefits of using Virtual Environments for chatbot development include the fact that it has its own set of dependencies, which avoids conflicts between other projects. It guarantees operation in any environment with the correct Python configuration and libraries, which facilitates project management. [29]
 
 • Twilio: This is a platform that provides communication tools so that phone calls, text messages (SMS), chat, email, and other forms of communication can be incorporated into applications and websites. Twilio acts as an intermediary between any application and cellular telephone networks and messaging service providers. This is a de facto tool suggested by Rasa for managing communications with WhatsApp. The Twilio platform offers integration with the WhatsApp Business API, allowing users to leverage its benefits to improve communication, which is a fundamental part of chatbot development. [30]
 • Mongo DB: Mongo DB is an open-source, document-oriented NoSQL database written in C++. Unlike traditional relational databases that store information in tables with structured rows and columns, Mongo DB uses a flexible document model based on JSON (JavaScript Object Notation).
