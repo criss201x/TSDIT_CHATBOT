@@ -366,11 +366,6 @@ o Develop the Chatbot prototype that includes the basic processes of procedures.
 
 • Additional resources:
 
-o Response templates to emails about procedures will be shared. Knowledge base of administrative procedures.
-
-
-
-
 7.1. TECHNOLOGIES FOR PROJECT DEVELOPMENT
 
 The technologies used in the development of the project are listed below:
