@@ -396,3 +396,4 @@ Django: A free and open-source web development framework based on Python, it pro
 In chatbot development, this tool will be used to expose the chatbot's messaging server to the Internet for the testing phase. [37]
 
 • AWS: Amazon Web Services, considered the most comprehensive and widely used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented. AWS offers a wide range of comprehensive services, ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is concerned with. AWS is a tool that will facilitate the pre-production deployment of the Chatbot, as the application will be packaged in a Docker container, and AWS offers this service. [38]
+
