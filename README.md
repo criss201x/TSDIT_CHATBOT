@@ -396,3 +396,29 @@ Django: A free and open-source web development framework based on Python, it pro
 In chatbot development, this tool will be used to expose the chatbot's messaging server to the Internet for the testing phase. [37]
 
 • AWS: Amazon Web Services, considered the most comprehensive and widely used cloud platform in the world; Instead of having physical servers to store data and run applications, these resources can be rented. AWS offers a wide range of comprehensive services, ranging from basic infrastructure to emerging technologies such as AI and machine learning, which is precisely what this project is concerned with. AWS is a tool that will facilitate the pre-production deployment of the Chatbot, as the application will be packaged in a Docker container, and AWS offers this service. [38]
+
+7.2. DEVELOPMENT METHODOLOGY
+
+7.2.1. Kanban
+In project management, the Kanban methodology has emerged as a tool that offers a comprehensive and effective perspective for the successful development and execution of projects. By providing a transparent and detailed view of the work process, Kanban is a valuable solution for managing tasks, optimizing time, and efficiently achieving goals.
+The Kanban methodology is a project management tool and is a great option for project development. This methodology offers a transparent way to manage tasks and visualize the completion process. This methodology helps prioritize tasks and manage time efficiently.
+The first step in implementing the Kanban methodology is to define the project workflow. To do this, a board must be created that is accessible to all team members. Each column of the board must correspond to a specific state of the task flow, from start to finish. It's important that the board has as many columns as the status of each task, so you can see the status of each activity.
+One of the unique features of the Kanban board is that it is continuous, unlike Scrum. As progress is made, new tasks accumulate in the initial section, and during regular meetings, they are prioritized and placed in the appropriate section. This board can be specific to a specific project or generic, depending on the team's needs.
+The second step in implementing the Kanban methodology is to visualize the phases of the production cycle. To do this, work is divided into different parts, which streamlines the production process. Each of these parts is written on a Post-it note and stuck on the board at the corresponding phase. These Post-its contain basic information so the team can quickly understand the total workload. Additionally, photos can be used to assign responsibilities, as well as cards in different shapes to provide feedback or indicate blockers.
+The goal of visualization is to provide maximum clarity on the work to be done, the tasks assigned to each team member, the priorities, and the assigned goal. This helps students have a clear idea of ​​what is expected of them and prioritize tasks based on importance and urgency.
+Finally, the third step in implementing the Kanban methodology in the project is to apply the motto "Stop Starting, Start Finishing." This means prioritizing work in progress rather than starting new tasks. Instead of jumping from one task to another, focus on completing tasks already in progress before moving on to new tasks. This helps avoid overwork and the accumulation of backlogs.
+The Kanban methodology proves to be an effective tool for managing undergraduate projects efficiently and transparently. This methodology can be applied to prioritize tasks, visualize the production process, and avoid overwork. With proper implementation, the Kanban methodology can help successfully complete the proposed project.
+[39]
+
+7.2.2. Workflow for project development using the Kanban methodology
+Phase 1: Planning
+•
+•
+•
+•
+Proposed solution: Define the chatbot solution to be developed, including its objectives and components.
+Chatbot requirements: Specify the chatbot's functionalities and features, including the scope.
+Processes to be covered: Identify the processes or procedures to be automated with the chatbot.
+Conversational flow: Design the chatbot's conversational flow.
+
+
