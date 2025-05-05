@@ -412,11 +412,10 @@ The Kanban methodology proves to be an effective tool for managing undergraduate
 
 7.2.2. Workflow for project development using the Kanban methodology
 Phase 1: Planning
-•
-•
+
 • Proposed solution: Define the chatbot solution to be developed, including its objectives and components.
 • Chatbot requirements: Specify the chatbot's functionalities and features, including the scope.
 • Processes to be covered: Identify the processes or procedures to be automated with the chatbot.
-Conversational flow: Design the chatbot's conversational flow.
+• Conversational flow: Design the chatbot's conversational flow.
 
 
