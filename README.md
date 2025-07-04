@@ -420,3 +420,60 @@ Phase 1: Planning
 • Chatbot requirements: Specify the chatbot's functionalities and features, including the scope.
 • Processes to be covered: Identify the processes or procedures to be automated with the chatbot.
 • Conversational flow: Design the chatbot's conversational flow
+
+
+Phase 2: Design
+
+• Application Architecture: Define the Chatbot's system architecture, including the different components and their interconnection.
+• Process Modeling: Document the processes or procedures that will be automated with the Chatbot.
+
+Phase 3: Development
+
+• Phase I: Chatbot Core Development
+- Development Environment: Configure the development environment for the Chatbot.
+- NLP Model Training: Train the Chatbot's artificial intelligence model for natural language understanding.
+- Input/Output Protocols: Select and implement the input and output protocols for the Chatbot.
+
+• Phase II: WhatsApp Integration Middleware Development
+- Communication Protocol and Channel: Select and implement the communication protocol for integration with WhatsApp.
+- Conversation Rules Management System: Design and develop an application for managing conversation rules.
+- Conversation Databases: Design and develop databases to store chatbot conversations and neural network training data.
+- Neural Network Training Data: Define information processing for model training.
+
+Phase 4: Functional Testing
+• Functional Testing: Perform unit tests to ensure consistency and fluidity in conversations.
+• Training Testing: Perform tests to evaluate chatbot performance.
+
+Phase 5: Implementation
+• Cloud Provider: Select a public cloud provider for chatbot deployment.
+• Service Deployment: Deploy chatbot services and obtain corresponding domains.
+• Technology Architecture: Define the technology architecture for chatbot deployment.
+• Documentation: Create the chatbot's technical and functional manual.
+
+7.4. PROJECT DEVELOPMENT
+I. Planning Phase
+
+a. Proposed Solution
+The proposed technological solution for the Chatbot aims to automate the management of frequently asked questions and their corresponding responses within the Data Systematization Technology and Telematics Engineering curriculum project. This will be achieved through the integration of a Chatbot into the WhatsApp instant messaging platform. The solution consists of the following components:
+
+✓ Scope analysis: A scope analysis will be conducted to define the Chatbot's functions and requirements, as well as to delimit the scope of the processes that will be automated by the Chatbot.
+
+✓ Design and implementation of software components: The software components necessary to integrate the Chatbot into WhatsApp will be designed and developed. These components will be implemented in a microservices architecture exposed through APIs developed in the Python programming language.
+
+✓ Data architecture: A data architecture will be designed and implemented to efficiently store conversations and the core of the response processing engine. The response processing engine will run adequately in a relational database such as PostgreSQL, but a non-relational database such as MongoDB can be used for conversations.
+
+✓ Training of the response processing model: The response processing model will be trained using as input a catalog of rules defined from an analysis of the requirements survey. This input source must have a specific format that can be synchronized with the semantic and syntactic patterns of the NLP technique used.
+
+✓ Functional testing: The chatbot will be evaluated in a question-based scenario with different users. If corrections and improvements are made, a continuous integration and continuous deployment (CI/CD) pipeline will be used, in accordance with DevOps best practices.
+
+✓ Deployment in a pre-production environment: The chatbot and its components will be deployed in an environment through a cloud infrastructure provider. A provider that offers the benefits of infrastructure as a service (IAAS) or platform as a service (PAAS) will be used, allowing for the generation of network infrastructure configurations.
+
+b. Define chatbot functions and requirements.
+
+The chatbot's main function is to automatically provide information and assistance to the user, with content that is understandable in a university context. The requirements should take into account that the chatbot's end users will primarily be students, faculty, and administrative staff.
+
+The current scope of the Chatbot is limited to internal university procedures, but it is anticipated that it may be used by external personnel in the future. Therefore, it is important to define the processes to be covered by the Chatbot, taking into account the current needs of these users.
+
+c. Processes to be covered by the Chatbot.
+
+The content to be used in the Chatbot is important, so the procedures associated with Data Systematization Technology1 will be taken into account, which are the same as those for telematics engineering:
