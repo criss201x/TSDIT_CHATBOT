@@ -476,4 +476,3 @@ The current scope of the Chatbot is limited to internal university procedures, b
 
 c. Processes to be covered by the Chatbot.
 
-The content to be used in the Chatbot is important, so the procedures associated with Data Systematization Technology1 will be taken into account, which are the same as those for telematics engineering:
