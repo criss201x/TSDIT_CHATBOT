@@ -474,4 +474,3 @@ The chatbot's main function is to automatically provide information and assistan
 
 The current scope of the Chatbot is limited to internal university procedures, but it is anticipated that it may be used by external personnel in the future. Therefore, it is important to define the processes to be covered by the Chatbot, taking into account the current needs of these users.
 
-c. Processes to be covered by the Chatbot.
