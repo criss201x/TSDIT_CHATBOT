@@ -473,4 +473,3 @@ b. Define chatbot functions and requirements.
 The chatbot's main function is to automatically provide information and assistance to the user, with content that is understandable in a university context. The requirements should take into account that the chatbot's end users will primarily be students, faculty, and administrative staff.
 
 The current scope of the Chatbot is limited to internal university procedures, but it is anticipated that it may be used by external personnel in the future. Therefore, it is important to define the processes to be covered by the Chatbot, taking into account the current needs of these users.
-
