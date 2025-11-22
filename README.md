@@ -471,4 +471,3 @@ The proposed technological solution for the Chatbot aims to automate the managem
 b. Define chatbot functions and requirements.
 
 The chatbot's main function is to automatically provide information and assistance to the user, with content that is understandable in a university context. The requirements should take into account that the chatbot's end users will primarily be students, faculty, and administrative staff.
-
